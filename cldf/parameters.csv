@@ -1,103 +1,103 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Portuguese_Gloss
-all,all,,,todo(s)
-ash,ash,,,ceniza
-bark,bark,,,corteza
-belly,belly,,,barriga
-big,big,,,grande
-bird,bird,,,pájaro
-bite,bite,,,morder
-black,black,,,negro
-blood,blood,,,sangre
-bone,bone,,,hueso
-breast1,breast_1,,,"seio, mama"
-breast2,breast_2,,,pecho
-burn1,burn_1,,,queimar-se
-burn2,burn_2,,,quemar
-claw,claw,,,uña
-cloud,cloud,,,nube
-cold,cold,,,frio
-come,come,,,venir
-die,die,,,"muerto, a"
-dog,dog,,,cão
-drink,drink,,,beber
-dryn,dry (N),,,secar
-ear,ear,,,oreja
-earth,earth,,,tierra
-eat,eat,,,comer
-egg,egg,,,huevo
-eye,eye,,,ojo
-feather,feather,,,pluma
-fire,fire,,,fuego
-fishn,fish (N),,,pez
-flesh,flesh,,,carne
-flyv,fly (V),,,volar
-foot,foot,,,pie
-full,full,,,"lleno, harto"
-give,give,,,dar
-good,good,,,bueno
-grease,grease,,,grasa
-green,green,,,verde
-hair,hair,,,cabello
-hand,hand,,,mano
-head,head,,,cabeza
-hear,hear,,,escuchar
-heart,heart,,,corazón
-horn,horn,,,cuerno
-hot,hot,,,caliente
-i,I,,,yo
-kill,kill,,,matar
-knee,knee,,,rodilla
-know,know,,,saber
-leaf,leaf,,,hoja
-lie,lie,,,descansar en hamaca
-liver,liver,,,hígado
-long,long,,,largo
-louse,louse,,,piojo
-manadultmale,man (adult male),,,hombre
-many,many,,,mucho
-moon,moon,,,luna
-mountain,mountain,,,montanha
-mouth,mouth,,,boca
-name,name,,,nombre
-neck,neck,,,cuello
-new,new,,,nuevo
-night,night,,,noche
-nose,nose,,,nariz
-not,not,,,não
-one,one,,,uno
-path,path,,,"camino, trocha"
-person,person,,,pessoas
-rain,rain,,,llovar
-red,red,,,rojo
-root,root,,,raiz
-round,round,,,redondo
-sand,sand,,,arena
-say,say,,,decir
-see,see,,,ver
-seed,seed,,,semilla
-sit,sit,,,sentarse
-skin,skin,,,piel
-sleep,sleep,,,dormir
-small,small,,,pequeño
-smoke,smoke,,,vapor
-stand,stand,,,pararse
-star,star,,,estrella
-stone,stone,,,piedra
-sun,sun,,,sol
-swim,swim,,,nader
-tail,tail,,,cola
-that,that,,,ese
-this,this,,,éste
-thouyou,"thou, you",,,usted pl.
-tongue,tongue,,,lengue de la boca
-tooth,tooth,,,diente
-treewood,"tree, wood",,,árbol
-two,two,,,dos
-walk,walk,,,caminar
-water,water,,,agua
-we,we,,,nosostros/nosostras
-what,what,,,qué
-white,white,,,blanco
-who,who,,,quién
-woman,woman,,,mujer
-yellow,yellow,,,amarillo
+i,I,1209,I,eu
+all,all,98,ALL,tudo
+ash,ash,646,ASH,cinza
+bark,bark,1204,BARK,casca
+belly,belly,1251,BELLY,barriga
+big,big,1202,BIG,ser grande
+bird,bird,937,BIRD,pássaro
+bite,bite,1403,BITE,morder
+black,black,163,BLACK,preto
+blood,blood,946,BLOOD,sangue
+bone,bone,1394,BONE,osso
+breast1,breast_1,1402,BREAST,seio
+breast2,breast_2,1402,BREAST,seio
+burn1,burn_1,2102,BURN,Epps
+burn2,burn_2,2102,BURN,queimar
+claw,claw,72,CLAW,unha
+cloud,cloud,1489,CLOUD,nuvem
+cold,cold,1287,COLD,frio
+come,come,1446,COME,vir
+die,die,1494,DIE,morrer
+dog,dog,2009,DOG,cachorro
+drink,drink,1401,DRINK,beber
+dryn,dry (N),1786,DRY UP,secar
+ear,ear,1247,EAR,orelha
+earth,earth,1228,EARTH (SOIL),chão
+eat,eat,1336,EAT,comer
+egg,egg,744,EGG,ovo
+eye,eye,1248,EYE,olho
+feather,feather,1201,FEATHER,pluma
+fire,fire,221,FIRE,fogo
+fishn,fish (N),227,FISH,peixe
+flesh,flesh,2259,FLESH,carne
+flyv,fly (V),1441,FLY (MOVE THROUGH AIR),voar
+foot,foot,1301,FOOT,pé
+full,full,1429,FULL,estar cheio
+give,give,1447,GIVE,dar
+good,good,1035,GOOD,bom
+grease,grease,323,FAT (ORGANIC SUBSTANCE),gordura
+green,green,1425,GREEN,verde
+hair,hair,1040,HAIR,pelo
+hand,hand,1277,HAND,mão
+head,head,1256,HEAD,cabeça
+hear,hear,1408,HEAR,escutar
+heart,heart,1223,HEART,coração
+horn,horn,1393,HORN (ANATOMY),chifre
+hot,hot,1286,HOT,quente
+kill,kill,1417,KILL,matar
+knee,knee,1371,KNEE,joelho
+know,know,1410,KNOW (SOMETHING),saber
+leaf,leaf,628,LEAF,folha
+lie,lie,215,LIE DOWN,deitar
+liver,liver,1224,LIVER,fígado
+long,long,1203,LONG,comprido
+louse,louse,1392,LOUSE,piolho
+manadultmale,man (adult male),1554,MAN,homem
+many,many,1198,MANY,muito
+moon,moon,1313,MOON,lua
+mountain,mountain,639,MOUNTAIN,montanha
+mouth,mouth,674,MOUTH,boca
+name,name,1405,NAME,nome
+neck,neck,1333,NECK,pescoço
+new,new,1231,NEW,novo
+night,night,1233,NIGHT,noite
+nose,nose,1221,NOSE,nariz
+not,not,1240,NOT,não
+one,one,1493,ONE,um
+path,path,2252,PATH,caminho
+person,person,683,PERSON,gente
+rain,rain,658,RAIN (PRECIPITATION),chuva
+red,red,156,RED,vermelho
+root,root,670,ROOT,raiz
+round,round,1395,ROUND,redondo
+sand,sand,671,SAND,areia
+say,say,1458,SAY,dizer
+see,see,1409,SEE,ver
+seed,seed,714,SEED,semente
+sit,sit,1416,SIT,jáʔakahe
+skin,skin,763,SKIN,mutum
+sleep,sleep,1585,SLEEP,dormir
+small,small,1246,SMALL,pequeno
+smoke,smoke,778,SMOKE (EXHAUST),nevoeiro
+stand,stand,1442,STAND,levantar-se
+star,star,1430,STAR,estrela
+stone,stone,857,STONE,pedra
+sun,sun,1343,SUN,sol
+swim,swim,1439,SWIM,nadar
+tail,tail,1220,TAIL,rabo
+that,that,78,THAT,esse
+this,this,1214,THIS,este
+thouyou,"thou, you",1215,THOU,vocês
+tongue,tongue,1205,TONGUE,língua
+tooth,tooth,1380,TOOTH,dente
+treewood,"tree, wood",906,TREE,árvore
+two,two,1498,TWO,dois
+walk,walk,1443,WALK,andar
+water,water,948,WATER,água
+we,we,1212,WE,nós
+what,what,1236,WHAT,nós
+white,white,1335,WHITE,branco
+who,who,1235,WHO,quem
+woman,woman,962,WOMAN,mulher
+yellow,yellow,1424,YELLOW,amarelo

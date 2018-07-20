@@ -6,7 +6,7 @@ Cite the source dataset as
 
 This dataset is licensed under a GPL-3.0 license
 
-Available online at https://github.com/digling/cddb/
+Available online at https://github.com/lexibank/chaconarawakan/
 
 ## Statistics
 

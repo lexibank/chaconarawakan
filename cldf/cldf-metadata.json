@@ -2,7 +2,7 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "https://github.com/digling/cddb/",
+    "dc:identifier": "https://github.com/lexibank/chaconarawakan/",
     "dc:license": [
         "GPL-3.0",
         "GNU General Public License v3.0 only",
@@ -18,8 +18,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.4.0-3-g5184141",
-                "glottolog_version": "v3.2-87-g800df1f"
+                "concepticon_version": "concepticon-data",
+                "glottolog_version": "glottolog"
             }
         }
     ],
@@ -121,7 +121,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 8,
+            "dc:extent": 10,
             "tableSchema": {
                 "columns": [
                     {

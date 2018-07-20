@@ -23,7 +23,6 @@ class Dataset(BaseDataset):
     concept_class = BDConcept
 
     def cmd_download(self, **kw):
-        #self.raw.write('sources.bib', getEvoBibAsBibtex('Cihui', **kw))
         pass
 
     def cmd_install(self, **kw):
@@ -51,27 +50,32 @@ class Dataset(BaseDataset):
         
 
         wl = lingpy.Wordlist(self.raw.posix('arawakan_swadesh_100_edictor.tsv'))
-
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
+            for l in self.languages:
+                ds.add_language(
+                    ID=slug(l['Name']),
+                    Name=l['Name'],
+                    Glottocode=l['Glottocode']
+                    )
+            for c in self.concepts:
+                ds.add_concept(
+                    ID=slug(c['ENGLISH']),
+                    Name=c['ENGLISH'],
+                    Concepticon_ID=c['CONCEPTICON_ID'],
+                    Portuguese_Gloss=c['PORTUGUESE']
+                    )
+
             for k in pb(wl, desc='wl-to-cldf'):
                 if wl[k, 'value']:
-                    ds.add_language(
-                        ID=wl[k, 'doculect'],
-                        Name=wl[k, 'doculect'],
-                        Glottocode='')
-                    ds.add_concept(
-                        ID=slug(wl[k, 'concept']),
-                        Name=wl[k, 'concept'],
-                        Concepticon_ID='',
-                        Portuguese_Gloss=wl[k, 'concept_spanish'])
                     for row in ds.add_lexemes(
-                        Language_ID=wl[k, 'doculect'],
+                        Language_ID=slug(wl[k, 'doculect']),
                         Parameter_ID=slug(wl[k, 'concept']),
                         Value=wl[k, 'value'],
                         Form=wl[k, 'form'],
                         Segments=wl[k, 'segments'],
                         Source=src.get(wl[k, 'source'], '')):
+                        
                         cid = slug(wl[k, 'concept'] + '-' + '{0}'.format(wl[k,
                             'cogid']))
                         ds.add_cognate(
@@ -79,4 +83,5 @@ class Dataset(BaseDataset):
                             Cognateset_ID=cid,
                             Source=['Chacon2017'],
                             Alignment=wl[k, 'alignment'],
-                            Alignment_Source='Chacon2017')
+                            Alignment_Source='Chacon2017'
+                            )
