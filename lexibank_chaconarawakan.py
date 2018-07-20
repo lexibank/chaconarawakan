@@ -15,7 +15,7 @@ from pylexibank.util import pb, getEvoBibAsBibtex
 
 @attr.s
 class BDConcept(Concept):
-    Portugues_Gloss = attr.ib(default=None)
+    Portuguese_Gloss = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -27,6 +27,29 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_install(self, **kw):
+
+        # sources are poorly annotated, so we need to correct manually
+        src = {
+            "H&R92": "huber_vocabulario_1991",
+            "Klumpp95": "",
+            "H&R 1992": "huber_vocabulario_1991",
+            "None": "",
+            "Melendez 2011": "melendez_lozano_diccionario_2011",
+            "Epps": "",
+            "Schauer2005": "",
+            "Allin 1979": "allin_vocabulario_1979",
+            "Aikhenvald": "",
+            "dp91": "",
+            "Aikhenvald 2012": "aikhenvald_dicionario_2012",
+            "Aikenvald2001": "aihenvald_dicionario_2001",
+            "Oliveira 93": "cunha_de_oliveira_uma_1993",
+            "Ramirez2001": "ramirez_dicionario_2001",
+            "Ramirez 2001": "ramirez_dicionario_2001",
+            "Schauer 2005": "schauer_diccionario_2005",
+            "Aikhenvald 2001": "aikhenvald_dicionario_2001"
+            }
+        
+
         wl = lingpy.Wordlist(self.raw.posix('arawakan_swadesh_100_edictor.tsv'))
 
         with self.cldf as ds:
@@ -48,11 +71,12 @@ class Dataset(BaseDataset):
                         Value=wl[k, 'value'],
                         Form=wl[k, 'form'],
                         Segments=wl[k, 'segments'],
-                        Source=''):
-                        cid = wl[k, 'concept'] + '-' + '{0}'.format(wl[k,
-                            'cogid'])
+                        Source=src.get(wl[k, 'source'], '')):
+                        cid = slug(wl[k, 'concept'] + '-' + '{0}'.format(wl[k,
+                            'cogid']))
                         ds.add_cognate(
                             lexeme=row,
                             Cognateset_ID=cid,
                             Source=['Chacon2017'],
-                            Alignment_Source='')
+                            Alignment=wl[k, 'alignment'],
+                            Alignment_Source='Chacon2017')
