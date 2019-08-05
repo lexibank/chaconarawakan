@@ -8,6 +8,9 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at https://github.com/lexibank/chaconarawakan/
 
+Conceptlists in Concepticon:
+- [Chacon-2017-102](http://concepticon.clld.org/contributions/Chacon-2017-102)
+
 ## Statistics
 
 
