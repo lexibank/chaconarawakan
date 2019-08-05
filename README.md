@@ -11,7 +11,7 @@ Available online at https://github.com/lexibank/chaconarawakan/
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/lexibank/chaconarawakan.svg?branch=master)](https://travis-ci.org/lexibank/chaconarawakan)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 46%](https://img.shields.io/badge/Source-46%25-red.svg "Source: 46%")
