@@ -42,22 +42,26 @@ class Dataset(BaseDataset):
         wl = lingpy.Wordlist(self.raw.posix("arawakan_swadesh_100_edictor.tsv"))
 
         with self.cldf as ds:
+            concepts = {}
             ds.add_sources(*self.raw.read_bib())
+
             for l in self.languages:
                 ds.add_language(ID=slug(l["Name"]), Name=l["Name"], Glottocode=l["Glottocode"])
-            for c in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=slug(c["ENGLISH"]),
-                    Name=c["ENGLISH"],
-                    Concepticon_ID=c["CONCEPTICON_ID"],
-                    Portuguese_Gloss=c["PORTUGUESE"],
+                    ID=concept.id,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Portuguese_Gloss=concept.attributes["portuguese"],
                 )
+                concepts[slug(concept.english)] = concept.id
 
             for k in pb(wl, desc="wl-to-cldf"):
                 if wl[k, "value"]:
                     for row in ds.add_lexemes(
                         Language_ID=slug(wl[k, "doculect"]),
-                        Parameter_ID=slug(wl[k, "concept"]),
+                        Parameter_ID=concepts[slug(wl[k, "concept"])],
                         Value=wl[k, "value"],
                         Form=wl[k, "form"],
                         Segments=wl[k, "segments"],
