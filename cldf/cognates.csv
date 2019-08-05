@@ -1,712 +1,712 @@
 ID,Form_ID,Form,Cognateset_ID,Doubt,Cognate_Detection_Method,Source,Alignment,Alignment_Method,Alignment_Source
-1,1,kinínama,all9,false,expert,Chacon2017,,,Chacon2017
-2,2,phálhai,all11,false,expert,Chacon2017,p h   á   l h   a   (   -   i   ),,Chacon2017
-3,3,put'i,all17,false,expert,Chacon2017,,,Chacon2017
-4,4,canánama,all9,false,expert,Chacon2017,,,Chacon2017
-5,5,macáita,all18,false,expert,Chacon2017,,,Chacon2017
-6,6,phé?tó?,all17,false,expert,Chacon2017,,,Chacon2017
-7,7,piyukeja,all17,false,expert,Chacon2017,,,Chacon2017
-8,8,báali,ash27,false,expert,Chacon2017,-   b   a :   -   -   l   i   -   -   -   -,,Chacon2017
-9,9,-wádzole,ash26,false,expert,Chacon2017,,,Chacon2017
-10,10,pa'ari,ash27,false,expert,Chacon2017,-   p   a   ʔ   a   r   i   -   -   -   -,,Chacon2017
-11,11,balìi,ash27,false,expert,Chacon2017,-   b   a   -   -   l   ì   -   i   -   -,,Chacon2017
-12,12,ibalìiná,ash27,false,expert,Chacon2017,i   b   a   -   -   l   ì   -   i   n   á,,Chacon2017
-13,13,ókóniigiJíhú,ash25,false,expert,Chacon2017,,,Chacon2017
-14,14,pai'ilá,ash27,false,expert,Chacon2017,-   p   a   -   i   ʔ   i   -   -   l   á,,Chacon2017
-15,15,íimanaʃi,bark37,false,expert,Chacon2017,-   -   -   -   -   i :   -   m   a   -   -   -   n   a   (   ʃ   i   ),,Chacon2017
-16,16,-ya,bark30,false,expert,Chacon2017,,,Chacon2017
-17,17,da?mí,bark37,false,expert,Chacon2017,-   -   -   -   -   -   -   d   a   ʔ   m   í   -   -   (   -   -   ),,Chacon2017
-18,18,ímaji,bark37,false,expert,Chacon2017,-   -   -   -   -   í   -   m   a   h   -   i   -   -   (   -   -   ),,Chacon2017
-19,19,jawaiʃi,belly39,false,expert,Chacon2017,,,Chacon2017
-20,20,-xáda,belly48,false,expert,Chacon2017,(   -   -   )   -   -   ʃ   á   d   a   -   -,,Chacon2017
-21,21,te[re],belly46,false,expert,Chacon2017,(   -   -   )   t   e   r   e,,Chacon2017
-22,22,dèe,belly46,false,expert,Chacon2017,(   -   -   )   d   è   -   e,,Chacon2017
-23,23,-ii?šáú,belly48,false,expert,Chacon2017,(   -   -   )   i i   ʔ   š   á   -   -   -   ú,,Chacon2017
-24,24,julaji,belly47,false,expert,Chacon2017,,,Chacon2017
-25,25,máanuii,big58,false,expert,Chacon2017,m   a a   n   u   -   i i   -   -,,Chacon2017
-26,26,maka-,big50,false,expert,Chacon2017,,,Chacon2017
-27,27,manuʔú,big58,false,expert,Chacon2017,m   a   n   u   ʔ   ú   -   -,,Chacon2017
-28,28,manuíri,big58,false,expert,Chacon2017,m   a   n   u   -   í   ɾ   i,,Chacon2017
-29,29,ǰiǰá?aamí,big54,false,expert,Chacon2017,,,Chacon2017
-30,30,ñópo'ojlo,big57,false,expert,Chacon2017,,,Chacon2017
-31,31,míʃidu,bird66,false,expert,Chacon2017,m   í   ʃ   i   -   -   -   d   u,,Chacon2017
-32,32,képira,bird67,false,expert,Chacon2017,,,Chacon2017
-33,33,ʔupira,bird67,false,expert,Chacon2017,,,Chacon2017
-34,34,ku(' )pira,bird67,false,expert,Chacon2017,,,Chacon2017
-35,35,màsibèe,bird66,false,expert,Chacon2017,m   à   s   i   b   è   e   -   -,,Chacon2017
-36,36,kuìpìra,bird67,false,expert,Chacon2017,,,Chacon2017
-37,37,kóʔpíidú,bird67,false,expert,Chacon2017,,,Chacon2017
-38,38,adovíigí,bird70,false,expert,Chacon2017,,,Chacon2017
-39,39,kupira'aphá,bird67,false,expert,Chacon2017,,,Chacon2017
-40,40,-ámua,bite79,false,expert,Chacon2017,(   -   -   )   á   -   m   u   -   -   a   -   -   -   -   -,,Chacon2017
-41,41,-mhoa,bite79,false,expert,Chacon2017,(   -   -   )   -   -   m h   o   -   -   a   -   -   -   -   -,,Chacon2017
-42,42,amhe,bite79,false,expert,Chacon2017,(   -   -   )   a   -   m h   e   -   -   -   -   -   -   -   -,,Chacon2017
-43,43,ichicúadaca,bite75,false,expert,Chacon2017,,,Chacon2017
-44,44,imasáaca,bite79,false,expert,Chacon2017,(   -   -   )   -   i   m   a   -   s   á   a   k   a   -   -,,Chacon2017
-45,45,nuamíadaca,bite79,false,expert,Chacon2017,(   n   u   )   a   -   m   í   a   d   a   -   k   a   -   -,,Chacon2017
-46,46,yaamíaca,bite79,false,expert,Chacon2017,(   -   j   )   a a   -   m   í   -   -   a   -   k   a   -   -,,Chacon2017
-47,47,yúucaca,bite83,false,expert,Chacon2017,,,Chacon2017
-48,48,-emú,bite79,false,expert,Chacon2017,(   -   -   )   -   e   m   ú   -   -   -   -   -   -   -   -,,Chacon2017
-49,49,ajma'akaje,bite79,false,expert,Chacon2017,(   -   -   )   a   h   m   a   -   ʔ   a   -   k   a   h   e,,Chacon2017
-50,50,katʃáhulailau,black89,false,expert,Chacon2017,k   a   t ʃ   a   h   u   -   l   a   i   l   a   u,,Chacon2017
-51,51,íitta,black86,false,expert,Chacon2017,í   i   t t   a   -,,Chacon2017
-52,52,kewere-ri,black88,false,expert,Chacon2017,k   e   w   e   r   e   r   i,,Chacon2017
-53,53,cúulíiri,black88,false,expert,Chacon2017,k   -   ú :   -   l   í :   ɾ   i,,Chacon2017
-54,54,tsaphó?,black89,false,expert,Chacon2017,-   -   t s   a   p h   ó   ʔ   -   -   -   -   -   -,,Chacon2017
-55,55,kameni,black91,false,expert,Chacon2017,,,Chacon2017
-56,56,íirai,blood97,false,expert,Chacon2017,-   -   i i   r   a   -   i   -   -,,Chacon2017
-57,57,-iiranaa,blood97,false,expert,Chacon2017,-   -   i i   r   a   -   -   n   a a,,Chacon2017
-58,58,íʔira,blood97,false,expert,Chacon2017,í   ʔ   i   r   a   -   -   -   -,,Chacon2017
-59,59,irái,blood97,false,expert,Chacon2017,-   -   i   ɾ   á   -   i   -   -,,Chacon2017
-60,60,-iidú,blood97,false,expert,Chacon2017,-   -   i i   d   ú   -   -   -   -,,Chacon2017
-61,61,íraji,blood97,false,expert,Chacon2017,-   -   í   ɾ   a   h   i   -   -,,Chacon2017
-62,62,jirá,blood97,false,expert,Chacon2017,-   h   i   ɾ   á   -   -   -   -,,Chacon2017
-63,63,jáhiʃi,bone108,false,expert,Chacon2017,(   -   -   )   j   a   -   -   h   i   -   (   ʃ   i   -   -   -   -   ),,Chacon2017
-64,64,-áapi,bone108,false,expert,Chacon2017,(   -   -   )   -   á   -   a   p   i   -   (   -   -   -   -   -   -   ),,Chacon2017
-65,65,japi,bone108,false,expert,Chacon2017,(   -   -   )   j   -   -   a   p   i   -   (   -   -   -   -   -   -   ),,Chacon2017
-66,66,api,bone108,false,expert,Chacon2017,(   -   -   )   -   -   -   a   p   i   -   (   -   -   -   -   -   -   ),,Chacon2017
-67,67,aápí,bone108,false,expert,Chacon2017,(   -   -   )   -   a   -   á   p   í   -   (   -   -   -   -   -   -   ),,Chacon2017
-68,68,aphinámiji,bone108,false,expert,Chacon2017,(   -   -   )   -   -   -   a   p ʰ   i   -   (   n   á   m   i   h   i   ),,Chacon2017
-69,69,-íini,breast1117,false,expert,Chacon2017,,,Chacon2017
-70,70,ìni,breast1117,false,expert,Chacon2017,,,Chacon2017
-71,71,kútaʃi,breast2120,false,expert,Chacon2017,-   -   -   -   k   u   t   a   ʃ   i   -   -   -,,Chacon2017
-72,72,ji,breast2117,false,expert,Chacon2017,,,Chacon2017
-73,73,ukhu(ta),breast2120,false,expert,Chacon2017,-   -   u   -   k h   u   t   a   -   -   -   -   -,,Chacon2017
-74,74,ucuta,breast2120,false,expert,Chacon2017,-   -   u   -   k   u   t   a   -   -   -   -   -,,Chacon2017
-75,75,ó?kótáapígú,breast2120,false,expert,Chacon2017,-   -   ó   ʔ   k   ó   t   á   a   p   í   g   ú,,Chacon2017
-76,76,chu'uchú,breast23,false,expert,Chacon2017,-   -   t ʃ   u   ʔ   u   t ʃ   ú,,Chacon2017
-77,77,-haaka,burn1129,false,expert,Chacon2017,h   a a   k   a   -   -   -   -   -   -   -   -,,Chacon2017
-78,78,kára'akaje,burn1129,false,expert,Chacon2017,-   -   k   á   r   a   ʔ   a   k   a   h   e,,Chacon2017
-79,79,éemairi,burn2130,false,expert,Chacon2017,(   -   -   )   -   e :   m   a   i   r   i   -   -   -   -,,Chacon2017
-80,80,-ma,burn2130,false,expert,Chacon2017,(   -   -   )   -   -   m   a   -   -   -   -   -   -   -,,Chacon2017
-81,81,kahema,burn2130,false,expert,Chacon2017,(   k   a   )   h   e   m   a   -   -   -   -   -   -   -,,Chacon2017
-82,82,heema,burn2130,false,expert,Chacon2017,(   -   -   )   h   e e   m   a   -   -   -   -   -   -   -,,Chacon2017
-83,83,emáca,burn2130,false,expert,Chacon2017,(   -   -   )   -   e   m   á   k   a   -   -   -   -   -,,Chacon2017
-84,84,hoo-khú,burn2129,false,expert,Chacon2017,h   o o   k ʰ   ú   -   -   -   -   -   -   -   -,,Chacon2017
-85,85,méniketa,burn2130,false,expert,Chacon2017,(   -   -   )   -   -   m   é   -   n   i   k   e   t   a,,Chacon2017
-86,86,júbawiaʃi,claw138,false,expert,Chacon2017,-   -   j   u   -   -   b   a   w   i   a   ʃ   i,,Chacon2017
-87,87,-tsóta,claw140,false,expert,Chacon2017,,,Chacon2017
-88,88,u'upa,claw138,false,expert,Chacon2017,-   -   -   u   ʔ   u   p   a   -   -   -   -   -,,Chacon2017
-89,89,yúuba,claw138,false,expert,Chacon2017,-   -   y   ú   -   u   b   a   -   -   -   -   -,,Chacon2017
-90,90,uba,claw138,false,expert,Chacon2017,-   -   -   -   -   u   b   a   -   -   -   -   -,,Chacon2017
-91,91,hi?táví,claw140,false,expert,Chacon2017,,,Chacon2017
-92,92,u'upa,claw138,false,expert,Chacon2017,-   -   -   u   ʔ   u   p   a   -   -   -   -   -,,Chacon2017
-93,93,sáanai,cloud143,false,expert,Chacon2017,,,Chacon2017
-94,94,eenótona,cloud144,false,expert,Chacon2017,,,Chacon2017
-95,95,idzadawäka,cloud152,false,expert,Chacon2017,-   i   d z   a   d   a   w   a   k   a,,Chacon2017
-96,96,acalèe,cloud150,false,expert,Chacon2017,-   -   -   -   -   -   -   -   a   k   a   -   -   l   è   e,,Chacon2017
-97,97,iítshú,cloud152,false,expert,Chacon2017,i   í   t s h   ú   -   -   -   -   -   -,,Chacon2017
-98,98,[juni] juwáka'ala,cloud150,false,expert,Chacon2017,h   u   n   i   _   h   u   w   á   k   a   ʔ   a   l   a   -,,Chacon2017
-99,99,kasáIinii,cold153,false,expert,Chacon2017,,,Chacon2017
-100,100,hápe,cold165,false,expert,Chacon2017,-   -   h   á   -   p   e   -   -   -   -,,Chacon2017
-101,101,peʔe,cold165,false,expert,Chacon2017,-   -   -   -   -   p   e   ʔ   e   -   -,,Chacon2017
-102,102,casalíníiri,cold153,false,expert,Chacon2017,,,Chacon2017
-103,103,hi?píí?,cold165,false,expert,Chacon2017,-   -   h   i   ʔ   p   í í   ʔ   -   -   -,,Chacon2017
-104,104,taa,cold5,false,expert,Chacon2017,t   a a   -   -   -   -   -   -   -   -   -,,Chacon2017
-105,105,ipe'ení,cold165,false,expert,Chacon2017,-   i   p   e   -   ʔ   e   n   í   -   -,,Chacon2017
-106,106,íinueri,come169,false,expert,Chacon2017,i :   -   -   n   u   e   r   i   -   -   -   -   -   -   -   -   -   -,,Chacon2017
-107,107,-no,come169,false,expert,Chacon2017,-   -   -   n   o   -   -   -   -   -   -   -   -   -   -   -   -   -,,Chacon2017
-108,108,mira(a)ni,come7,false,expert,Chacon2017,,,Chacon2017
-109,109,anaa,come169,false,expert,Chacon2017,-   a   -   n   -   a a   -   -   -   -   -   -   -   -   -   -   -   -,,Chacon2017
-110,110,nùacawa néese,come169,false,expert,Chacon2017,-   -   -   n   ù   a   -   -   k   a   w   a   _   n   é   e   s   e,,Chacon2017
-111,111,tsa?nú,come169,false,expert,Chacon2017,t s   a   ʔ   n   ú   -   -   -   -   -   -   -   -   -   -   -   -   -,,Chacon2017
-112,112,iphakaje,come173,false,expert,Chacon2017,,,Chacon2017
-113,113,waícha,come175,false,expert,Chacon2017,,,Chacon2017
-114,114,-wína,come7,false,expert,Chacon2017,,,Chacon2017
-115,115,wádi!,come175,false,expert,Chacon2017,,,Chacon2017
-116,116,máanalii,die177,false,expert,Chacon2017,,,Chacon2017
-117,117,malíome,die178,false,expert,Chacon2017,,,Chacon2017
-118,118,mikuu,die180,false,expert,Chacon2017,-   -   m   i   k   u u,,Chacon2017
-119,119,étácawa,die185,false,expert,Chacon2017,é   t   á   k   a   w   a   -   -   -   -,,Chacon2017
-120,120,kainée- ǰú,die182,false,expert,Chacon2017,,,Chacon2017
-121,121,taka'akaje,die185,false,expert,Chacon2017,-   t   a   k   a   ʔ   a   k   a   h   e,,Chacon2017
-122,122,auli,dog190,false,expert,Chacon2017,-   a   u   l   i   -   -,,Chacon2017
-123,123,tsiino,dog187,false,expert,Chacon2017,t s   i i   -   n   o,,Chacon2017
-124,124,t∫aawi,dog189,false,expert,Chacon2017,,,Chacon2017
-125,125,yàlidu,dog190,false,expert,Chacon2017,j   à   -   l   i   d   u,,Chacon2017
-126,126,íiní,dog187,false,expert,Chacon2017,-   í   i   n   í,,Chacon2017
-127,127,čínu,dog187,false,expert,Chacon2017,t ʃ   í   -   n   u,,Chacon2017
-128,128,walú,dog194,false,expert,Chacon2017,,,Chacon2017
-129,129,íireri,drink196,false,expert,Chacon2017,-   -   -   i :   -   r   e   r   i   -   -,,Chacon2017
-130,130,-íira,drink196,false,expert,Chacon2017,-   í   -   i   -   r   a   -   -   -   -,,Chacon2017
-131,131,irá,drink196,false,expert,Chacon2017,-   -   -   i   -   r   á   -   -   -   -,,Chacon2017
-132,132,ìraca,drink196,false,expert,Chacon2017,-   -   -   ì   -   ɾ   a   k   a   -   -,,Chacon2017
-133,133,i?dú,drink196,false,expert,Chacon2017,-   -   -   i   ʔ   d   ú   -   -   -   -,,Chacon2017
-134,134,i'irakaje,drink196,false,expert,Chacon2017,-   i   ʔ   i   -   ɾ   a   k   a   h   e,,Chacon2017
-135,135,-meettáta,dryn209,false,expert,Chacon2017,,,Chacon2017
-136,136,iwá,dryn205,false,expert,Chacon2017,,,Chacon2017
-137,137,chuìri,dryn206,false,expert,Chacon2017,,,Chacon2017
-138,138,makádú,dryn210,false,expert,Chacon2017,-   -   m   a   k   á   d   ú   -   -   -   -   -,,Chacon2017
-139,139,makára'akaje,dryn210,false,expert,Chacon2017,-   -   m   a   k   á   r   a   ' a   k   a   j   e,,Chacon2017
-140,140,wíbaʃi,ear219,false,expert,Chacon2017,-   -   w   i   b   a   ʃ   i,,Chacon2017
-141,141,-heeni,ear8,false,expert,Chacon2017,-   -   h   e e   n   i   -   -   -   -   -   -,,Chacon2017
-142,142,-hináko-liko,ear217,false,expert,Chacon2017,-   -   h   i   n   á   k   o   l   i   k   o,,Chacon2017
-143,143,u'uwi,ear219,false,expert,Chacon2017,u   ʔ   u   w   i   -   -   -,,Chacon2017
-144,144,uwi,ear219,false,expert,Chacon2017,-   -   u   w   i   -   -   -,,Chacon2017
-145,145,henákó,ear217,false,expert,Chacon2017,-   -   h   e   n   á   k   ó   -   -   -   -,,Chacon2017
-146,146,i'ijwijí,ear219,false,expert,Chacon2017,i   ʔ   i   h   w   i   h   í,,Chacon2017
-147,147,káinabi,earth228,false,expert,Chacon2017,-   -   -   k   a   -   -   i   n   a   b   i,,Chacon2017
-148,148,híipai,earth222,false,expert,Chacon2017,,,Chacon2017
-149,149,ta'ka(a)ri,earth228,false,expert,Chacon2017,t   a   ʔ   k   a   a   r   i   -   -   -   -,,Chacon2017
-150,150,cáli,earth228,false,expert,Chacon2017,-   -   -   k   á   -   l   i   -   -   -   -,,Chacon2017
-151,151,hihi,earth226,false,expert,Chacon2017,,,Chacon2017
-152,152,te'erí,earth229,false,expert,Chacon2017,,,Chacon2017
-153,153,íijeri,eat232,false,expert,Chacon2017,-   i :   j   e   r   i   -   -,,Chacon2017
-154,154,-íiñha,eat232,false,expert,Chacon2017,í   i   ñ h   a   -   -   -   -,,Chacon2017
-155,155,tʃha,eat232,false,expert,Chacon2017,-   -   t ʃ h   a   -   -   -   -,,Chacon2017
-156,156,yáaca,eat232,false,expert,Chacon2017,-   -   j   á :   k   a   -   -,,Chacon2017
-157,157,a?mitú,eat235,false,expert,Chacon2017,,,Chacon2017
-158,158,ajñakaje,eat232,false,expert,Chacon2017,a   h   ɲ   a   k   a   h   e,,Chacon2017
-159,159,éewiʃi,egg246,false,expert,Chacon2017,-   -   e e   w   i   ʃ   i   -,,Chacon2017
-160,160,-éewhe,egg246,false,expert,Chacon2017,-   é   e   w h   e   -   -   -,,Chacon2017
-161,161,éewhé,egg246,false,expert,Chacon2017,-   é   e   w h   é   -   -   -,,Chacon2017
-162,162,yéewési,egg246,false,expert,Chacon2017,-   j   é :   w   é   s   i   -,,Chacon2017
-163,163,eévé(ú),egg246,false,expert,Chacon2017,-   e   é   v   é   -   -   ú,,Chacon2017
-164,164,ejweji,egg246,false,expert,Chacon2017,-   -   e   h w   e   h   i   -,,Chacon2017
-165,165,túiʃi,eye254,false,expert,Chacon2017,(   -   -   )   -   -   t   u   i   ʃ   i,,Chacon2017
-166,166,-thi,eye254,false,expert,Chacon2017,(   -   -   )   -   -   t h   -   i   -   -,,Chacon2017
-167,167,thu,eye254,false,expert,Chacon2017,(   -   -   )   -   -   t h   u   -   -   -,,Chacon2017
-168,168,tuí,eye254,false,expert,Chacon2017,(   -   -   )   -   -   t   u   -   -   í,,Chacon2017
-169,169,ijlují,eye254,false,expert,Chacon2017,(   -   -   )   i   h   l   u   -   h   í,,Chacon2017
-170,170,ijlují,eye254,false,expert,Chacon2017,(   -   -   )   i   h   l   u   -   h   í,,Chacon2017
-171,171,apána,feather256,false,expert,Chacon2017,,,Chacon2017
-172,172,báica,feather257,false,expert,Chacon2017,,,Chacon2017
-173,173,tsíináhí,feather10,false,expert,Chacon2017,-   -   t s   í   i   n   á   h   í,,Chacon2017
-174,174,dí-ča,feather259,false,expert,Chacon2017,,,Chacon2017
-175,175,díča-ɾe,feather10,false,expert,Chacon2017,d   í   t ʃ   a   -   ɾ   e   -   -,,Chacon2017
-176,176,daɾuphemá-ma,feather262,false,expert,Chacon2017,,,Chacon2017
-177,177,chijneji,feather10,false,expert,Chacon2017,-   -   t ʃ   i   -   h n   e   h   i,,Chacon2017
-178,178,tʃitʃái,fire272,false,expert,Chacon2017,t ʃ   i   t ʃ   a   i   -   -   -   -   -,,Chacon2017
-179,179,ttídzee,fire272,false,expert,Chacon2017,t t   í   d z   e e   -   -   -   -   -   -,,Chacon2017
-180,180,kira'ari,fire272,false,expert,Chacon2017,k   i   r   a   ʔ   a   r   i   -   -,,Chacon2017
-181,181,quichái,fire272,false,expert,Chacon2017,k   i   t ʃ   á   i   -   -   -   -   -,,Chacon2017
-182,182,síyái,fire272,false,expert,Chacon2017,s   í   j   á   i   -   -   -   -   -,,Chacon2017
-183,183,o?koná?,fire267,false,expert,Chacon2017,,,Chacon2017
-184,184,jiyá,fire272,false,expert,Chacon2017,h   i   j   á   -   -   -   -   -   -,,Chacon2017
-185,185,kera'atani,fire272,false,expert,Chacon2017,k   e   ɾ   a   ʔ   a   t   a   n   i,,Chacon2017
-186,186,kubái,fishn273,false,expert,Chacon2017,,,Chacon2017
-187,187,kóphe,fishn273,false,expert,Chacon2017,,,Chacon2017
-188,188,kúpha,fishn276,false,expert,Chacon2017,,,Chacon2017
-189,189,kubái,fishn273,false,expert,Chacon2017,,,Chacon2017
-190,190,ámoogí,fishn278,false,expert,Chacon2017,,,Chacon2017
-191,191,kúpe,fishn273,false,expert,Chacon2017,,,Chacon2017
-192,192,íinaʃi,flesh281,false,expert,Chacon2017,,,Chacon2017
-193,193,-íipe,flesh288,false,expert,Chacon2017,-   -   í   -   i   p   e,,Chacon2017
-194,194,?ii,flesh288,false,expert,Chacon2017,-   ʔ   i i   -   -   -   -,,Chacon2017
-195,195,iinási,flesh281,false,expert,Chacon2017,,,Chacon2017
-196,196,gí?í,flesh288,false,expert,Chacon2017,-   g   í   ʔ   í   -   -,,Chacon2017
-197,197,i'iji,flesh288,false,expert,Chacon2017,-   r   i   -   ' í   -   -,,Chacon2017
-198,198,jáareriu,flyv297,false,expert,Chacon2017,-   j   a :   r   e   r   i   u   -,,Chacon2017
-199,199,-áara,flyv297,false,expert,Chacon2017,-   á   a   r   a   -   -   -   -,,Chacon2017
-200,200,áara,flyv297,false,expert,Chacon2017,-   á   a   r   a   -   -   -   -,,Chacon2017
-201,201,yálacawa,flyv297,false,expert,Chacon2017,-   j   á   l   a   k   a   w   a,,Chacon2017
-202,202,adú,flyv297,false,expert,Chacon2017,-   -   a   d   ú   -   -   -   -,,Chacon2017
-203,203,ajrakaje,flyv297,false,expert,Chacon2017,-   -   a   h ɾ   a   k   a   h   e,,Chacon2017
-204,204,íibaʃi,foot306,false,expert,Chacon2017,-   -   -   -   -   i :   b   a   ʃ   i,,Chacon2017
-205,205,-híipa,foot306,false,expert,Chacon2017,-   -   h   í   -   i   p   a   -   -,,Chacon2017
-206,206,híipa,foot306,false,expert,Chacon2017,-   -   h   í   -   i   p   a   -   -,,Chacon2017
-207,207,abàli,foot306,false,expert,Chacon2017,-   -   -   -   -   a   b   à   l   i,,Chacon2017
-208,208,hii?pú,foot306,false,expert,Chacon2017,-   -   h   i i   ʔ   -   p   ú   -   -,,Chacon2017
-209,209,ji'imaji,foot306,false,expert,Chacon2017,-   -   h   i   ʔ   i   m   a   h   i,,Chacon2017
-210,210,káawai,full317,false,expert,Chacon2017,,,Chacon2017
-211,211,pákhame(i),full314,false,expert,Chacon2017,p   á   k h   a   -   -   -   m   e   i,,Chacon2017
-212,212,manu',full316,false,expert,Chacon2017,-   -   m   a   n   u   '   -   -   -   -,,Chacon2017
-213,213,miyana,full12,false,expert,Chacon2017,m   i   y   a   n   a   -   -   -   -   -,,Chacon2017
-214,214,potsʰí?mó,full314,false,expert,Chacon2017,p   o   -   -   t s ʰ   í   ?   m   ó   -,,Chacon2017
-215,215,mano'okaje,full316,false,expert,Chacon2017,-   -   m   a   n   o   ' o   k   a   j   e,,Chacon2017
-216,216,jáairi,give326,false,expert,Chacon2017,j   a a   i   -   -   r   i,,Chacon2017
-217,217,-áa,give326,false,expert,Chacon2017,-   á   a   -   -   -   -,,Chacon2017
-218,218,-aa,give326,false,expert,Chacon2017,-   a a   -   -   -   -   -,,Chacon2017
-219,219,-aa?ní,give326,false,expert,Chacon2017,-   a a   -   ?   -   n   í,,Chacon2017
-220,220,a'akaje,give326,false,expert,Chacon2017,-   a   ' a   k   a   j   e,,Chacon2017
-221,221,-huwa,give327,false,expert,Chacon2017,,,Chacon2017
-222,222,sáika,good329,false,expert,Chacon2017,,,Chacon2017
-223,223,mátsia,good330,false,expert,Chacon2017,,,Chacon2017
-224,224,tʃuni-ka,good332,false,expert,Chacon2017,,,Chacon2017
-225,225,cayábéeri,good333,false,expert,Chacon2017,,,Chacon2017
-226,226,kaŝó?,good334,false,expert,Chacon2017,,,Chacon2017
-227,227,palani,good337,false,expert,Chacon2017,,,Chacon2017
-228,228,júuwika,grease338,false,expert,Chacon2017,,,Chacon2017
-229,229,íitti,grease345,false,expert,Chacon2017,-   í   -   i   t t   i   -   -,,Chacon2017
-230,230,íʔit̪i,grease345,false,expert,Chacon2017,-   í   ʔ   i   t ̪   i   -   -,,Chacon2017
-231,231,iséená,grease345,false,expert,Chacon2017,-   -   -   i   s   é :   n   á,,Chacon2017
-232,232,phedee?kátasí,grease343,false,expert,Chacon2017,,,Chacon2017
-233,233,jilaji,grease346,false,expert,Chacon2017,,,Chacon2017
-234,234,uléejii,green349,false,expert,Chacon2017,-   -   -   u   l   e :   j   i,,Chacon2017
-235,235,hípole,green349,false,expert,Chacon2017,h   í   p   o   l   e   -   -,,Chacon2017
-236,236,puré,green349,false,expert,Chacon2017,-   -   p   u   r   é   -   -,,Chacon2017
-237,237,ipùléeri,green349,false,expert,Chacon2017,-   i   p   ù   l   é :   ɾ   i,,Chacon2017
-238,238,ipogí?,green349,false,expert,Chacon2017,-   i   p   o   g   í   ?   -,,Chacon2017
-239,239,ipureni,green349,false,expert,Chacon2017,-   i   p   u   ɾ   e   n   i,,Chacon2017
-240,240,báinaʃi,hair353,false,expert,Chacon2017,,,Chacon2017
-241,241,-tsíkole,hair359,false,expert,Chacon2017,-   -   -   -   t s   í   k   o   l   e,,Chacon2017
-242,242,tʃuna,hair359,false,expert,Chacon2017,-   -   -   -   t ʃ   u   -   -   n   a,,Chacon2017
-243,243,ichùna,hair359,false,expert,Chacon2017,-   -   -   i   t ʃ   ù   -   -   n   a,,Chacon2017
-244,244,híve?áǰii?ó,hair358,false,expert,Chacon2017,,,Chacon2017
-245,245,wilaji,hair359,false,expert,Chacon2017,-   -   w   i   l   a   h   i   -   -,,Chacon2017
-246,246,káhiʃi,hand370,false,expert,Chacon2017,k   a   -   h   i   ʃ   i,,Chacon2017
-247,247,-káapi,hand370,false,expert,Chacon2017,k   á   a   p   i   -   -,,Chacon2017
-248,248,kaapi,hand370,false,expert,Chacon2017,k   a a   -   p   i   -   -,,Chacon2017
-249,249,cáapi,hand370,false,expert,Chacon2017,k   á :   -   p   i   -   -,,Chacon2017
-250,250,-ké,hand370,false,expert,Chacon2017,k   é   -   -   -   -   -,,Chacon2017
-251,251,yáte'elaji,hand373,false,expert,Chacon2017,,,Chacon2017
-252,252,wítaʃi,head379,false,expert,Chacon2017,-   -   -   -   w   i   t   a   ʃ   i   -   -   -   -,,Chacon2017
-253,253,-hiwída,head379,false,expert,Chacon2017,-   -   h   i   w   í   d   a   -   -   -   -   -   -,,Chacon2017
-254,254,hiwíta,head379,false,expert,Chacon2017,-   -   h   i   w   í   t   a   -   -   -   -   -   -,,Chacon2017
-255,255,[nu]iwita,head379,false,expert,Chacon2017,n   u   -   i   w   i   t   a   -   -   -   -   -   -,,Chacon2017
-256,256,híveú,head379,false,expert,Chacon2017,-   -   h   í   v   e   -   ú   -   -   -   -   -   -,,Chacon2017
-257,257,wíla'aruji,head379,false,expert,Chacon2017,-   -   -   -   w   í   l   a   ʔ   a   ɾ   u   h   i,,Chacon2017
-258,258,éemeri,hear390,false,expert,Chacon2017,-   e :   -   m   e   r   i   -   -   -   -,,Chacon2017
-259,259,-hima,hear390,false,expert,Chacon2017,h   i   -   m   a   -   -   -   -   -   -,,Chacon2017
-260,260,-himeeta,hear390,false,expert,Chacon2017,h   i   -   m   e e   t   a   -   -   -   -,,Chacon2017
-261,261,heme,hear390,false,expert,Chacon2017,h   e   -   m   e   -   -   -   -   -   -,,Chacon2017
-262,262,émìaca,hear390,false,expert,Chacon2017,-   é   -   m   ì   -   a   k   a   -   -,,Chacon2017
-263,263,hé?mú,hear390,false,expert,Chacon2017,h   é   ?   m   ú   -   -   -   -   -   -,,Chacon2017
-264,264,-híma,hear390,false,expert,Chacon2017,h   í   -   m   a   -   -   -   -   -   -,,Chacon2017
-265,265,jema'akaje,hear390,false,expert,Chacon2017,h   e   -   m   a   ʔ   a   k   a   h   e,,Chacon2017
-266,266,wówaʃi,heart400,false,expert,Chacon2017,-   -   w   o   w   a   ʃ   i,,Chacon2017
-267,267,-kaale,heart393,false,expert,Chacon2017,-   -   k   a a   l   e   -   -,,Chacon2017
-268,268,kareta,heart393,false,expert,Chacon2017,-   -   k   a   r   e   t   a,,Chacon2017
-269,269,nu-wàwa,heart400,false,expert,Chacon2017,n   u   w   à   w   a   -   -,,Chacon2017
-270,270,íiricu,heart393,false,expert,Chacon2017,-   -   -   í :   ɾ   i   k   u,,Chacon2017
-271,271,váfoú,heart400,false,expert,Chacon2017,-   -   v   á   f   o   -   ú,,Chacon2017
-272,272,wajweji,heart400,false,expert,Chacon2017,-   -   w   a   h w   e   h   i,,Chacon2017
-273,273,tʃáalaʃi,horn406,false,expert,Chacon2017,-   t ʃ   a :   l   a   ʃ   i,,Chacon2017
-274,274,-tsówa,horn404,false,expert,Chacon2017,-   -   t s   ó   w   a,,Chacon2017
-275,275,nuire,horn408,false,expert,Chacon2017,n   u   i   r   e   -   -   -   -   -,,Chacon2017
-276,276,-iijβií,horn408,false,expert,Chacon2017,-   -   i i   j β   i   í   -   -   -   -,,Chacon2017
-277,277,i'iwáwiji,horn408,false,expert,Chacon2017,-   -   -   r   i   ' i   w   a   w   i,,Chacon2017
-278,278,amuái,hot416,false,expert,Chacon2017,-   a   -   m   u   -   a   -   i,,Chacon2017
-279,279,hámo,hot416,false,expert,Chacon2017,h   á   -   m   o   -   -   -   -,,Chacon2017
-280,280,muʔú,hot416,false,expert,Chacon2017,-   -   -   m   u   ʔ   ú   -   -,,Chacon2017
-281,281,ùuléeri,hot413,false,expert,Chacon2017,,,Chacon2017
-282,282,ha?mo?,hot416,false,expert,Chacon2017,h   a   ?   m   o   ?   -   -   -,,Chacon2017
-283,283,ima'aní,hot417,false,expert,Chacon2017,,,Chacon2017
-284,284,nujá,i1,false,expert,Chacon2017,,,Chacon2017
-285,285,nhóa,i1,false,expert,Chacon2017,,,Chacon2017
-286,286,nhú,i1,false,expert,Chacon2017,,,Chacon2017
-287,287,nu-,i1,false,expert,Chacon2017,,,Chacon2017
-288,288,núa,i1,false,expert,Chacon2017,,,Chacon2017
-289,289,ó,i6,false,expert,Chacon2017,,,Chacon2017
-290,290,nuha,i1,false,expert,Chacon2017,,,Chacon2017
-291,291,nuká,i1,false,expert,Chacon2017,,,Chacon2017
-292,292,íinueri,kill426,false,expert,Chacon2017,-   i :   n   u   e   r   i   -   -,,Chacon2017
-293,293,-íinoa,kill426,false,expert,Chacon2017,í   i   n   o   a   -   -   -   -,,Chacon2017
-294,294,nua,kill426,false,expert,Chacon2017,-   -   n   u   a   -   -   -   -,,Chacon2017
-295,295,étáidaca,kill422,false,expert,Chacon2017,,,Chacon2017
-296,296,nuáca,kill426,false,expert,Chacon2017,-   -   n   u   á   k   a   -   -,,Chacon2017
-297,297,kainée-khú,kill423,false,expert,Chacon2017,,,Chacon2017
-298,298,mótshó,kill428,false,expert,Chacon2017,,,Chacon2017
-299,299,nókaje,kill426,false,expert,Chacon2017,-   -   n   ó   -   k   a   h   e,,Chacon2017
-300,300,júruiʃi,knee435,false,expert,Chacon2017,(   -   -   -   -   -   )   j   u   -   -   r   u   i   -   -   ʃ   i,,Chacon2017
-301,301,-hóorhi,knee435,false,expert,Chacon2017,(   -   -   -   -   -   )   h   ó   o   -   r h   i   -   -   -   -   -,,Chacon2017
-302,302,-urhu(na),knee435,false,expert,Chacon2017,(   -   -   -   -   -   )   -   u   -   -   r h   u   -   n   a   -   -,,Chacon2017
-303,303,-huru,knee435,false,expert,Chacon2017,(   -   -   -   -   -   )   h   u   -   -   r   u   -   -   -   -   -,,Chacon2017
-304,304,-ho?dónaú,knee435,false,expert,Chacon2017,(   -   -   -   -   -   )   h   -   o   ?   d   ó   -   n   a   ú   -,,Chacon2017
-305,305,i'irúpachiji,knee435,false,expert,Chacon2017,(   -   -   -   -   -   )   r   i   ' i   -   r   ú   p   a   -   c h   i,,Chacon2017
-306,306,éeweri,know446,false,expert,Chacon2017,e :   w   e   r   i   -   -   -   -   -   -,,Chacon2017
-307,307,jaléenaa,know443,false,expert,Chacon2017,j   a   l   e :   n   a :   -   -   -   -,,Chacon2017
-308,308,-áanhee,know443,false,expert,Chacon2017,-   á   -   a   n h   e e   -   -   -   -,,Chacon2017
-309,309,aranhú,know443,false,expert,Chacon2017,-   a   r   a   n h   ú   -   -   -   -,,Chacon2017
-310,310,alíacawa,know444,false,expert,Chacon2017,a   l   í   a   k   a   w   a,,Chacon2017
-311,311,-manaá-tó?,know443,false,expert,Chacon2017,m   -   -   a   n   a   á   t   ó   ?,,Chacon2017
-312,312,we'epíkaje,know446,false,expert,Chacon2017,-   w   e   ʔ   e   p   í   k   a   h   e,,Chacon2017
-313,313,bánabai,leaf453,false,expert,Chacon2017,-   -   b   a   -   n   a   -   -   b   a   i,,Chacon2017
-314,314,panaphe,leaf453,false,expert,Chacon2017,-   -   p   a   -   n   a   -   -   p h   e   -,,Chacon2017
-315,315,-phe,leaf453,false,expert,Chacon2017,-   -   -   -   -   -   -   -   -   p h   e   -,,Chacon2017
-316,316,apana,leaf453,false,expert,Chacon2017,-   a   p   a   -   n   a   -   -   -   -   -,,Chacon2017
-317,317,ibáiná,leaf453,false,expert,Chacon2017,-   i   b   á   i   n   á   -   -   -   -   -,,Chacon2017
-318,318,apáná?aamí,leaf453,false,expert,Chacon2017,-   a   p   á   -   n   á   ʔ   a a   m   í   -,,Chacon2017
-319,319,wíchu'upe,leaf456,false,expert,Chacon2017,,,Chacon2017
-320,320,-phe,leaf453,false,expert,Chacon2017,-   -   -   -   -   -   -   -   -   p h   e   -,,Chacon2017
-321,321,apanaphe,leaf453,false,expert,Chacon2017,-   -   a   p   a   n   a   -   -   p h   e   -,,Chacon2017
-322,322,kuániriu,lie463,false,expert,Chacon2017,-   -   k   u   a   n   i   r   i   u,,Chacon2017
-323,323,-kua,lie463,false,expert,Chacon2017,-   -   k   u   a   -   -   -   -   -,,Chacon2017
-324,324,-ɻhua,lie463,false,expert,Chacon2017,-   -   ɻ h   u   a   -   -   -   -   -,,Chacon2017
-325,325,-ku'apu,lie463,false,expert,Chacon2017,-   -   k   u   ' a   p   u   -   -   -,,Chacon2017
-326,326,-huapuku,lie463,false,expert,Chacon2017,-   -   h   u   a   p   u   k   u   -,,Chacon2017
-327,327,šoóné-ǰú,lie463,false,expert,Chacon2017,-   -   š   o   ó   n   é   ǰ   ú   -,,Chacon2017
-328,328,swá,lie463,false,expert,Chacon2017,-   -   s   w   á   -   -   -   -   -,,Chacon2017
-329,329,to'okajo,lie465,false,expert,Chacon2017,,,Chacon2017
-330,330,tʃáaliʃi,liver472,false,expert,Chacon2017,-   -   t ʃ   a :   l   i   ʃ   i   -   -,,Chacon2017
-331,331,-xópana,liver475,false,expert,Chacon2017,x   ó   -   p   a   -   n   a   -   -,,Chacon2017
-332,332,úupana,liver475,false,expert,Chacon2017,-   ú   u   p   a   -   n   a   -   -,,Chacon2017
-333,333,ubana,liver475,false,expert,Chacon2017,-   -   u   b   a   -   n   a   -   -,,Chacon2017
-334,334,-opáanú,liver475,false,expert,Chacon2017,-   o   -   p   á   a   n   ú   -   -,,Chacon2017
-335,335,panaji,liver475,false,expert,Chacon2017,-   -   -   p   a   -   n   a   j   i,,Chacon2017
-336,336,matʃéenii,long482,false,expert,Chacon2017,,,Chacon2017
-337,337,yápi,long484,false,expert,Chacon2017,-   -   y   á   -   -   p   i   -   -,,Chacon2017
-338,338,wia,long486,false,expert,Chacon2017,,,Chacon2017
-339,339,cáaléeri,long484,false,expert,Chacon2017,k   á   -   a   l   é   e   r   i   -,,Chacon2017
-340,340,tseinó?,long482,false,expert,Chacon2017,,,Chacon2017
-341,341,waphereni,long484,false,expert,Chacon2017,w   a   p h   e   r   e   n   i   -   -,,Chacon2017
-342,342,witéneʃi,louse488,false,expert,Chacon2017,-   -   w   i   t   e   n   e   ʃ   i   -   -   -   -,,Chacon2017
-343,343,towída,louse488,false,expert,Chacon2017,t   o   w   í   d   a   -   -   -   -   -   -   -   -,,Chacon2017
-344,344,nií,louse488,false,expert,Chacon2017,-   -   -   -   -   -   n   i   -   í   -   -   -   -,,Chacon2017
-345,345,cùlibàu,louse491,false,expert,Chacon2017,,,Chacon2017
-346,346,netetshí?ó,louse488,false,expert,Chacon2017,-   -   -   -   -   -   n   e   t   e   t s ʰ   í   ʔ   ó,,Chacon2017
-347,347,inejí,louse488,false,expert,Chacon2017,-   -   -   -   -   -   r   i   n   e   -   -   -   -,,Chacon2017
-348,348,waʃiálikueri,manadultmale501,false,expert,Chacon2017,w   a   ʃ   i   a   -   -   l   i   k   u   e   r   i,,Chacon2017
-349,349,atsíanli,manadultmale501,false,expert,Chacon2017,-   a   t s   í   a   n   -   l   i   -   -   -   -   -,,Chacon2017
-350,350,newíki,manadultmale505,false,expert,Chacon2017,,,Chacon2017
-351,351,t̪ijá-ri,manadultmale501,false,expert,Chacon2017,-   -   t ̪   i   -   j   á   r   i   -   -   -   -   -,,Chacon2017
-352,352,atsáagí,manadultmale501,false,expert,Chacon2017,-   a   t s   á   -   -   a   g   í   -   -   -   -   -,,Chacon2017
-353,353,achiñá,manadultmale501,false,expert,Chacon2017,-   a   t ʃ   i   -   ɲ   á   -   -   -   -   -   -   -,,Chacon2017
-354,354,báhiala,many506,false,expert,Chacon2017,,,Chacon2017
-355,355,hanípa,many507,false,expert,Chacon2017,h   a   n   í   p   a   -,,Chacon2017
-356,356,hóre,many513,false,expert,Chacon2017,,,Chacon2017
-357,357,manópe,many507,false,expert,Chacon2017,,,Chacon2017
-358,358,muura,many509,false,expert,Chacon2017,,,Chacon2017
-359,359,kána(na)ma,many510,false,expert,Chacon2017,,,Chacon2017
-360,360,manuba,many507,false,expert,Chacon2017,,,Chacon2017
-361,361,maini,many520,false,expert,Chacon2017,,,Chacon2017
-362,362,an̥epúúʔ,many507,false,expert,Chacon2017,-   a   n ̥   e   p   ú ú   ʔ,,Chacon2017
-363,363,cha'aphá,many514,false,expert,Chacon2017,,,Chacon2017
-364,364,kéeri,moon521,false,expert,Chacon2017,-   -   -   -   -   -   -   k   e :   -   r   i,,Chacon2017
-365,365,kéeri,moon521,false,expert,Chacon2017,-   -   -   -   -   -   -   k   é   e   r   i,,Chacon2017
-366,366,kéeri,moon521,false,expert,Chacon2017,-   -   -   -   -   -   -   k   é   e   r   i,,Chacon2017
-367,367,quéeri,moon521,false,expert,Chacon2017,-   -   -   -   -   -   -   k   é :   -   ɾ   i,,Chacon2017
-368,368,keégí,moon521,false,expert,Chacon2017,-   -   -   -   -   -   -   k   e   é   g   í,,Chacon2017
-369,369,keri,moon521,false,expert,Chacon2017,-   -   -   -   -   -   -   k   e   -   ɾ   i,,Chacon2017
-370,370,dúuli,mountain536,false,expert,Chacon2017,-   -   d   ú   u   l   i,,Chacon2017
-371,371,hidzápa,mountain13,false,expert,Chacon2017,,,Chacon2017
-372,372,híipana,mountain537,false,expert,Chacon2017,,,Chacon2017
-373,373,marena,mountain531,false,expert,Chacon2017,,,Chacon2017
-374,374,takari,mountain538,false,expert,Chacon2017,,,Chacon2017
-375,375,dúli,mountain536,false,expert,Chacon2017,-   -   d   ú   -   l   i,,Chacon2017
-376,376,tégahú,mountain13,false,expert,Chacon2017,,,Chacon2017
-377,377,maka-pulikúda,mountain534,false,expert,Chacon2017,,,Chacon2017
-378,378,yenuri,mountain536,false,expert,Chacon2017,j   e   n   u   -   ɾ   i,,Chacon2017
-379,379,hidápa,mountain13,false,expert,Chacon2017,,,Chacon2017
-380,380,númaʃi,mouth546,false,expert,Chacon2017,-   -   n   u   m   a   ʃ   i,,Chacon2017
-381,381,-nóma,mouth546,false,expert,Chacon2017,-   -   n   ó   m   a   -   -,,Chacon2017
-382,382,numa,mouth546,false,expert,Chacon2017,-   -   n   u   m   a   -   -,,Chacon2017
-383,383,nùma,mouth546,false,expert,Chacon2017,-   -   n   ù   m   a   -   -,,Chacon2017
-384,384,nó,mouth546,false,expert,Chacon2017,-   -   n   ó   -   -   -   -,,Chacon2017
-385,385,numaji,mouth546,false,expert,Chacon2017,-   -   n   u   m   a   h   i,,Chacon2017
-386,386,hiʔinaʃi,name547,false,expert,Chacon2017,,,Chacon2017
-387,387,-iipítana,name554,false,expert,Chacon2017,-   i i   -   p   í   t   a   n   a,,Chacon2017
-388,388,íí,name554,false,expert,Chacon2017,-   í í   -   -   -   -   -   -   -,,Chacon2017
-389,389,ípidená,name554,false,expert,Chacon2017,-   í   -   p   i   d   e   n   á,,Chacon2017
-390,390,iivú,name554,false,expert,Chacon2017,-   i i   -   v   ú   -   -   -   -,,Chacon2017
-391,391,iíji,name554,false,expert,Chacon2017,-   i   í   h   i   -   -   -   -,,Chacon2017
-392,392,wáaʃi,neck555,false,expert,Chacon2017,,,Chacon2017
-393,393,-nóoro,neck560,false,expert,Chacon2017,-   -   n   ó   o   r   o   -   -   -   -,,Chacon2017
-394,394,kanhapi,neck558,false,expert,Chacon2017,,,Chacon2017
-395,395,canápi,neck558,false,expert,Chacon2017,,,Chacon2017
-396,396,-iñočhí,neck560,false,expert,Chacon2017,-   i   ñ   o   -   č h   í   -   -   -   -,,Chacon2017
-397,397,núrupiji,neck560,false,expert,Chacon2017,-   -   n   ú   -   r   u   p   i   h   i,,Chacon2017
-398,398,wáalii,new572,false,expert,Chacon2017,,,Chacon2017
-399,399,éemi,new565,false,expert,Chacon2017,é   e   m   i   -   -,,Chacon2017
-400,400,wali-,new572,false,expert,Chacon2017,,,Chacon2017
-401,401,yapiápali,new571,false,expert,Chacon2017,,,Chacon2017
-402,402,wárit̪é,new572,false,expert,Chacon2017,,,Chacon2017
-403,403,wàlisàiri,new572,false,expert,Chacon2017,,,Chacon2017
-404,404,be?é,new569,false,expert,Chacon2017,,,Chacon2017
-405,405,wajé,new572,false,expert,Chacon2017,,,Chacon2017
-406,406,táaje,night584,false,expert,Chacon2017,t   a :   j   e   -   -   -   -   -   -,,Chacon2017
-407,407,déepi,night584,false,expert,Chacon2017,d   é   -   e   p   i   -   -   -   -,,Chacon2017
-408,408,néápi,night584,false,expert,Chacon2017,n   é   -   á   p   i   -   -   -   -,,Chacon2017
-409,409,catá,night580,false,expert,Chacon2017,,,Chacon2017
-410,410,naapí,night584,false,expert,Chacon2017,n   a a   -   -   p   í   -   -   -   -,,Chacon2017
-411,411,lapí,night584,false,expert,Chacon2017,l   a   -   -   p   í   -   -   -   -,,Chacon2017
-412,412,dákuʃi,nose591,false,expert,Chacon2017,-   -   d   a   k   u   ʃ   i,,Chacon2017
-413,413,-hitáko,nose591,false,expert,Chacon2017,h   i   t   á   k   o   -   -,,Chacon2017
-414,414,hitákú,nose591,false,expert,Chacon2017,h   i   t   á   k   ú   -   -,,Chacon2017
-415,415,ídacu,nose591,false,expert,Chacon2017,-   í   d   a   k   u   -   -,,Chacon2017
-416,416,-hitákó,nose591,false,expert,Chacon2017,h   i   t   á   k   ó   -   -,,Chacon2017
-417,417,takuji,nose591,false,expert,Chacon2017,-   -   t   a   k   u   h   i,,Chacon2017
-418,418,ma-,not593,false,expert,Chacon2017,,,Chacon2017
-419,419,hookai,not601,false,expert,Chacon2017,h   o o   -   k   a   i,,Chacon2017
-420,420,ma-,not593,false,expert,Chacon2017,,,Chacon2017
-421,421,ñáme,not597,false,expert,Chacon2017,,,Chacon2017
-422,422,uka,not601,false,expert,Chacon2017,-   u   -   k   a   -,,Chacon2017
-423,423,càmita,not597,false,expert,Chacon2017,,,Chacon2017
-424,424,nii,not598,false,expert,Chacon2017,,,Chacon2017
-425,425,ma-,not593,false,expert,Chacon2017,,,Chacon2017
-426,426,ma-,not593,false,expert,Chacon2017,,,Chacon2017
-427,427,unká,not601,false,expert,Chacon2017,-   u   n   k   á   -,,Chacon2017
-428,428,ma-,not593,false,expert,Chacon2017,,,Chacon2017
-429,429,nalé,not598,false,expert,Chacon2017,,,Chacon2017
-430,430,áabai,one613,false,expert,Chacon2017,a :   -   b   a   i   -   -   -   -   -   -,,Chacon2017
-431,431,a(a)pa-,one613,false,expert,Chacon2017,a   a   p   a   -   -   -   -   -   -   -,,Chacon2017
-432,432,pa[pu],one613,false,expert,Chacon2017,-   -   p   a   p   u   -   -   -   -   -,,Chacon2017
-433,433,ab[ì-],one613,false,expert,Chacon2017,-   a   b   [   ì   ]   -   -   -   -   -,,Chacon2017
-434,434,abe,one613,false,expert,Chacon2017,-   a   b   e   -   -   -   -   -   -   -,,Chacon2017
-435,435,pa[topʰe],one613,false,expert,Chacon2017,-   -   p   a   [   t   o   p ʰ   e   ]   -,,Chacon2017
-436,436,sagú,one616,false,expert,Chacon2017,,,Chacon2017
-437,437,pajluwa,one613,false,expert,Chacon2017,-   -   p   a   ( h   l   u   w   á   h   a,,Chacon2017
-438,438,iníhibaa,path618,false,expert,Chacon2017,-   i   n   i   h   i   b   a :,,Chacon2017
-439,439,inípo,path618,false,expert,Chacon2017,-   i   n   í   -   -   p   o,,Chacon2017
-440,440,-aapówa,path14,false,expert,Chacon2017,-   -   a a   -   p   ó   w   a   -   -,,Chacon2017
-441,441,-aapowánaa,path14,false,expert,Chacon2017,-   -   a a   -   p   o   w   á   n   a a,,Chacon2017
-442,442,apú-há,path14,false,expert,Chacon2017,-   -   a   -   p   ú   h   á   -   -,,Chacon2017
-443,443,jóopu,path14,false,expert,Chacon2017,-   j   ó   o   p   u   -   -   -   -,,Chacon2017
-444,444,ajápú,path14,false,expert,Chacon2017,a   j   á   -   p   ú   -   -   -   -,,Chacon2017
-445,445,àyapu,path14,false,expert,Chacon2017,à   j   a   -   p   u   -   -   -   -,,Chacon2017
-446,446,aǰápó,path14,false,expert,Chacon2017,a   d ʒ   á   -   p   ó   -   -   -   -,,Chacon2017
-447,447,éhuúhí,path14,false,expert,Chacon2017,-   -   é h   -   -   u   ú   h   í   -,,Chacon2017
-448,448,iñe'epú,path618,false,expert,Chacon2017,-   i   ñ   e   -   ' e   p   ú,,Chacon2017
-449,449,wenàiwica,person635,false,expert,Chacon2017,w   e   n   à   i   w   i   -   -   -   -   -   k   a,,Chacon2017
-450,450,newíki,person635,false,expert,Chacon2017,-   -   n   e   -   w   í   -   -   -   -   -   k   i,,Chacon2017
-451,451,néki-ri,person635,false,expert,Chacon2017,-   -   n   é   -   k   i   ɾ   i   -   -   -   -   -,,Chacon2017
-452,452,wenàiwica,person635,false,expert,Chacon2017,w   e   n   à   i   w   i   -   -   -   -   -   k   a,,Chacon2017
-453,453,ináavi?žaánigí,person635,false,expert,Chacon2017,-   i   n   á   a   v   i   ʔ ʒ   a   á   n   i   g   í,,Chacon2017
-454,454,ina'uké,person635,false,expert,Chacon2017,-   i   n   a   -   ' u   -   -   -   -   -   -   k   é,,Chacon2017
-455,455,júweriu,rain637,false,expert,Chacon2017,,,Chacon2017
-456,456,íidza,rain643,false,expert,Chacon2017,,,Chacon2017
-457,457,peʔekhe,rain640,false,expert,Chacon2017,,,Chacon2017
-458,458,pehe,rain640,false,expert,Chacon2017,,,Chacon2017
-459,459,unía,rain644,false,expert,Chacon2017,,,Chacon2017
-460,460,fá?voótsí,rain642,false,expert,Chacon2017,,,Chacon2017
-461,461,juni,rain644,false,expert,Chacon2017,,,Chacon2017
-462,462,kírai,red653,false,expert,Chacon2017,k   í   -   r   a   i   -   -   -,,Chacon2017
-463,463,iirai,red653,false,expert,Chacon2017,-   i i   -   r   a   i   -   -   -,,Chacon2017
-464,464,kéerama,red653,false,expert,Chacon2017,k   é   e   r   a   m   a   -   -,,Chacon2017
-465,465,kíira,red653,false,expert,Chacon2017,k   í   i   r   a   -   -   -   -,,Chacon2017
-466,466,quíiraca,red653,false,expert,Chacon2017,k   í :   -   ɾ   a   k   a   -   -,,Chacon2017
-467,467,kedávií́?,red653,false,expert,Chacon2017,k   e   -   d   á   v   i   í ́   ʔ,,Chacon2017
-468,468,kerani,red653,false,expert,Chacon2017,k   e   -   ɾ   a   n   i   -   -,,Chacon2017
-469,469,híitʃuʃi,root663,false,expert,Chacon2017,h   í   -   i   t ʃ   u   ʃ   i,,Chacon2017
-470,470,-pali,root661,false,expert,Chacon2017,-   -   p   a   l   i,,Chacon2017
-471,471,apáre,root661,false,expert,Chacon2017,-   a   p   á   r   e,,Chacon2017
-472,472,ipìchu,root661,false,expert,Chacon2017,-   i   p   ì   t ʃ   u,,Chacon2017
-473,473,tébaké,root661,false,expert,Chacon2017,t   é   b   a   k   é,,Chacon2017
-474,474,ji'ilaji,root663,false,expert,Chacon2017,h   i   ʔ   i   l   a   h   i,,Chacon2017
-475,475,-ili,root663,false,expert,Chacon2017,-   -   -   i   l   i   -   -,,Chacon2017
-476,476,maka,round668,false,expert,Chacon2017,m   a   -   -   k   a   -   -   -   -   -   -   -   -,,Chacon2017
-477,477,madzakánhu,round668,false,expert,Chacon2017,m   a   d z   a   k   á   n h   u   -   -   -   -   -   -,,Chacon2017
-478,478,paβuudú,round667,false,expert,Chacon2017,,,Chacon2017
-479,479,pavuudu,round667,false,expert,Chacon2017,,,Chacon2017
-480,480,káina,sand680,false,expert,Chacon2017,k   á   i   -   n   a   -   -,,Chacon2017
-481,481,káida,sand680,false,expert,Chacon2017,k   á   i   -   d   a   -   -,,Chacon2017
-482,482,káʔa,sand680,false,expert,Chacon2017,k   á   ʔ   a   -   -   -   -,,Chacon2017
-483,483,kai[na],sand680,false,expert,Chacon2017,k   a   -   i   [   n   a   ],,Chacon2017
-484,484,meníigí,sand677,false,expert,Chacon2017,,,Chacon2017
-485,485,ke'epé,sand680,false,expert,Chacon2017,k   e   ʔ   -   p   é   -   -,,Chacon2017
-486,486,máiri,say689,false,expert,Chacon2017,-   m   á   i   r   i,,Chacon2017
-487,487,-kaíte,say690,false,expert,Chacon2017,k   a   -   í   t   e   -   -,,Chacon2017
-488,488,íma,say689,false,expert,Chacon2017,í   m   a   -   -   -,,Chacon2017
-489,489,íma,say689,false,expert,Chacon2017,í   m   a   -   -   -,,Chacon2017
-490,490,-kemú,say686,false,expert,Chacon2017,,,Chacon2017
-491,491,mí-,say689,false,expert,Chacon2017,-   m   -   í   -   -,,Chacon2017
-492,492,-máka,say688,false,expert,Chacon2017,,,Chacon2017
-493,493,-kasaléta,say690,false,expert,Chacon2017,k   a   s   a   l   é   t   a,,Chacon2017
-494,494,káberi,see695,false,expert,Chacon2017,-   -   k   á   b   e   r   i,,Chacon2017
-495,495,-kápa,see695,false,expert,Chacon2017,-   -   k   á   p   a   -   -,,Chacon2017
-496,496,ikhá,see695,false,expert,Chacon2017,-   i   k h   á   -   -   -   -,,Chacon2017
-497,497,icáca,see695,false,expert,Chacon2017,-   i   k   á   k   a   -   -,,Chacon2017
-498,498,-tshení,see696,false,expert,Chacon2017,,,Chacon2017
-499,499,amákaje,see699,false,expert,Chacon2017,,,Chacon2017
-500,500,íimiʃi,seed705,false,expert,Chacon2017,,,Chacon2017
-501,501,-éekhe,seed701,false,expert,Chacon2017,,,Chacon2017
-502,502,(ka ka)kitjihe,seed707,false,expert,Chacon2017,k   a   _   k   a   k   i   t   j   i   h   e,,Chacon2017
-503,503,hímiú,seed705,false,expert,Chacon2017,,,Chacon2017
-504,504,ijiji,seed707,false,expert,Chacon2017,-   -   -   -   -   -   i   j   i   -   j   i,,Chacon2017
-505,505,-ihina,seed707,false,expert,Chacon2017,-   -   -   -   -   -   i   h   -   i   n   a,,Chacon2017
-506,506,wáairiu,sit710,false,expert,Chacon2017,-   -   w   á   a   i   r   i   u   -   -   -   -,,Chacon2017
-507,507,-oówhaa,sit710,false,expert,Chacon2017,o   ó   w h   a a   -   -   -   -   -   -   -   -   -,,Chacon2017
-508,508,tu(')na,sit714,false,expert,Chacon2017,-   -   t   u   ' )   n   a,,Chacon2017
-509,509,awinacawa,sit710,false,expert,Chacon2017,-   a   w   i   -   -   -   n   a   k   a   w   a,,Chacon2017
-510,510,ítshú,sit714,false,expert,Chacon2017,í   -   t s ʰ   ú   -   -   -,,Chacon2017
-511,511,i?tsháká,sit714,false,expert,Chacon2017,i   ʔ   t s ʰ   á   k   á   -,,Chacon2017
-512,512,yá'akajo,sit718,false,expert,Chacon2017,,,Chacon2017
-513,513,yá'akaje,sit718,false,expert,Chacon2017,,,Chacon2017
-514,514,íimanaʃi,skin728,false,expert,Chacon2017,í   -   i   m   a   n   a   ʃ   i,,Chacon2017
-515,515,-ya,skin725,false,expert,Chacon2017,,,Chacon2017
-516,516,íʔa-mi,skin728,false,expert,Chacon2017,í   ʔ   a   m   i   -   -   -   -,,Chacon2017
-517,517,ímami,skin728,false,expert,Chacon2017,-   -   í   m   a   m   i   -   -,,Chacon2017
-518,518,eémú,skin728,false,expert,Chacon2017,e   -   é   m   ú   -   -   -   -,,Chacon2017
-519,519,ímaji,skin728,false,expert,Chacon2017,-   -   í   m   a   h   i   -   -,,Chacon2017
-520,520,máairi,sleep738,false,expert,Chacon2017,-   -   m   á   -   a   -   i   r   i,,Chacon2017
-521,521,-ímaa,sleep738,false,expert,Chacon2017,-   í   m   a a   -   -   -   -   -   -,,Chacon2017
-522,522,imáa,sleep738,false,expert,Chacon2017,-   i   m   á   -   a   -   -   -   -,,Chacon2017
-523,523,imáca,sleep738,false,expert,Chacon2017,-   i   m   á   -   -   k   a   -   -,,Chacon2017
-524,524,ímú,sleep738,false,expert,Chacon2017,-   í   m   ú   -   -   -   -   -   -,,Chacon2017
-525,525,kamátakajo,sleep738,false,expert,Chacon2017,k   a   m   á   t   a   k   a   h   o,,Chacon2017
-526,526,píituituu,small746,false,expert,Chacon2017,-   -   p   i :   t   u   i   t   u :   -   -   -   -,,Chacon2017
-527,527,tsúu,small746,false,expert,Chacon2017,-   -   -   -   t s   ú   u   -   -   -   -   -   -,,Chacon2017
-528,528,karitʃhũĩ,small746,false,expert,Chacon2017,k   a   r   i   t ʃ h   ũ   ĩ   -   -   -   -   -   -,,Chacon2017
-529,529,achúméeri,small746,false,expert,Chacon2017,-   -   -   a   t ʃ   ú   -   -   -   m   é :   ɾ   i,,Chacon2017
-530,530,karitʃhũĩ,small746,false,expert,Chacon2017,k   a   r   i   t ʃ h   ũ   ĩ   -   -   -   -   -   -,,Chacon2017
-531,531,kamu'ujini,small747,false,expert,Chacon2017,,,Chacon2017
-532,532,íisaninaa,smoke755,false,expert,Chacon2017,-   -   í   i   s   a   -   n   i   n   a a,,Chacon2017
-533,533,íitta,smoke755,false,expert,Chacon2017,-   -   í   i   t t   a   -   -   -   -   -,,Chacon2017
-534,534,ít̪a-ri,smoke755,false,expert,Chacon2017,-   -   -   í   t ̪   a   -   r   i   -   -,,Chacon2017
-535,535,iítshú,smoke755,false,expert,Chacon2017,-   -   i   í   t s ʰ   ú   -   -   -   -   -,,Chacon2017
-536,536,ija,smoke755,false,expert,Chacon2017,-   -   -   i   h   a   -   -   -   -   -,,Chacon2017
-537,537,bárueriu,stand762,false,expert,Chacon2017,,,Chacon2017
-538,538,-éema,stand759,false,expert,Chacon2017,,,Chacon2017
-539,539,patʃha,stand761,false,expert,Chacon2017,,,Chacon2017
-540,540,bàlùanícawa,stand762,false,expert,Chacon2017,,,Chacon2017
-541,541,-i?tóṇú,stand763,false,expert,Chacon2017,,,Chacon2017
-542,542,tára'akajo,stand767,false,expert,Chacon2017,t   á   r   a   ' a   k   a   j   o,,Chacon2017
-543,543,sáalii,star16,false,expert,Chacon2017,,,Chacon2017
-544,544,hiwírhi,star775,false,expert,Chacon2017,h   i   w   í   -   -   -   -   r h   i   -   -   -   -,,Chacon2017
-545,545,wirínhu,star775,false,expert,Chacon2017,-   -   w   i   -   -   -   -   r   í   n h   u   -   -,,Chacon2017
-546,546,dùlupùta,star772,false,expert,Chacon2017,,,Chacon2017
-547,547,hivíigí,star775,false,expert,Chacon2017,h   i   v   í   -   -   -   i   g   í   -   -   -   -,,Chacon2017
-548,548,iwijrí,star775,false,expert,Chacon2017,-   i   w   i   -   -   -   h   ɾ   í   -   -   -   -,,Chacon2017
-549,549,íiba,stone777,false,expert,Chacon2017,-   í   i   b   a   -   -,,Chacon2017
-550,550,hiipada,stone777,false,expert,Chacon2017,h   -   i i   p   a   d   a,,Chacon2017
-551,551,híipa,stone777,false,expert,Chacon2017,h   í   i   p   a   -   -,,Chacon2017
-552,552,íba,stone777,false,expert,Chacon2017,-   -   í   b   a   -   -,,Chacon2017
-553,553,vííši?óú,stone782,false,expert,Chacon2017,,,Chacon2017
-554,554,jipa,stone777,false,expert,Chacon2017,h   -   i   p   a   -   -,,Chacon2017
-555,555,káiwia,sun788,false,expert,Chacon2017,k   á   i   w   i   a,,Chacon2017
-556,556,kámoi,sun784,false,expert,Chacon2017,,,Chacon2017
-557,557,abe,sun786,false,expert,Chacon2017,,,Chacon2017
-558,558,eri,sun789,false,expert,Chacon2017,-   e   -   r   i   -   -,,Chacon2017
-559,559,èeri,sun789,false,expert,Chacon2017,-   è   e   r   i   -   -,,Chacon2017
-560,560,há?í,sun788,false,expert,Chacon2017,h   á   -   ʔ   í   -,,Chacon2017
-561,561,kamú,sun784,false,expert,Chacon2017,,,Chacon2017
-562,562,jámareriu,swim795,false,expert,Chacon2017,j   á   m   a   r   e   r   i   u   -,,Chacon2017
-563,563,-aaxaa,swim799,false,expert,Chacon2017,-   -   -   a a   ʃ   a a   -   -   -   -   -   -,,Chacon2017
-564,564,-aanhi,swim798,false,expert,Chacon2017,,,Chacon2017
-565,565,awápa,swim799,false,expert,Chacon2017,-   a   -   -   w   á   p   a   -   -   -   -,,Chacon2017
-566,566,màlacawa,swim795,false,expert,Chacon2017,-   -   m   à   l   a   k   a   w   a,,Chacon2017
-567,567,o?vápú,swim799,false,expert,Chacon2017,-   o   ʔ   -   v   á   p   ú   -   -   -   -,,Chacon2017
-568,568,i'iwapakaje,swim799,false,expert,Chacon2017,-   i   ʔ   i   w   a   p   a   k   a   h   e,,Chacon2017
-569,569,íiʃiʃi,tail809,false,expert,Chacon2017,í   i   ʃ   i   -   -   -   ʃ   i,,Chacon2017
-570,570,-iittípi,tail809,false,expert,Chacon2017,-   i i   t t   í   -   p   i   -   -,,Chacon2017
-571,571,t̪ipi,tail809,false,expert,Chacon2017,-   -   t ̪   i   -   p   i   -   -,,Chacon2017
-572,572,muuku,tail811,false,expert,Chacon2017,,,Chacon2017
-573,573,yàapusài,tail806,false,expert,Chacon2017,,,Chacon2017
-574,574,tshíipí,tail809,false,expert,Chacon2017,-   -   t s ʰ   í   i   p   í   -   -,,Chacon2017
-575,575,di-číma,tail809,false,expert,Chacon2017,d   i   t ʃ   í   -   m   a   -   -,,Chacon2017
-576,576,di-sipí,tail809,false,expert,Chacon2017,d   i   s   i   -   p   í   -   -,,Chacon2017
-577,577,jipiji,tail809,false,expert,Chacon2017,-   -   h   i   -   p   i   h   i,,Chacon2017
-578,578,liára,that826,false,expert,Chacon2017,l   i   á   r   a   -   -,,Chacon2017
-579,579,ruára,that826,false,expert,Chacon2017,r   u   á   r   a   -   -,,Chacon2017
-580,580,lhiera(ha),that826,false,expert,Chacon2017,l h   i   e   r   a   h   a,,Chacon2017
-581,581,ja-ta,that826,false,expert,Chacon2017,j   -   a   t   a   -   -,,Chacon2017
-582,582,ja-ra,that826,false,expert,Chacon2017,j   -   a   r   a   -   -,,Chacon2017
-583,583,yáara,that826,false,expert,Chacon2017,j   -   á :   ɾ   a   -   -,,Chacon2017
-584,584,aí,that20,false,expert,Chacon2017,,,Chacon2017
-585,585,marí,that820,false,expert,Chacon2017,,,Chacon2017
-586,586,-la,that826,false,expert,Chacon2017,l   -   a   -   -   -   -,,Chacon2017
-587,587,-di,that831,false,expert,Chacon2017,-   -   d   i   -   -,,Chacon2017
-588,588,-ni,that831,false,expert,Chacon2017,-   -   n   i   -   -,,Chacon2017
-589,589,liáni,this826,false,expert,Chacon2017,,,Chacon2017
-590,590,ruani,this835,false,expert,Chacon2017,,,Chacon2017
-591,591,náani,this837,false,expert,Chacon2017,,,Chacon2017
-592,592,Ihíehe,this826,false,expert,Chacon2017,,,Chacon2017
-593,593,do?ó,this835,false,expert,Chacon2017,,,Chacon2017
-594,594,yái,this20,false,expert,Chacon2017,,,Chacon2017
-595,595,úái,this835,false,expert,Chacon2017,,,Chacon2017
-596,596,gi?í,this831,false,expert,Chacon2017,-   -   g   i   ?   í,,Chacon2017
-597,597,do?ó,this835,false,expert,Chacon2017,,,Chacon2017
-598,598,hĩ,this831,false,expert,Chacon2017,-   -   h   ĩ   -   -,,Chacon2017
-599,599,kele,this831,false,expert,Chacon2017,k   e   l   e   -   -,,Chacon2017
-600,600,-ti,this831,false,expert,Chacon2017,-   -   t   i   -   -,,Chacon2017
-601,601,ijá,thouyou844,false,expert,Chacon2017,,,Chacon2017
-602,602,hía,thouyou21,false,expert,Chacon2017,,,Chacon2017
-603,603,você,thouyou847,false,expert,Chacon2017,,,Chacon2017
-604,604,phé,thouyou21,false,expert,Chacon2017,,,Chacon2017
-605,605,pi-,thouyou21,false,expert,Chacon2017,,,Chacon2017
-606,606,pía,thouyou21,false,expert,Chacon2017,,,Chacon2017
-607,607,ha?,thouyou843,false,expert,Chacon2017,,,Chacon2017
-608,608,phá,thouyou21,false,expert,Chacon2017,,,Chacon2017
-609,609,phú,thouyou21,false,expert,Chacon2017,,,Chacon2017
-610,610,piha,thouyou21,false,expert,Chacon2017,,,Chacon2017
-611,611,piha,thouyou21,false,expert,Chacon2017,,,Chacon2017
-612,612,iha,thouyou844,false,expert,Chacon2017,,,Chacon2017
-613,613,iká,thouyou844,false,expert,Chacon2017,,,Chacon2017
-614,614,piká,thouyou21,false,expert,Chacon2017,,,Chacon2017
-615,615,ínaneeʃi,tongue857,false,expert,Chacon2017,-   -   í   n   a   n   e e   ʃ   i,,Chacon2017
-616,616,-eenene,tongue857,false,expert,Chacon2017,-   -   e e   n   e   n   e   -   -,,Chacon2017
-617,617,nenipá,tongue857,false,expert,Chacon2017,-   n   e   n   i   -   -   p   á,,Chacon2017
-618,618,nène,tongue857,false,expert,Chacon2017,-   n   è   n   e   -   -   -   -,,Chacon2017
-619,619,e?héepé,tongue854,false,expert,Chacon2017,,,Chacon2017
-620,620,lenaji,tongue857,false,expert,Chacon2017,-   l   e   n   a   -   -   h   i,,Chacon2017
-621,621,éeʃi,tooth862,false,expert,Chacon2017,-   é   e   ʃ   i   -   -   -,,Chacon2017
-622,622,-eetsha,tooth862,false,expert,Chacon2017,-   e e   -   t s h   a   -   -   -,,Chacon2017
-623,623,-dzawiere,tooth868,false,expert,Chacon2017,,,Chacon2017
-624,624,-ee,tooth862,false,expert,Chacon2017,-   e e   -   -   -   -   -   -,,Chacon2017
-625,625,-kako,tooth871,false,expert,Chacon2017,,,Chacon2017
-626,626,-likoe,tooth872,false,expert,Chacon2017,,,Chacon2017
-627,627,ʔía,tooth862,false,expert,Chacon2017,,,Chacon2017
-628,628,yèi,tooth862,false,expert,Chacon2017,,,Chacon2017
-629,629,oné,tooth864,false,expert,Chacon2017,,,Chacon2017
-630,630,aijí,tooth22,false,expert,Chacon2017,-   a   i   h   í   -   -   -,,Chacon2017
-631,631,áikuba,treewood879,false,expert,Chacon2017,-   á   i   k   u   b   a,,Chacon2017
-632,632,haiko,treewood879,false,expert,Chacon2017,h   a   i   k   o   -   -,,Chacon2017
-633,633,ʔahaa,treewood881,false,expert,Chacon2017,ʔ   a   h   a a   -   -   -   -   -   -   -,,Chacon2017
-634,634,jéetaná,treewood877,false,expert,Chacon2017,j   é   e   t   a   -   -   n   á,,Chacon2017
-635,635,àiku,treewood879,false,expert,Chacon2017,-   à   i   k   u   -   -,,Chacon2017
-636,636,aváana?é,treewood881,false,expert,Chacon2017,-   a   -   -   v   á   a   n   a   ʔ   é,,Chacon2017
-637,637,a'awaná,treewood881,false,expert,Chacon2017,-   a   ʔ   a   w   a   -   n   á   -   -,,Chacon2017
-638,638,tʃámai,two887,false,expert,Chacon2017,-   -   -   -   -   t ʃ   á   m   a   i   -,,Chacon2017
-639,639,dzama-,two887,false,expert,Chacon2017,-   -   -   -   -   d z   a   m   a   -   -,,Chacon2017
-640,640,tʃumaa-,two887,false,expert,Chacon2017,-   -   -   -   -   t ʃ   u   m   a a   -   -,,Chacon2017
-641,641,pucháiba,two889,false,expert,Chacon2017,,,Chacon2017
-642,642,migaakú,two890,false,expert,Chacon2017,,,Chacon2017
-643,643,iyamá,two887,false,expert,Chacon2017,-   -   -   -   i   j   a   m   á   -   -,,Chacon2017
-644,644,dama-,two887,false,expert,Chacon2017,-   -   -   -   -   d   a   m   a   -   -,,Chacon2017
-645,645,híneriu,walk894,false,expert,Chacon2017,,,Chacon2017
-646,646,-áanhi,walk901,false,expert,Chacon2017,-   á   a   n h   i   -   -   -   -,,Chacon2017
-647,647,-eemánhi,walk900,false,expert,Chacon2017,-   -   e e   m   á   n h   i,,Chacon2017
-648,648,aa,walk901,false,expert,Chacon2017,-   a a   -   -   -   -   -   -   -,,Chacon2017
-649,649,nuèpunícawa,walk898,false,expert,Chacon2017,,,Chacon2017
-650,650,-hí?vu,walk899,false,expert,Chacon2017,,,Chacon2017
-651,651,ja'apákaje,walk901,false,expert,Chacon2017,j   a   ' a   p   á   k   a   j   e,,Chacon2017
-652,652,ʃiátai,water909,false,expert,Chacon2017,ʃ   i   á   t   a   i   -   -,,Chacon2017
-653,653,óoni,water910,false,expert,Chacon2017,ó   o   n   i,,Chacon2017
-654,654,úuni,water910,false,expert,Chacon2017,ú   u   n   i,,Chacon2017
-655,655,ú(u)ni,water910,false,expert,Chacon2017,ú   u   n   i,,Chacon2017
-656,656,hooní,water910,false,expert,Chacon2017,h   o o   n   í,,Chacon2017
-657,657,juni,water910,false,expert,Chacon2017,h   ú   n   i,,Chacon2017
-658,658,wajá,we911,false,expert,Chacon2017,w   a   j   á,,Chacon2017
-659,659,whía,we911,false,expert,Chacon2017,w h   í   -   a,,Chacon2017
-660,660,wa-,we911,false,expert,Chacon2017,w   a   -   -,,Chacon2017
-661,661,whé,we911,false,expert,Chacon2017,w h   é   -   -,,Chacon2017
-662,662,wa-,we911,false,expert,Chacon2017,w   a   -   -,,Chacon2017
-663,663,wía,we911,false,expert,Chacon2017,w   í   -   a,,Chacon2017
-664,664,muu?á,we916,false,expert,Chacon2017,,,Chacon2017
-665,665,fa?á,we911,false,expert,Chacon2017,f   a   ʔ   á,,Chacon2017
-666,666,w(a)ha,we911,false,expert,Chacon2017,w   a   ) h   a,,Chacon2017
-667,667,weká,we911,false,expert,Chacon2017,w   e   k   á,,Chacon2017
-668,668,weká,we911,false,expert,Chacon2017,w   e   k   á,,Chacon2017
-669,669,wa-,we911,false,expert,Chacon2017,w   a   -   -,,Chacon2017
-670,670,-wi,we911,false,expert,Chacon2017,w   i   -   -,,Chacon2017
-671,671,tána,what947,false,expert,Chacon2017,,,Chacon2017
-672,672,kôaka?,what948,false,expert,Chacon2017,,,Chacon2017
-673,673,mikha,what950,false,expert,Chacon2017,,,Chacon2017
-674,674,arhi,what960,false,expert,Chacon2017,-   a   r h   i   -   -   -   -,,Chacon2017
-675,675,umha,what959,false,expert,Chacon2017,,,Chacon2017
-676,676,càiná,what947,false,expert,Chacon2017,,,Chacon2017
-677,677,cawiná,what947,false,expert,Chacon2017,,,Chacon2017
-678,678,keeni,what947,false,expert,Chacon2017,,,Chacon2017
-679,679,kooni,what947,false,expert,Chacon2017,,,Chacon2017
-680,680,na,what925,false,expert,Chacon2017,,,Chacon2017
-681,681,kabálai,white943,false,expert,Chacon2017,k   a   b   á   l   a   i   -   -,,Chacon2017
-682,682,hále,white943,false,expert,Chacon2017,-   -   h   á   l   e   -   -   -,,Chacon2017
-683,683,yalanawi,white944,false,expert,Chacon2017,,,Chacon2017
-684,684,katare:i-ri,white939,false,expert,Chacon2017,,,Chacon2017
-685,685,jarane,white944,false,expert,Chacon2017,,,Chacon2017
-686,686,cabalèeri,white943,false,expert,Chacon2017,k   a   b   a   l   è   e   ɾ   i,,Chacon2017
-687,687,jareni,white944,false,expert,Chacon2017,,,Chacon2017
-688,688,tána,who947,false,expert,Chacon2017,,,Chacon2017
-689,689,kóaka,who948,false,expert,Chacon2017,,,Chacon2017
-690,690,mikha,who950,false,expert,Chacon2017,,,Chacon2017
-691,691,arhi,who960,false,expert,Chacon2017,-   a   r h   i   -   -   -   -,,Chacon2017
-692,692,umha,who959,false,expert,Chacon2017,,,Chacon2017
-693,693,càiná,who947,false,expert,Chacon2017,,,Chacon2017
-694,694,cawiná,who947,false,expert,Chacon2017,,,Chacon2017
-695,695,kéení,who947,false,expert,Chacon2017,,,Chacon2017
-696,696,kwana,who947,false,expert,Chacon2017,,,Chacon2017
-697,697,najlo,who955,false,expert,Chacon2017,,,Chacon2017
-698,698,íinetoo,woman968,false,expert,Chacon2017,í   i   n   e   t   o o   -   -,,Chacon2017
-699,699,íina,woman968,false,expert,Chacon2017,í   i   n   a   -   -   -   -,,Chacon2017
-700,700,íinaro,woman968,false,expert,Chacon2017,í   i   n   a   r   o   -   -,,Chacon2017
-701,701,nanáwí,woman23,false,expert,Chacon2017,n   a   n   á   w   í   -   -,,Chacon2017
-702,702,inanái,woman968,false,expert,Chacon2017,-   i   n   a   n   á   i   -,,Chacon2017
-703,703,ináadó,woman968,false,expert,Chacon2017,-   i   n   á   a   d   ó   -,,Chacon2017
-704,704,inanaru,woman968,false,expert,Chacon2017,-   i   n   a   n   a   ɾ   u,,Chacon2017
-705,705,meréekii,yellow971,false,expert,Chacon2017,,,Chacon2017
-706,706,éewa,yellow981,false,expert,Chacon2017,-   -   -   é   e   w   a   -   -,,Chacon2017
-707,707,karawa-ri,yellow981,false,expert,Chacon2017,k   a   r   -   a   w   a   r   i,,Chacon2017
-708,708,é(e)wa,yellow981,false,expert,Chacon2017,-   -   -   é   e   w   a   -   -,,Chacon2017
-709,709,éewéeri,yellow981,false,expert,Chacon2017,-   -   -   é :   -   w   é :   ɾ   i,,Chacon2017
-710,710,dogíiga?é?,yellow976,false,expert,Chacon2017,,,Chacon2017
-711,711,jewani,yellow981,false,expert,Chacon2017,-   -   -   j   e   w   a   n   i,,Chacon2017
+achagua-i-1-1,achagua-i-1,nujá,i1,false,expert,Chacon2017,,,Chacon2017
+baniwa-i-1-1,baniwa-i-1,nhóa,i1,false,expert,Chacon2017,,,Chacon2017
+kabiyari-i-1-1,kabiyari-i-1,nhú,i1,false,expert,Chacon2017,,,Chacon2017
+kabiyari-i-2-1,kabiyari-i-2,nu-,i1,false,expert,Chacon2017,,,Chacon2017
+piapoco-i-1-1,piapoco-i-1,núa,i1,false,expert,Chacon2017,,,Chacon2017
+resigaro-i-1-1,resigaro-i-1,ó,i6,false,expert,Chacon2017,,,Chacon2017
+tariana-i-1-1,tariana-i-1,nuha,i1,false,expert,Chacon2017,,,Chacon2017
+yukuna-i-1-1,yukuna-i-1,nuká,i1,false,expert,Chacon2017,,,Chacon2017
+achagua-all-1-1,achagua-all-1,kinínama,all9,false,expert,Chacon2017,,,Chacon2017
+baniwa-all-1-1,baniwa-all-1,phálhai,all11,false,expert,Chacon2017,ph á lh a ( - i ),,Chacon2017
+kabiyari-all-1-1,kabiyari-all-1,put'i,all17,false,expert,Chacon2017,,,Chacon2017
+piapoco-all-1-1,piapoco-all-1,canánama,all9,false,expert,Chacon2017,,,Chacon2017
+piapoco-all-2-1,piapoco-all-2,macáita,all18,false,expert,Chacon2017,,,Chacon2017
+resigaro-all-1-1,resigaro-all-1,phé?tó?,all17,false,expert,Chacon2017,,,Chacon2017
+yukuna-all-1-1,yukuna-all-1,piyukeja,all17,false,expert,Chacon2017,,,Chacon2017
+achagua-ash-1-1,achagua-ash-1,báali,ash27,false,expert,Chacon2017,- b a: - - l i - - - -,,Chacon2017
+baniwa-ash-1-1,baniwa-ash-1,-wádzole,ash26,false,expert,Chacon2017,,,Chacon2017
+kabiyari-ash-1-1,kabiyari-ash-1,pa'ari,ash27,false,expert,Chacon2017,- p a ʔ a r i - - - -,,Chacon2017
+piapoco-ash-1-1,piapoco-ash-1,balìi,ash27,false,expert,Chacon2017,- b a - - l ì - i - -,,Chacon2017
+piapoco-ash-2-1,piapoco-ash-2,ibalìiná,ash27,false,expert,Chacon2017,i b a - - l ì - i n á,,Chacon2017
+resigaro-ash-1-1,resigaro-ash-1,ókóniigiJíhú,ash25,false,expert,Chacon2017,,,Chacon2017
+yukuna-ash-1-1,yukuna-ash-1,pai'ilá,ash27,false,expert,Chacon2017,- p a - i ʔ i - - l á,,Chacon2017
+achagua-bark-1-1,achagua-bark-1,íimanaʃi,bark37,false,expert,Chacon2017,- - - - - i: - m a - - - n a ( ʃ i ),,Chacon2017
+baniwa-bark-1-1,baniwa-bark-1,-ya,bark30,false,expert,Chacon2017,,,Chacon2017
+resigaro-bark-1-1,resigaro-bark-1,da?mí,bark37,false,expert,Chacon2017,- - - - - - - d a ʔ m í - - ( - - ),,Chacon2017
+yukuna-bark-1-1,yukuna-bark-1,ímaji,bark37,false,expert,Chacon2017,- - - - - í - m a h - i - - ( - - ),,Chacon2017
+achagua-belly-1-1,achagua-belly-1,jawaiʃi,belly39,false,expert,Chacon2017,,,Chacon2017
+baniwa-belly-1-1,baniwa-belly-1,-xáda,belly48,false,expert,Chacon2017,( - - ) - - ʃ á d a - -,,Chacon2017
+kabiyari-belly-1-1,kabiyari-belly-1,te[re],belly46,false,expert,Chacon2017,( - - ) t e r e,,Chacon2017
+piapoco-belly-1-1,piapoco-belly-1,dèe,belly46,false,expert,Chacon2017,( - - ) d è - e,,Chacon2017
+resigaro-belly-1-1,resigaro-belly-1,-ii?šáú,belly48,false,expert,Chacon2017,( - - ) ii ʔ š á - - - ú,,Chacon2017
+yukuna-belly-1-1,yukuna-belly-1,julaji,belly47,false,expert,Chacon2017,,,Chacon2017
+achagua-big-1-1,achagua-big-1,máanuii,big58,false,expert,Chacon2017,m aa n u - ii - -,,Chacon2017
+baniwa-big-1-1,baniwa-big-1,maka-,big50,false,expert,Chacon2017,,,Chacon2017
+kabiyari-big-1-1,kabiyari-big-1,manuʔú,big58,false,expert,Chacon2017,m a n u ʔ ú - -,,Chacon2017
+piapoco-big-1-1,piapoco-big-1,manuíri,big58,false,expert,Chacon2017,m a n u - í ɾ i,,Chacon2017
+resigaro-big-1-1,resigaro-big-1,ǰiǰá?aamí,big54,false,expert,Chacon2017,,,Chacon2017
+yukuna-big-1-1,yukuna-big-1,ñópo'ojlo,big57,false,expert,Chacon2017,,,Chacon2017
+achagua-bird-1-1,achagua-bird-1,míʃidu,bird66,false,expert,Chacon2017,m í ʃ i - - - d u,,Chacon2017
+baniwa-bird-1-1,baniwa-bird-1,képira,bird67,false,expert,Chacon2017,,,Chacon2017
+kabiyari-bird-1-1,kabiyari-bird-1,ʔupira,bird67,false,expert,Chacon2017,,,Chacon2017
+kabiyari-bird-2-1,kabiyari-bird-2,ku(' )pira,bird67,false,expert,Chacon2017,,,Chacon2017
+piapoco-bird-1-1,piapoco-bird-1,màsibèe,bird66,false,expert,Chacon2017,m à s i b è e - -,,Chacon2017
+piapoco-bird-2-1,piapoco-bird-2,kuìpìra,bird67,false,expert,Chacon2017,,,Chacon2017
+resigaro-bird-1-1,resigaro-bird-1,kóʔpíidú,bird67,false,expert,Chacon2017,,,Chacon2017
+resigaro-bird-2-1,resigaro-bird-2,adovíigí,bird70,false,expert,Chacon2017,,,Chacon2017
+yukuna-bird-1-1,yukuna-bird-1,kupira'aphá,bird67,false,expert,Chacon2017,,,Chacon2017
+achagua-bite-1-1,achagua-bite-1,-ámua,bite79,false,expert,Chacon2017,( - - ) á - m u - - a - - - - -,,Chacon2017
+baniwa-bite-1-1,baniwa-bite-1,-mhoa,bite79,false,expert,Chacon2017,( - - ) - - mh o - - a - - - - -,,Chacon2017
+kabiyari-bite-1-1,kabiyari-bite-1,amhe,bite79,false,expert,Chacon2017,( - - ) a - mh e - - - - - - - -,,Chacon2017
+piapoco-bite-1-1,piapoco-bite-1,ichicúadaca,bite75,false,expert,Chacon2017,,,Chacon2017
+piapoco-bite-2-1,piapoco-bite-2,imasáaca,bite79,false,expert,Chacon2017,( - - ) - i m a - s á a k a - -,,Chacon2017
+piapoco-bite-3-1,piapoco-bite-3,nuamíadaca,bite79,false,expert,Chacon2017,( n u ) a - m í a d a - k a - -,,Chacon2017
+piapoco-bite-4-1,piapoco-bite-4,yaamíaca,bite79,false,expert,Chacon2017,( - j ) aa - m í - - a - k a - -,,Chacon2017
+piapoco-bite-5-1,piapoco-bite-5,yúucaca,bite83,false,expert,Chacon2017,,,Chacon2017
+resigaro-bite-1-1,resigaro-bite-1,-emú,bite79,false,expert,Chacon2017,( - - ) - e m ú - - - - - - - -,,Chacon2017
+yukuna-bite-1-1,yukuna-bite-1,ajma'akaje,bite79,false,expert,Chacon2017,( - - ) a h m a - ʔ a - k a h e,,Chacon2017
+achagua-black-1-1,achagua-black-1,katʃáhulailau,black89,false,expert,Chacon2017,k a tʃ a h u - l a i l a u,,Chacon2017
+baniwa-black-1-1,baniwa-black-1,íitta,black86,false,expert,Chacon2017,í i tt a -,,Chacon2017
+kabiyari-black-1-1,kabiyari-black-1,kewere-ri,black88,false,expert,Chacon2017,k e w e r e r i,,Chacon2017
+piapoco-black-1-1,piapoco-black-1,cúulíiri,black88,false,expert,Chacon2017,k - ú: - l í: ɾ i,,Chacon2017
+resigaro-black-1-1,resigaro-black-1,tsaphó?,black89,false,expert,Chacon2017,- - ts a ph ó ʔ - - - - - -,,Chacon2017
+yukuna-black-1-1,yukuna-black-1,kameni,black91,false,expert,Chacon2017,,,Chacon2017
+achagua-blood-1-1,achagua-blood-1,íirai,blood97,false,expert,Chacon2017,- - ii r a - i - -,,Chacon2017
+baniwa-blood-1-1,baniwa-blood-1,-iiranaa,blood97,false,expert,Chacon2017,- - ii r a - - n aa,,Chacon2017
+kabiyari-blood-1-1,kabiyari-blood-1,íʔira,blood97,false,expert,Chacon2017,í ʔ i r a - - - -,,Chacon2017
+piapoco-blood-1-1,piapoco-blood-1,irái,blood97,false,expert,Chacon2017,- - i ɾ á - i - -,,Chacon2017
+resigaro-blood-1-1,resigaro-blood-1,-iidú,blood97,false,expert,Chacon2017,- - ii d ú - - - -,,Chacon2017
+yukuna-blood-1-1,yukuna-blood-1,íraji,blood97,false,expert,Chacon2017,- - í ɾ a h i - -,,Chacon2017
+yukuna-blood-2-1,yukuna-blood-2,jirá,blood97,false,expert,Chacon2017,- h i ɾ á - - - -,,Chacon2017
+achagua-bone-1-1,achagua-bone-1,jáhiʃi,bone108,false,expert,Chacon2017,( - - ) j a - - h i - ( ʃ i - - - - ),,Chacon2017
+baniwa-bone-1-1,baniwa-bone-1,-áapi,bone108,false,expert,Chacon2017,( - - ) - á - a p i - ( - - - - - - ),,Chacon2017
+kabiyari-bone-1-1,kabiyari-bone-1,japi,bone108,false,expert,Chacon2017,( - - ) j - - a p i - ( - - - - - - ),,Chacon2017
+piapoco-bone-1-1,piapoco-bone-1,api,bone108,false,expert,Chacon2017,( - - ) - - - a p i - ( - - - - - - ),,Chacon2017
+resigaro-bone-1-1,resigaro-bone-1,aápí,bone108,false,expert,Chacon2017,( - - ) - a - á p í - ( - - - - - - ),,Chacon2017
+yukuna-bone-1-1,yukuna-bone-1,aphinámiji,bone108,false,expert,Chacon2017,( - - ) - - - a pʰ i - ( n á m i h i ),,Chacon2017
+baniwa-breast1-1-1,baniwa-breast1-1,-íini,breast1117,false,expert,Chacon2017,,,Chacon2017
+piapoco-breast1-1-1,piapoco-breast1-1,ìni,breast1117,false,expert,Chacon2017,,,Chacon2017
+achagua-breast2-1-1,achagua-breast2-1,kútaʃi,breast2120,false,expert,Chacon2017,- - - - k u t a ʃ i - - -,,Chacon2017
+kabiyari-breast2-1-1,kabiyari-breast2-1,ji,breast2117,false,expert,Chacon2017,,,Chacon2017
+kabiyari-breast2-2-1,kabiyari-breast2-2,ukhu(ta),breast2120,false,expert,Chacon2017,- - u - kh u t a - - - - -,,Chacon2017
+piapoco-breast2-1-1,piapoco-breast2-1,ucuta,breast2120,false,expert,Chacon2017,- - u - k u t a - - - - -,,Chacon2017
+resigaro-breast2-1-1,resigaro-breast2-1,ó?kótáapígú,breast2120,false,expert,Chacon2017,- - ó ʔ k ó t á a p í g ú,,Chacon2017
+yukuna-breast2-1-1,yukuna-breast2-1,chu'uchú,breast23,false,expert,Chacon2017,- - tʃ u ʔ u tʃ ú,,Chacon2017
+baniwa-burn1-1-1,baniwa-burn1-1,-haaka,burn1129,false,expert,Chacon2017,h aa k a - - - - - - - -,,Chacon2017
+yukuna-burn1-1-1,yukuna-burn1-1,kára'akaje,burn1129,false,expert,Chacon2017,- - k á r a ʔ a k a h e,,Chacon2017
+achagua-burn2-1-1,achagua-burn2-1,éemairi,burn2130,false,expert,Chacon2017,( - - ) - e: m a i r i - - - -,,Chacon2017
+baniwa-burn2-1-1,baniwa-burn2-1,-ma,burn2130,false,expert,Chacon2017,( - - ) - - m a - - - - - - -,,Chacon2017
+kabiyari-burn2-1-1,kabiyari-burn2-1,kahema,burn2130,false,expert,Chacon2017,( k a ) h e m a - - - - - - -,,Chacon2017
+kabiyari-burn2-2-1,kabiyari-burn2-2,heema,burn2130,false,expert,Chacon2017,( - - ) h ee m a - - - - - - -,,Chacon2017
+piapoco-burn2-1-1,piapoco-burn2-1,emáca,burn2130,false,expert,Chacon2017,( - - ) - e m á k a - - - - -,,Chacon2017
+resigaro-burn2-1-1,resigaro-burn2-1,hoo-khú,burn2129,false,expert,Chacon2017,h oo kʰ ú - - - - - - - -,,Chacon2017
+warekena-burn2-1-1,warekena-burn2-1,méniketa,burn2130,false,expert,Chacon2017,( - - ) - - m é - n i k e t a,,Chacon2017
+achagua-claw-1-1,achagua-claw-1,júbawiaʃi,claw138,false,expert,Chacon2017,- - j u - - b a w i a ʃ i,,Chacon2017
+baniwa-claw-1-1,baniwa-claw-1,-tsóta,claw140,false,expert,Chacon2017,,,Chacon2017
+kabiyari-claw-1-1,kabiyari-claw-1,u'upa,claw138,false,expert,Chacon2017,- - - u ʔ u p a - - - - -,,Chacon2017
+piapoco-claw-1-1,piapoco-claw-1,yúuba,claw138,false,expert,Chacon2017,- - y ú - u b a - - - - -,,Chacon2017
+piapoco-claw-2-1,piapoco-claw-2,uba,claw138,false,expert,Chacon2017,- - - - - u b a - - - - -,,Chacon2017
+resigaro-claw-1-1,resigaro-claw-1,hi?táví,claw140,false,expert,Chacon2017,,,Chacon2017
+yukuna-claw-1-1,yukuna-claw-1,u'upa,claw138,false,expert,Chacon2017,- - - u ʔ u p a - - - - -,,Chacon2017
+achagua-cloud-1-1,achagua-cloud-1,sáanai,cloud143,false,expert,Chacon2017,,,Chacon2017
+baniwa-cloud-1-1,baniwa-cloud-1,eenótona,cloud144,false,expert,Chacon2017,,,Chacon2017
+baniwa-cloud-2-1,baniwa-cloud-2,idzadawäka,cloud152,false,expert,Chacon2017,- i dz a d a w a k a,,Chacon2017
+piapoco-cloud-1-1,piapoco-cloud-1,acalèe,cloud150,false,expert,Chacon2017,- - - - - - - - a k a - - l è e,,Chacon2017
+resigaro-cloud-1-1,resigaro-cloud-1,iítshú,cloud152,false,expert,Chacon2017,i í tsh ú - - - - - -,,Chacon2017
+yukuna-cloud-1-1,yukuna-cloud-1,[juni] juwáka'ala,cloud150,false,expert,Chacon2017,h u n i _ h u w á k a ʔ a l a -,,Chacon2017
+achagua-cold-1-1,achagua-cold-1,kasáIinii,cold153,false,expert,Chacon2017,,,Chacon2017
+baniwa-cold-1-1,baniwa-cold-1,hápe,cold165,false,expert,Chacon2017,- - h á - p e - - - -,,Chacon2017
+kabiyari-cold-1-1,kabiyari-cold-1,peʔe,cold165,false,expert,Chacon2017,- - - - - p e ʔ e - -,,Chacon2017
+piapoco-cold-1-1,piapoco-cold-1,casalíníiri,cold153,false,expert,Chacon2017,,,Chacon2017
+resigaro-cold-1-1,resigaro-cold-1,hi?píí?,cold165,false,expert,Chacon2017,- - h i ʔ p íí ʔ - - -,,Chacon2017
+resigaro-cold-2-1,resigaro-cold-2,taa,cold5,false,expert,Chacon2017,t aa - - - - - - - - -,,Chacon2017
+yukuna-cold-1-1,yukuna-cold-1,ipe'ení,cold165,false,expert,Chacon2017,- i p e - ʔ e n í - -,,Chacon2017
+achagua-come-1-1,achagua-come-1,íinueri,come169,false,expert,Chacon2017,i: - - n u e r i - - - - - - - - - -,,Chacon2017
+baniwa-come-1-1,baniwa-come-1,-no,come169,false,expert,Chacon2017,- - - n o - - - - - - - - - - - - -,,Chacon2017
+kabiyari-come-1-1,kabiyari-come-1,mira(a)ni,come7,false,expert,Chacon2017,,,Chacon2017
+kabiyari-come-2-1,kabiyari-come-2,anaa,come169,false,expert,Chacon2017,- a - n - aa - - - - - - - - - - - -,,Chacon2017
+piapoco-come-1-1,piapoco-come-1,nùacawa néese,come169,false,expert,Chacon2017,- - - n ù a - - k a w a _ n é e s e,,Chacon2017
+resigaro-come-1-1,resigaro-come-1,tsa?nú,come169,false,expert,Chacon2017,ts a ʔ n ú - - - - - - - - - - - - -,,Chacon2017
+yukuna-come-1-1,yukuna-come-1,iphakaje,come173,false,expert,Chacon2017,,,Chacon2017
+yukuna-come-2-1,yukuna-come-2,waícha,come175,false,expert,Chacon2017,,,Chacon2017
+warekena-come-1-1,warekena-come-1,-wína,come7,false,expert,Chacon2017,,,Chacon2017
+warekena-come-2-1,warekena-come-2,wádi!,come175,false,expert,Chacon2017,,,Chacon2017
+achagua-die-1-1,achagua-die-1,máanalii,die177,false,expert,Chacon2017,,,Chacon2017
+baniwa-die-1-1,baniwa-die-1,malíome,die178,false,expert,Chacon2017,,,Chacon2017
+kabiyari-die-1-1,kabiyari-die-1,mikuu,die180,false,expert,Chacon2017,- - m i k uu,,Chacon2017
+piapoco-die-1-1,piapoco-die-1,étácawa,die185,false,expert,Chacon2017,é t á k a w a - - - -,,Chacon2017
+resigaro-die-1-1,resigaro-die-1,kainée- ǰú,die182,false,expert,Chacon2017,,,Chacon2017
+yukuna-die-1-1,yukuna-die-1,taka'akaje,die185,false,expert,Chacon2017,- t a k a ʔ a k a h e,,Chacon2017
+achagua-dog-1-1,achagua-dog-1,auli,dog190,false,expert,Chacon2017,- a u l i - -,,Chacon2017
+baniwa-dog-1-1,baniwa-dog-1,tsiino,dog187,false,expert,Chacon2017,ts ii - n o,,Chacon2017
+kabiyari-dog-1-1,kabiyari-dog-1,t∫aawi,dog189,false,expert,Chacon2017,,,Chacon2017
+piapoco-dog-1-1,piapoco-dog-1,yàlidu,dog190,false,expert,Chacon2017,j à - l i d u,,Chacon2017
+resigaro-dog-1-1,resigaro-dog-1,íiní,dog187,false,expert,Chacon2017,- í i n í,,Chacon2017
+tariana-dog-1-1,tariana-dog-1,čínu,dog187,false,expert,Chacon2017,tʃ í - n u,,Chacon2017
+yukuna-dog-1-1,yukuna-dog-1,walú,dog194,false,expert,Chacon2017,,,Chacon2017
+achagua-drink-1-1,achagua-drink-1,íireri,drink196,false,expert,Chacon2017,- - - i: - r e r i - -,,Chacon2017
+baniwa-drink-1-1,baniwa-drink-1,-íira,drink196,false,expert,Chacon2017,- í - i - r a - - - -,,Chacon2017
+kabiyari-drink-1-1,kabiyari-drink-1,irá,drink196,false,expert,Chacon2017,- - - i - r á - - - -,,Chacon2017
+piapoco-drink-1-1,piapoco-drink-1,ìraca,drink196,false,expert,Chacon2017,- - - ì - ɾ a k a - -,,Chacon2017
+resigaro-drink-1-1,resigaro-drink-1,i?dú,drink196,false,expert,Chacon2017,- - - i ʔ d ú - - - -,,Chacon2017
+yukuna-drink-1-1,yukuna-drink-1,i'irakaje,drink196,false,expert,Chacon2017,- i ʔ i - ɾ a k a h e,,Chacon2017
+baniwa-dryn-1-1,baniwa-dryn-1,-meettáta,dryn209,false,expert,Chacon2017,,,Chacon2017
+kabiyari-dryn-1-1,kabiyari-dryn-1,iwá,dryn205,false,expert,Chacon2017,,,Chacon2017
+piapoco-dryn-1-1,piapoco-dryn-1,chuìri,dryn206,false,expert,Chacon2017,,,Chacon2017
+resigaro-dryn-1-1,resigaro-dryn-1,makádú,dryn210,false,expert,Chacon2017,- - m a k á d ú - - - - -,,Chacon2017
+yukuna-dryn-1-1,yukuna-dryn-1,makára'akaje,dryn210,false,expert,Chacon2017,- - m a k á r a 'a k a j e,,Chacon2017
+achagua-ear-1-1,achagua-ear-1,wíbaʃi,ear219,false,expert,Chacon2017,- - w i b a ʃ i,,Chacon2017
+baniwa-ear-1-1,baniwa-ear-1,-heeni,ear8,false,expert,Chacon2017,- - h ee n i - - - - - -,,Chacon2017
+baniwa-ear-2-1,baniwa-ear-2,-hináko-liko,ear217,false,expert,Chacon2017,- - h i n á k o l i k o,,Chacon2017
+kabiyari-ear-1-1,kabiyari-ear-1,u'uwi,ear219,false,expert,Chacon2017,u ʔ u w i - - -,,Chacon2017
+piapoco-ear-1-1,piapoco-ear-1,uwi,ear219,false,expert,Chacon2017,- - u w i - - -,,Chacon2017
+resigaro-ear-1-1,resigaro-ear-1,henákó,ear217,false,expert,Chacon2017,- - h e n á k ó - - - -,,Chacon2017
+yukuna-ear-1-1,yukuna-ear-1,i'ijwijí,ear219,false,expert,Chacon2017,i ʔ i h w i h í,,Chacon2017
+achagua-earth-1-1,achagua-earth-1,káinabi,earth228,false,expert,Chacon2017,- - - k a - - i n a b i,,Chacon2017
+baniwa-earth-1-1,baniwa-earth-1,híipai,earth222,false,expert,Chacon2017,,,Chacon2017
+kabiyari-earth-1-1,kabiyari-earth-1,ta'ka(a)ri,earth228,false,expert,Chacon2017,t a ʔ k a a r i - - - -,,Chacon2017
+piapoco-earth-1-1,piapoco-earth-1,cáli,earth228,false,expert,Chacon2017,- - - k á - l i - - - -,,Chacon2017
+resigaro-earth-1-1,resigaro-earth-1,hihi,earth226,false,expert,Chacon2017,,,Chacon2017
+yukuna-earth-1-1,yukuna-earth-1,te'erí,earth229,false,expert,Chacon2017,,,Chacon2017
+achagua-eat-1-1,achagua-eat-1,íijeri,eat232,false,expert,Chacon2017,- i: j e r i - -,,Chacon2017
+baniwa-eat-1-1,baniwa-eat-1,-íiñha,eat232,false,expert,Chacon2017,í i ñh a - - - -,,Chacon2017
+kabiyari-eat-1-1,kabiyari-eat-1,tʃha,eat232,false,expert,Chacon2017,- - tʃh a - - - -,,Chacon2017
+piapoco-eat-1-1,piapoco-eat-1,yáaca,eat232,false,expert,Chacon2017,- - j á: k a - -,,Chacon2017
+resigaro-eat-1-1,resigaro-eat-1,a?mitú,eat235,false,expert,Chacon2017,,,Chacon2017
+yukuna-eat-1-1,yukuna-eat-1,ajñakaje,eat232,false,expert,Chacon2017,a h ɲ a k a h e,,Chacon2017
+achagua-egg-1-1,achagua-egg-1,éewiʃi,egg246,false,expert,Chacon2017,- - ee w i ʃ i -,,Chacon2017
+baniwa-egg-1-1,baniwa-egg-1,-éewhe,egg246,false,expert,Chacon2017,- é e wh e - - -,,Chacon2017
+kabiyari-egg-1-1,kabiyari-egg-1,éewhé,egg246,false,expert,Chacon2017,- é e wh é - - -,,Chacon2017
+piapoco-egg-1-1,piapoco-egg-1,yéewési,egg246,false,expert,Chacon2017,- j é: w é s i -,,Chacon2017
+resigaro-egg-1-1,resigaro-egg-1,eévé(ú),egg246,false,expert,Chacon2017,- e é v é - - ú,,Chacon2017
+yukuna-egg-1-1,yukuna-egg-1,ejweji,egg246,false,expert,Chacon2017,- - e hw e h i -,,Chacon2017
+achagua-eye-1-1,achagua-eye-1,túiʃi,eye254,false,expert,Chacon2017,( - - ) - - t u i ʃ i,,Chacon2017
+baniwa-eye-1-1,baniwa-eye-1,-thi,eye254,false,expert,Chacon2017,( - - ) - - th - i - -,,Chacon2017
+kabiyari-eye-1-1,kabiyari-eye-1,thu,eye254,false,expert,Chacon2017,( - - ) - - th u - - -,,Chacon2017
+piapoco-eye-1-1,piapoco-eye-1,tuí,eye254,false,expert,Chacon2017,( - - ) - - t u - - í,,Chacon2017
+resigaro-eye-1-1,resigaro-eye-1,ijlují,eye254,false,expert,Chacon2017,( - - ) i h l u - h í,,Chacon2017
+yukuna-eye-1-1,yukuna-eye-1,ijlují,eye254,false,expert,Chacon2017,( - - ) i h l u - h í,,Chacon2017
+kabiyari-feather-1-1,kabiyari-feather-1,apána,feather256,false,expert,Chacon2017,,,Chacon2017
+piapoco-feather-1-1,piapoco-feather-1,báica,feather257,false,expert,Chacon2017,,,Chacon2017
+resigaro-feather-1-1,resigaro-feather-1,tsíináhí,feather10,false,expert,Chacon2017,- - ts í i n á h í,,Chacon2017
+tariana-feather-1-1,tariana-feather-1,dí-ča,feather259,false,expert,Chacon2017,,,Chacon2017
+tariana-feather-2-1,tariana-feather-2,díča-ɾe,feather10,false,expert,Chacon2017,d í tʃ a - ɾ e - -,,Chacon2017
+tariana-feather-3-1,tariana-feather-3,daɾuphemá-ma,feather262,false,expert,Chacon2017,,,Chacon2017
+yukuna-feather-1-1,yukuna-feather-1,chijneji,feather10,false,expert,Chacon2017,- - tʃ i - hn e h i,,Chacon2017
+achagua-fire-1-1,achagua-fire-1,tʃitʃái,fire272,false,expert,Chacon2017,tʃ i tʃ a i - - - - -,,Chacon2017
+baniwa-fire-1-1,baniwa-fire-1,ttídzee,fire272,false,expert,Chacon2017,tt í dz ee - - - - - -,,Chacon2017
+kabiyari-fire-1-1,kabiyari-fire-1,kira'ari,fire272,false,expert,Chacon2017,k i r a ʔ a r i - -,,Chacon2017
+piapoco-fire-1-1,piapoco-fire-1,quichái,fire272,false,expert,Chacon2017,k i tʃ á i - - - - -,,Chacon2017
+piapoco-fire-2-1,piapoco-fire-2,síyái,fire272,false,expert,Chacon2017,s í j á i - - - - -,,Chacon2017
+resigaro-fire-1-1,resigaro-fire-1,o?koná?,fire267,false,expert,Chacon2017,,,Chacon2017
+yukuna-fire-1-1,yukuna-fire-1,jiyá,fire272,false,expert,Chacon2017,h i j á - - - - - -,,Chacon2017
+yukuna-fire-2-1,yukuna-fire-2,kera'atani,fire272,false,expert,Chacon2017,k e ɾ a ʔ a t a n i,,Chacon2017
+achagua-fishn-1-1,achagua-fishn-1,kubái,fishn273,false,expert,Chacon2017,,,Chacon2017
+baniwa-fishn-1-1,baniwa-fishn-1,kóphe,fishn273,false,expert,Chacon2017,,,Chacon2017
+kabiyari-fishn-1-1,kabiyari-fishn-1,kúpha,fishn276,false,expert,Chacon2017,,,Chacon2017
+piapoco-fishn-1-1,piapoco-fishn-1,kubái,fishn273,false,expert,Chacon2017,,,Chacon2017
+resigaro-fishn-1-1,resigaro-fishn-1,ámoogí,fishn278,false,expert,Chacon2017,,,Chacon2017
+yukuna-fishn-1-1,yukuna-fishn-1,kúpe,fishn273,false,expert,Chacon2017,,,Chacon2017
+achagua-flesh-1-1,achagua-flesh-1,íinaʃi,flesh281,false,expert,Chacon2017,,,Chacon2017
+baniwa-flesh-1-1,baniwa-flesh-1,-íipe,flesh288,false,expert,Chacon2017,- - í - i p e,,Chacon2017
+kabiyari-flesh-1-1,kabiyari-flesh-1,?ii,flesh288,false,expert,Chacon2017,- ʔ ii - - - -,,Chacon2017
+piapoco-flesh-1-1,piapoco-flesh-1,iinási,flesh281,false,expert,Chacon2017,,,Chacon2017
+resigaro-flesh-1-1,resigaro-flesh-1,gí?í,flesh288,false,expert,Chacon2017,- g í ʔ í - -,,Chacon2017
+yukuna-flesh-1-1,yukuna-flesh-1,i'iji,flesh288,false,expert,Chacon2017,- r i - 'í - -,,Chacon2017
+achagua-flyv-1-1,achagua-flyv-1,jáareriu,flyv297,false,expert,Chacon2017,- j a: r e r i u -,,Chacon2017
+baniwa-flyv-1-1,baniwa-flyv-1,-áara,flyv297,false,expert,Chacon2017,- á a r a - - - -,,Chacon2017
+kabiyari-flyv-1-1,kabiyari-flyv-1,áara,flyv297,false,expert,Chacon2017,- á a r a - - - -,,Chacon2017
+piapoco-flyv-1-1,piapoco-flyv-1,yálacawa,flyv297,false,expert,Chacon2017,- j á l a k a w a,,Chacon2017
+resigaro-flyv-1-1,resigaro-flyv-1,adú,flyv297,false,expert,Chacon2017,- - a d ú - - - -,,Chacon2017
+yukuna-flyv-1-1,yukuna-flyv-1,ajrakaje,flyv297,false,expert,Chacon2017,- - a hɾ a k a h e,,Chacon2017
+achagua-foot-1-1,achagua-foot-1,íibaʃi,foot306,false,expert,Chacon2017,- - - - - i: b a ʃ i,,Chacon2017
+baniwa-foot-1-1,baniwa-foot-1,-híipa,foot306,false,expert,Chacon2017,- - h í - i p a - -,,Chacon2017
+kabiyari-foot-1-1,kabiyari-foot-1,híipa,foot306,false,expert,Chacon2017,- - h í - i p a - -,,Chacon2017
+piapoco-foot-1-1,piapoco-foot-1,abàli,foot306,false,expert,Chacon2017,- - - - - a b à l i,,Chacon2017
+resigaro-foot-1-1,resigaro-foot-1,hii?pú,foot306,false,expert,Chacon2017,- - h ii ʔ - p ú - -,,Chacon2017
+yukuna-foot-1-1,yukuna-foot-1,ji'imaji,foot306,false,expert,Chacon2017,- - h i ʔ i m a h i,,Chacon2017
+achagua-full-1-1,achagua-full-1,káawai,full317,false,expert,Chacon2017,,,Chacon2017
+baniwa-full-1-1,baniwa-full-1,pákhame(i),full314,false,expert,Chacon2017,p á kh a - - - m e i,,Chacon2017
+kabiyari-full-1-1,kabiyari-full-1,manu',full316,false,expert,Chacon2017,- - m a n u ' - - - -,,Chacon2017
+kabiyari-full-2-1,kabiyari-full-2,miyana,full12,false,expert,Chacon2017,m i y a n a - - - - -,,Chacon2017
+resigaro-full-1-1,resigaro-full-1,potsʰí?mó,full314,false,expert,Chacon2017,p o - - tsʰ í ? m ó -,,Chacon2017
+yukuna-full-1-1,yukuna-full-1,mano'okaje,full316,false,expert,Chacon2017,- - m a n o 'o k a j e,,Chacon2017
+achagua-give-1-1,achagua-give-1,jáairi,give326,false,expert,Chacon2017,j aa i - - r i,,Chacon2017
+baniwa-give-1-1,baniwa-give-1,-áa,give326,false,expert,Chacon2017,- á a - - - -,,Chacon2017
+kabiyari-give-1-1,kabiyari-give-1,-aa,give326,false,expert,Chacon2017,- aa - - - - -,,Chacon2017
+resigaro-give-1-1,resigaro-give-1,-aa?ní,give326,false,expert,Chacon2017,- aa - ? - n í,,Chacon2017
+yukuna-give-1-1,yukuna-give-1,a'akaje,give326,false,expert,Chacon2017,- a 'a k a j e,,Chacon2017
+warekena-give-1-1,warekena-give-1,-huwa,give327,false,expert,Chacon2017,,,Chacon2017
+achagua-good-1-1,achagua-good-1,sáika,good329,false,expert,Chacon2017,,,Chacon2017
+baniwa-good-1-1,baniwa-good-1,mátsia,good330,false,expert,Chacon2017,,,Chacon2017
+kabiyari-good-1-1,kabiyari-good-1,tʃuni-ka,good332,false,expert,Chacon2017,,,Chacon2017
+piapoco-good-1-1,piapoco-good-1,cayábéeri,good333,false,expert,Chacon2017,,,Chacon2017
+resigaro-good-1-1,resigaro-good-1,kaŝó?,good334,false,expert,Chacon2017,,,Chacon2017
+yukuna-good-1-1,yukuna-good-1,palani,good337,false,expert,Chacon2017,,,Chacon2017
+achagua-grease-1-1,achagua-grease-1,júuwika,grease338,false,expert,Chacon2017,,,Chacon2017
+baniwa-grease-1-1,baniwa-grease-1,íitti,grease345,false,expert,Chacon2017,- í - i tt i - -,,Chacon2017
+kabiyari-grease-1-1,kabiyari-grease-1,íʔit̪i,grease345,false,expert,Chacon2017,- í ʔ i t̪ i - -,,Chacon2017
+piapoco-grease-1-1,piapoco-grease-1,iséená,grease345,false,expert,Chacon2017,- - - i s é: n á,,Chacon2017
+resigaro-grease-1-1,resigaro-grease-1,phedee?kátasí,grease343,false,expert,Chacon2017,,,Chacon2017
+yukuna-grease-1-1,yukuna-grease-1,jilaji,grease346,false,expert,Chacon2017,,,Chacon2017
+achagua-green-1-1,achagua-green-1,uléejii,green349,false,expert,Chacon2017,- - - u l e: j i,,Chacon2017
+baniwa-green-1-1,baniwa-green-1,hípole,green349,false,expert,Chacon2017,h í p o l e - -,,Chacon2017
+kabiyari-green-1-1,kabiyari-green-1,puré,green349,false,expert,Chacon2017,- - p u r é - -,,Chacon2017
+piapoco-green-1-1,piapoco-green-1,ipùléeri,green349,false,expert,Chacon2017,- i p ù l é: ɾ i,,Chacon2017
+resigaro-green-1-1,resigaro-green-1,ipogí?,green349,false,expert,Chacon2017,- i p o g í ? -,,Chacon2017
+yukuna-green-1-1,yukuna-green-1,ipureni,green349,false,expert,Chacon2017,- i p u ɾ e n i,,Chacon2017
+achagua-hair-1-1,achagua-hair-1,báinaʃi,hair353,false,expert,Chacon2017,,,Chacon2017
+baniwa-hair-1-1,baniwa-hair-1,-tsíkole,hair359,false,expert,Chacon2017,- - - - ts í k o l e,,Chacon2017
+kabiyari-hair-1-1,kabiyari-hair-1,tʃuna,hair359,false,expert,Chacon2017,- - - - tʃ u - - n a,,Chacon2017
+piapoco-hair-1-1,piapoco-hair-1,ichùna,hair359,false,expert,Chacon2017,- - - i tʃ ù - - n a,,Chacon2017
+resigaro-hair-1-1,resigaro-hair-1,híve?áǰii?ó,hair358,false,expert,Chacon2017,,,Chacon2017
+yukuna-hair-1-1,yukuna-hair-1,wilaji,hair359,false,expert,Chacon2017,- - w i l a h i - -,,Chacon2017
+achagua-hand-1-1,achagua-hand-1,káhiʃi,hand370,false,expert,Chacon2017,k a - h i ʃ i,,Chacon2017
+baniwa-hand-1-1,baniwa-hand-1,-káapi,hand370,false,expert,Chacon2017,k á a p i - -,,Chacon2017
+kabiyari-hand-1-1,kabiyari-hand-1,kaapi,hand370,false,expert,Chacon2017,k aa - p i - -,,Chacon2017
+piapoco-hand-1-1,piapoco-hand-1,cáapi,hand370,false,expert,Chacon2017,k á: - p i - -,,Chacon2017
+resigaro-hand-1-1,resigaro-hand-1,-ké,hand370,false,expert,Chacon2017,k é - - - - -,,Chacon2017
+yukuna-hand-1-1,yukuna-hand-1,yáte'elaji,hand373,false,expert,Chacon2017,,,Chacon2017
+achagua-head-1-1,achagua-head-1,wítaʃi,head379,false,expert,Chacon2017,- - - - w i t a ʃ i - - - -,,Chacon2017
+baniwa-head-1-1,baniwa-head-1,-hiwída,head379,false,expert,Chacon2017,- - h i w í d a - - - - - -,,Chacon2017
+kabiyari-head-1-1,kabiyari-head-1,hiwíta,head379,false,expert,Chacon2017,- - h i w í t a - - - - - -,,Chacon2017
+piapoco-head-1-1,piapoco-head-1,[nu]iwita,head379,false,expert,Chacon2017,n u - i w i t a - - - - - -,,Chacon2017
+resigaro-head-1-1,resigaro-head-1,híveú,head379,false,expert,Chacon2017,- - h í v e - ú - - - - - -,,Chacon2017
+yukuna-head-1-1,yukuna-head-1,wíla'aruji,head379,false,expert,Chacon2017,- - - - w í l a ʔ a ɾ u h i,,Chacon2017
+achagua-hear-1-1,achagua-hear-1,éemeri,hear390,false,expert,Chacon2017,- e: - m e r i - - - -,,Chacon2017
+baniwa-hear-1-1,baniwa-hear-1,-hima,hear390,false,expert,Chacon2017,h i - m a - - - - - -,,Chacon2017
+baniwa-hear-2-1,baniwa-hear-2,-himeeta,hear390,false,expert,Chacon2017,h i - m ee t a - - - -,,Chacon2017
+kabiyari-hear-1-1,kabiyari-hear-1,heme,hear390,false,expert,Chacon2017,h e - m e - - - - - -,,Chacon2017
+piapoco-hear-1-1,piapoco-hear-1,émìaca,hear390,false,expert,Chacon2017,- é - m ì - a k a - -,,Chacon2017
+resigaro-hear-1-1,resigaro-hear-1,hé?mú,hear390,false,expert,Chacon2017,h é ? m ú - - - - - -,,Chacon2017
+tariana-hear-1-1,tariana-hear-1,-híma,hear390,false,expert,Chacon2017,h í - m a - - - - - -,,Chacon2017
+yukuna-hear-1-1,yukuna-hear-1,jema'akaje,hear390,false,expert,Chacon2017,h e - m a ʔ a k a h e,,Chacon2017
+achagua-heart-1-1,achagua-heart-1,wówaʃi,heart400,false,expert,Chacon2017,- - w o w a ʃ i,,Chacon2017
+baniwa-heart-1-1,baniwa-heart-1,-kaale,heart393,false,expert,Chacon2017,- - k aa l e - -,,Chacon2017
+kabiyari-heart-1-1,kabiyari-heart-1,kareta,heart393,false,expert,Chacon2017,- - k a r e t a,,Chacon2017
+piapoco-heart-1-1,piapoco-heart-1,nu-wàwa,heart400,false,expert,Chacon2017,n u w à w a - -,,Chacon2017
+piapoco-heart-2-1,piapoco-heart-2,íiricu,heart393,false,expert,Chacon2017,- - - í: ɾ i k u,,Chacon2017
+resigaro-heart-1-1,resigaro-heart-1,váfoú,heart400,false,expert,Chacon2017,- - v á f o - ú,,Chacon2017
+yukuna-heart-1-1,yukuna-heart-1,wajweji,heart400,false,expert,Chacon2017,- - w a hw e h i,,Chacon2017
+achagua-horn-1-1,achagua-horn-1,tʃáalaʃi,horn406,false,expert,Chacon2017,- tʃ a: l a ʃ i,,Chacon2017
+baniwa-horn-1-1,baniwa-horn-1,-tsówa,horn404,false,expert,Chacon2017,- - ts ó w a,,Chacon2017
+kabiyari-horn-1-1,kabiyari-horn-1,nuire,horn408,false,expert,Chacon2017,n u i r e - - - - -,,Chacon2017
+resigaro-horn-1-1,resigaro-horn-1,-iijβií,horn408,false,expert,Chacon2017,- - ii jβ i í - - - -,,Chacon2017
+yukuna-horn-1-1,yukuna-horn-1,i'iwáwiji,horn408,false,expert,Chacon2017,- - - r i 'i w a w i,,Chacon2017
+achagua-hot-1-1,achagua-hot-1,amuái,hot416,false,expert,Chacon2017,- a - m u - a - i,,Chacon2017
+baniwa-hot-1-1,baniwa-hot-1,hámo,hot416,false,expert,Chacon2017,h á - m o - - - -,,Chacon2017
+kabiyari-hot-1-1,kabiyari-hot-1,muʔú,hot416,false,expert,Chacon2017,- - - m u ʔ ú - -,,Chacon2017
+piapoco-hot-1-1,piapoco-hot-1,ùuléeri,hot413,false,expert,Chacon2017,,,Chacon2017
+resigaro-hot-1-1,resigaro-hot-1,ha?mo?,hot416,false,expert,Chacon2017,h a ? m o ? - - -,,Chacon2017
+yukuna-hot-1-1,yukuna-hot-1,ima'aní,hot417,false,expert,Chacon2017,,,Chacon2017
+achagua-kill-1-1,achagua-kill-1,íinueri,kill426,false,expert,Chacon2017,- i: n u e r i - -,,Chacon2017
+baniwa-kill-1-1,baniwa-kill-1,-íinoa,kill426,false,expert,Chacon2017,í i n o a - - - -,,Chacon2017
+kabiyari-kill-1-1,kabiyari-kill-1,nua,kill426,false,expert,Chacon2017,- - n u a - - - -,,Chacon2017
+piapoco-kill-1-1,piapoco-kill-1,étáidaca,kill422,false,expert,Chacon2017,,,Chacon2017
+piapoco-kill-2-1,piapoco-kill-2,nuáca,kill426,false,expert,Chacon2017,- - n u á k a - -,,Chacon2017
+resigaro-kill-1-1,resigaro-kill-1,kainée-khú,kill423,false,expert,Chacon2017,,,Chacon2017
+resigaro-kill-2-1,resigaro-kill-2,mótshó,kill428,false,expert,Chacon2017,,,Chacon2017
+yukuna-kill-1-1,yukuna-kill-1,nókaje,kill426,false,expert,Chacon2017,- - n ó - k a h e,,Chacon2017
+achagua-knee-1-1,achagua-knee-1,júruiʃi,knee435,false,expert,Chacon2017,( - - - - - ) j u - - r u i - - ʃ i,,Chacon2017
+baniwa-knee-1-1,baniwa-knee-1,-hóorhi,knee435,false,expert,Chacon2017,( - - - - - ) h ó o - rh i - - - - -,,Chacon2017
+kabiyari-knee-1-1,kabiyari-knee-1,-urhu(na),knee435,false,expert,Chacon2017,( - - - - - ) - u - - rh u - n a - -,,Chacon2017
+kabiyari-knee-2-1,kabiyari-knee-2,-huru,knee435,false,expert,Chacon2017,( - - - - - ) h u - - r u - - - - -,,Chacon2017
+resigaro-knee-1-1,resigaro-knee-1,-ho?dónaú,knee435,false,expert,Chacon2017,( - - - - - ) h - o ? d ó - n a ú -,,Chacon2017
+yukuna-knee-1-1,yukuna-knee-1,i'irúpachiji,knee435,false,expert,Chacon2017,( - - - - - ) r i 'i - r ú p a - ch i,,Chacon2017
+achagua-know-1-1,achagua-know-1,éeweri,know446,false,expert,Chacon2017,e: w e r i - - - - - -,,Chacon2017
+achagua-know-2-1,achagua-know-2,jaléenaa,know443,false,expert,Chacon2017,j a l e: n a: - - - -,,Chacon2017
+baniwa-know-1-1,baniwa-know-1,-áanhee,know443,false,expert,Chacon2017,- á - a nh ee - - - -,,Chacon2017
+kabiyari-know-1-1,kabiyari-know-1,aranhú,know443,false,expert,Chacon2017,- a r a nh ú - - - -,,Chacon2017
+piapoco-know-1-1,piapoco-know-1,alíacawa,know444,false,expert,Chacon2017,a l í a k a w a,,Chacon2017
+resigaro-know-1-1,resigaro-know-1,-manaá-tó?,know443,false,expert,Chacon2017,m - - a n a á t ó ?,,Chacon2017
+yukuna-know-1-1,yukuna-know-1,we'epíkaje,know446,false,expert,Chacon2017,- w e ʔ e p í k a h e,,Chacon2017
+achagua-leaf-1-1,achagua-leaf-1,bánabai,leaf453,false,expert,Chacon2017,- - b a - n a - - b a i,,Chacon2017
+baniwa-leaf-1-1,baniwa-leaf-1,panaphe,leaf453,false,expert,Chacon2017,- - p a - n a - - ph e -,,Chacon2017
+baniwa-leaf-2-1,baniwa-leaf-2,-phe,leaf453,false,expert,Chacon2017,- - - - - - - - - ph e -,,Chacon2017
+kabiyari-leaf-1-1,kabiyari-leaf-1,apana,leaf453,false,expert,Chacon2017,- a p a - n a - - - - -,,Chacon2017
+piapoco-leaf-1-1,piapoco-leaf-1,ibáiná,leaf453,false,expert,Chacon2017,- i b á i n á - - - - -,,Chacon2017
+resigaro-leaf-1-1,resigaro-leaf-1,apáná?aamí,leaf453,false,expert,Chacon2017,- a p á - n á ʔ aa m í -,,Chacon2017
+yukuna-leaf-1-1,yukuna-leaf-1,wíchu'upe,leaf456,false,expert,Chacon2017,,,Chacon2017
+warekena-leaf-1-1,warekena-leaf-1,-phe,leaf453,false,expert,Chacon2017,- - - - - - - - - ph e -,,Chacon2017
+warekena-leaf-2-1,warekena-leaf-2,apanaphe,leaf453,false,expert,Chacon2017,- - a p a n a - - ph e -,,Chacon2017
+achagua-lie-1-1,achagua-lie-1,kuániriu,lie463,false,expert,Chacon2017,- - k u a n i r i u,,Chacon2017
+baniwa-lie-1-1,baniwa-lie-1,-kua,lie463,false,expert,Chacon2017,- - k u a - - - - -,,Chacon2017
+baniwa-lie-2-1,baniwa-lie-2,-ɻhua,lie463,false,expert,Chacon2017,- - ɻh u a - - - - -,,Chacon2017
+kabiyari-lie-1-1,kabiyari-lie-1,-ku'apu,lie463,false,expert,Chacon2017,- - k u 'a p u - - -,,Chacon2017
+kabiyari-lie-2-1,kabiyari-lie-2,-huapuku,lie463,false,expert,Chacon2017,- - h u a p u k u -,,Chacon2017
+resigaro-lie-1-1,resigaro-lie-1,šoóné-ǰú,lie463,false,expert,Chacon2017,- - š o ó n é ǰ ú -,,Chacon2017
+tariana-lie-1-1,tariana-lie-1,swá,lie463,false,expert,Chacon2017,- - s w á - - - - -,,Chacon2017
+yukuna-lie-1-1,yukuna-lie-1,to'okajo,lie465,false,expert,Chacon2017,,,Chacon2017
+achagua-liver-1-1,achagua-liver-1,tʃáaliʃi,liver472,false,expert,Chacon2017,- - tʃ a: l i ʃ i - -,,Chacon2017
+baniwa-liver-1-1,baniwa-liver-1,-xópana,liver475,false,expert,Chacon2017,x ó - p a - n a - -,,Chacon2017
+kabiyari-liver-1-1,kabiyari-liver-1,úupana,liver475,false,expert,Chacon2017,- ú u p a - n a - -,,Chacon2017
+piapoco-liver-1-1,piapoco-liver-1,ubana,liver475,false,expert,Chacon2017,- - u b a - n a - -,,Chacon2017
+resigaro-liver-1-1,resigaro-liver-1,-opáanú,liver475,false,expert,Chacon2017,- o - p á a n ú - -,,Chacon2017
+yukuna-liver-1-1,yukuna-liver-1,panaji,liver475,false,expert,Chacon2017,- - - p a - n a j i,,Chacon2017
+achagua-long-1-1,achagua-long-1,matʃéenii,long482,false,expert,Chacon2017,,,Chacon2017
+baniwa-long-1-1,baniwa-long-1,yápi,long484,false,expert,Chacon2017,- - y á - - p i - -,,Chacon2017
+kabiyari-long-1-1,kabiyari-long-1,wia,long486,false,expert,Chacon2017,,,Chacon2017
+piapoco-long-1-1,piapoco-long-1,cáaléeri,long484,false,expert,Chacon2017,k á - a l é e r i -,,Chacon2017
+resigaro-long-1-1,resigaro-long-1,tseinó?,long482,false,expert,Chacon2017,,,Chacon2017
+yukuna-long-1-1,yukuna-long-1,waphereni,long484,false,expert,Chacon2017,w a ph e r e n i - -,,Chacon2017
+achagua-louse-1-1,achagua-louse-1,witéneʃi,louse488,false,expert,Chacon2017,- - w i t e n e ʃ i - - - -,,Chacon2017
+baniwa-louse-1-1,baniwa-louse-1,towída,louse488,false,expert,Chacon2017,t o w í d a - - - - - - - -,,Chacon2017
+kabiyari-louse-1-1,kabiyari-louse-1,nií,louse488,false,expert,Chacon2017,- - - - - - n i - í - - - -,,Chacon2017
+piapoco-louse-1-1,piapoco-louse-1,cùlibàu,louse491,false,expert,Chacon2017,,,Chacon2017
+resigaro-louse-1-1,resigaro-louse-1,netetshí?ó,louse488,false,expert,Chacon2017,- - - - - - n e t e tsʰ í ʔ ó,,Chacon2017
+yukuna-louse-1-1,yukuna-louse-1,inejí,louse488,false,expert,Chacon2017,- - - - - - r i n e - - - -,,Chacon2017
+achagua-manadultmale-1-1,achagua-manadultmale-1,waʃiálikueri,manadultmale501,false,expert,Chacon2017,w a ʃ i a - - l i k u e r i,,Chacon2017
+baniwa-manadultmale-1-1,baniwa-manadultmale-1,atsíanli,manadultmale501,false,expert,Chacon2017,- a ts í a n - l i - - - - -,,Chacon2017
+baniwa-manadultmale-2-1,baniwa-manadultmale-2,newíki,manadultmale505,false,expert,Chacon2017,,,Chacon2017
+kabiyari-manadultmale-1-1,kabiyari-manadultmale-1,t̪ijá-ri,manadultmale501,false,expert,Chacon2017,- - t̪ i - j á r i - - - - -,,Chacon2017
+resigaro-manadultmale-1-1,resigaro-manadultmale-1,atsáagí,manadultmale501,false,expert,Chacon2017,- a ts á - - a g í - - - - -,,Chacon2017
+yukuna-manadultmale-1-1,yukuna-manadultmale-1,achiñá,manadultmale501,false,expert,Chacon2017,- a tʃ i - ɲ á - - - - - - -,,Chacon2017
+achagua-many-1-1,achagua-many-1,báhiala,many506,false,expert,Chacon2017,,,Chacon2017
+baniwa-many-1-1,baniwa-many-1,hanípa,many507,false,expert,Chacon2017,h a n í p a -,,Chacon2017
+baniwa-many-2-1,baniwa-many-2,hóre,many513,false,expert,Chacon2017,,,Chacon2017
+baniwa-many-3-1,baniwa-many-3,manópe,many507,false,expert,Chacon2017,,,Chacon2017
+kabiyari-many-1-1,kabiyari-many-1,muura,many509,false,expert,Chacon2017,,,Chacon2017
+piapoco-many-1-1,piapoco-many-1,kána(na)ma,many510,false,expert,Chacon2017,,,Chacon2017
+piapoco-many-2-1,piapoco-many-2,manuba,many507,false,expert,Chacon2017,,,Chacon2017
+piapoco-many-3-1,piapoco-many-3,maini,many520,false,expert,Chacon2017,,,Chacon2017
+resigaro-many-1-1,resigaro-many-1,an̥epúúʔ,many507,false,expert,Chacon2017,- a n̥ e p úú ʔ,,Chacon2017
+yukuna-many-1-1,yukuna-many-1,cha'aphá,many514,false,expert,Chacon2017,,,Chacon2017
+achagua-moon-1-1,achagua-moon-1,kéeri,moon521,false,expert,Chacon2017,- - - - - - - k e: - r i,,Chacon2017
+baniwa-moon-1-1,baniwa-moon-1,kéeri,moon521,false,expert,Chacon2017,- - - - - - - k é e r i,,Chacon2017
+kabiyari-moon-1-1,kabiyari-moon-1,kéeri,moon521,false,expert,Chacon2017,- - - - - - - k é e r i,,Chacon2017
+piapoco-moon-1-1,piapoco-moon-1,quéeri,moon521,false,expert,Chacon2017,- - - - - - - k é: - ɾ i,,Chacon2017
+resigaro-moon-1-1,resigaro-moon-1,keégí,moon521,false,expert,Chacon2017,- - - - - - - k e é g í,,Chacon2017
+yukuna-moon-1-1,yukuna-moon-1,keri,moon521,false,expert,Chacon2017,- - - - - - - k e - ɾ i,,Chacon2017
+achagua-mountain-1-1,achagua-mountain-1,dúuli,mountain536,false,expert,Chacon2017,- - d ú u l i,,Chacon2017
+baniwa-mountain-1-1,baniwa-mountain-1,hidzápa,mountain13,false,expert,Chacon2017,,,Chacon2017
+baniwa-mountain-2-1,baniwa-mountain-2,híipana,mountain537,false,expert,Chacon2017,,,Chacon2017
+kabiyari-mountain-1-1,kabiyari-mountain-1,marena,mountain531,false,expert,Chacon2017,,,Chacon2017
+kabiyari-mountain-2-1,kabiyari-mountain-2,takari,mountain538,false,expert,Chacon2017,,,Chacon2017
+piapoco-mountain-1-1,piapoco-mountain-1,dúli,mountain536,false,expert,Chacon2017,- - d ú - l i,,Chacon2017
+resigaro-mountain-1-1,resigaro-mountain-1,tégahú,mountain13,false,expert,Chacon2017,,,Chacon2017
+tariana-mountain-1-1,tariana-mountain-1,maka-pulikúda,mountain534,false,expert,Chacon2017,,,Chacon2017
+yukuna-mountain-1-1,yukuna-mountain-1,yenuri,mountain536,false,expert,Chacon2017,j e n u - ɾ i,,Chacon2017
+warekena-mountain-1-1,warekena-mountain-1,hidápa,mountain13,false,expert,Chacon2017,,,Chacon2017
+achagua-mouth-1-1,achagua-mouth-1,númaʃi,mouth546,false,expert,Chacon2017,- - n u m a ʃ i,,Chacon2017
+baniwa-mouth-1-1,baniwa-mouth-1,-nóma,mouth546,false,expert,Chacon2017,- - n ó m a - -,,Chacon2017
+kabiyari-mouth-1-1,kabiyari-mouth-1,numa,mouth546,false,expert,Chacon2017,- - n u m a - -,,Chacon2017
+piapoco-mouth-1-1,piapoco-mouth-1,nùma,mouth546,false,expert,Chacon2017,- - n ù m a - -,,Chacon2017
+resigaro-mouth-1-1,resigaro-mouth-1,nó,mouth546,false,expert,Chacon2017,- - n ó - - - -,,Chacon2017
+yukuna-mouth-1-1,yukuna-mouth-1,numaji,mouth546,false,expert,Chacon2017,- - n u m a h i,,Chacon2017
+achagua-name-1-1,achagua-name-1,hiʔinaʃi,name547,false,expert,Chacon2017,,,Chacon2017
+baniwa-name-1-1,baniwa-name-1,-iipítana,name554,false,expert,Chacon2017,- ii - p í t a n a,,Chacon2017
+kabiyari-name-1-1,kabiyari-name-1,íí,name554,false,expert,Chacon2017,- íí - - - - - - -,,Chacon2017
+piapoco-name-1-1,piapoco-name-1,ípidená,name554,false,expert,Chacon2017,- í - p i d e n á,,Chacon2017
+resigaro-name-1-1,resigaro-name-1,iivú,name554,false,expert,Chacon2017,- ii - v ú - - - -,,Chacon2017
+yukuna-name-1-1,yukuna-name-1,iíji,name554,false,expert,Chacon2017,- i í h i - - - -,,Chacon2017
+achagua-neck-1-1,achagua-neck-1,wáaʃi,neck555,false,expert,Chacon2017,,,Chacon2017
+baniwa-neck-1-1,baniwa-neck-1,-nóoro,neck560,false,expert,Chacon2017,- - n ó o r o - - - -,,Chacon2017
+kabiyari-neck-1-1,kabiyari-neck-1,kanhapi,neck558,false,expert,Chacon2017,,,Chacon2017
+piapoco-neck-1-1,piapoco-neck-1,canápi,neck558,false,expert,Chacon2017,,,Chacon2017
+resigaro-neck-1-1,resigaro-neck-1,-iñočhí,neck560,false,expert,Chacon2017,- i ñ o - čh í - - - -,,Chacon2017
+yukuna-neck-1-1,yukuna-neck-1,núrupiji,neck560,false,expert,Chacon2017,- - n ú - r u p i h i,,Chacon2017
+achagua-new-1-1,achagua-new-1,wáalii,new572,false,expert,Chacon2017,,,Chacon2017
+baniwa-new-1-1,baniwa-new-1,éemi,new565,false,expert,Chacon2017,é e m i - -,,Chacon2017
+baniwa-new-2-1,baniwa-new-2,wali-,new572,false,expert,Chacon2017,,,Chacon2017
+baniwa-new-3-1,baniwa-new-3,yapiápali,new571,false,expert,Chacon2017,,,Chacon2017
+kabiyari-new-1-1,kabiyari-new-1,wárit̪é,new572,false,expert,Chacon2017,,,Chacon2017
+piapoco-new-1-1,piapoco-new-1,wàlisàiri,new572,false,expert,Chacon2017,,,Chacon2017
+resigaro-new-1-1,resigaro-new-1,be?é,new569,false,expert,Chacon2017,,,Chacon2017
+yukuna-new-1-1,yukuna-new-1,wajé,new572,false,expert,Chacon2017,,,Chacon2017
+achagua-night-1-1,achagua-night-1,táaje,night584,false,expert,Chacon2017,t a: j e - - - - - -,,Chacon2017
+baniwa-night-1-1,baniwa-night-1,déepi,night584,false,expert,Chacon2017,d é - e p i - - - -,,Chacon2017
+kabiyari-night-1-1,kabiyari-night-1,néápi,night584,false,expert,Chacon2017,n é - á p i - - - -,,Chacon2017
+piapoco-night-1-1,piapoco-night-1,catá,night580,false,expert,Chacon2017,,,Chacon2017
+resigaro-night-1-1,resigaro-night-1,naapí,night584,false,expert,Chacon2017,n aa - - p í - - - -,,Chacon2017
+yukuna-night-1-1,yukuna-night-1,lapí,night584,false,expert,Chacon2017,l a - - p í - - - -,,Chacon2017
+achagua-nose-1-1,achagua-nose-1,dákuʃi,nose591,false,expert,Chacon2017,- - d a k u ʃ i,,Chacon2017
+baniwa-nose-1-1,baniwa-nose-1,-hitáko,nose591,false,expert,Chacon2017,h i t á k o - -,,Chacon2017
+kabiyari-nose-1-1,kabiyari-nose-1,hitákú,nose591,false,expert,Chacon2017,h i t á k ú - -,,Chacon2017
+piapoco-nose-1-1,piapoco-nose-1,ídacu,nose591,false,expert,Chacon2017,- í d a k u - -,,Chacon2017
+resigaro-nose-1-1,resigaro-nose-1,-hitákó,nose591,false,expert,Chacon2017,h i t á k ó - -,,Chacon2017
+yukuna-nose-1-1,yukuna-nose-1,takuji,nose591,false,expert,Chacon2017,- - t a k u h i,,Chacon2017
+achagua-not-1-1,achagua-not-1,ma-,not593,false,expert,Chacon2017,,,Chacon2017
+achagua-not-2-1,achagua-not-2,hookai,not601,false,expert,Chacon2017,h oo - k a i,,Chacon2017
+baniwa-not-1-1,baniwa-not-1,ma-,not593,false,expert,Chacon2017,,,Chacon2017
+baniwa-not-2-1,baniwa-not-2,ñáme,not597,false,expert,Chacon2017,,,Chacon2017
+kabiyari-not-1-1,kabiyari-not-1,uka,not601,false,expert,Chacon2017,- u - k a -,,Chacon2017
+piapoco-not-1-1,piapoco-not-1,càmita,not597,false,expert,Chacon2017,,,Chacon2017
+resigaro-not-1-1,resigaro-not-1,nii,not598,false,expert,Chacon2017,,,Chacon2017
+resigaro-not-2-1,resigaro-not-2,ma-,not593,false,expert,Chacon2017,,,Chacon2017
+tariana-not-1-1,tariana-not-1,ma-,not593,false,expert,Chacon2017,,,Chacon2017
+yukuna-not-1-1,yukuna-not-1,unká,not601,false,expert,Chacon2017,- u n k á -,,Chacon2017
+warekena-not-1-1,warekena-not-1,ma-,not593,false,expert,Chacon2017,,,Chacon2017
+warekena-not-2-1,warekena-not-2,nalé,not598,false,expert,Chacon2017,,,Chacon2017
+achagua-one-1-1,achagua-one-1,áabai,one613,false,expert,Chacon2017,a: - b a i - - - - - -,,Chacon2017
+baniwa-one-1-1,baniwa-one-1,a(a)pa-,one613,false,expert,Chacon2017,a a p a - - - - - - -,,Chacon2017
+kabiyari-one-1-1,kabiyari-one-1,pa[pu],one613,false,expert,Chacon2017,- - p a p u - - - - -,,Chacon2017
+piapoco-one-1-1,piapoco-one-1,ab[ì-],one613,false,expert,Chacon2017,- a b [ ì ] - - - - -,,Chacon2017
+piapoco-one-2-1,piapoco-one-2,abe,one613,false,expert,Chacon2017,- a b e - - - - - - -,,Chacon2017
+resigaro-one-1-1,resigaro-one-1,pa[topʰe],one613,false,expert,Chacon2017,- - p a [ t o pʰ e ] -,,Chacon2017
+resigaro-one-2-1,resigaro-one-2,sagú,one616,false,expert,Chacon2017,,,Chacon2017
+yukuna-one-1-1,yukuna-one-1,pajluwa,one613,false,expert,Chacon2017,- - p a (h l u w á h a,,Chacon2017
+achagua-path-1-1,achagua-path-1,iníhibaa,path618,false,expert,Chacon2017,- i n i h i b a:,,Chacon2017
+baniwa-path-1-1,baniwa-path-1,inípo,path618,false,expert,Chacon2017,- i n í - - p o,,Chacon2017
+baniwa-path-2-1,baniwa-path-2,-aapówa,path14,false,expert,Chacon2017,- - aa - p ó w a - -,,Chacon2017
+baniwa-path-3-1,baniwa-path-3,-aapowánaa,path14,false,expert,Chacon2017,- - aa - p o w á n aa,,Chacon2017
+kabiyari-path-1-1,kabiyari-path-1,apú-há,path14,false,expert,Chacon2017,- - a - p ú h á - -,,Chacon2017
+kabiyari-path-2-1,kabiyari-path-2,jóopu,path14,false,expert,Chacon2017,- j ó o p u - - - -,,Chacon2017
+kabiyari-path-3-1,kabiyari-path-3,ajápú,path14,false,expert,Chacon2017,a j á - p ú - - - -,,Chacon2017
+piapoco-path-1-1,piapoco-path-1,àyapu,path14,false,expert,Chacon2017,à j a - p u - - - -,,Chacon2017
+resigaro-path-1-1,resigaro-path-1,aǰápó,path14,false,expert,Chacon2017,a dʒ á - p ó - - - -,,Chacon2017
+resigaro-path-2-1,resigaro-path-2,éhuúhí,path14,false,expert,Chacon2017,- - éh - - u ú h í -,,Chacon2017
+yukuna-path-1-1,yukuna-path-1,iñe'epú,path618,false,expert,Chacon2017,- i ñ e - 'e p ú,,Chacon2017
+achagua-person-1-1,achagua-person-1,wenàiwica,person635,false,expert,Chacon2017,w e n à i w i - - - - - k a,,Chacon2017
+baniwa-person-1-1,baniwa-person-1,newíki,person635,false,expert,Chacon2017,- - n e - w í - - - - - k i,,Chacon2017
+kabiyari-person-1-1,kabiyari-person-1,néki-ri,person635,false,expert,Chacon2017,- - n é - k i ɾ i - - - - -,,Chacon2017
+piapoco-person-1-1,piapoco-person-1,wenàiwica,person635,false,expert,Chacon2017,w e n à i w i - - - - - k a,,Chacon2017
+resigaro-person-1-1,resigaro-person-1,ináavi?žaánigí,person635,false,expert,Chacon2017,- i n á a v i ʔʒ a á n i g í,,Chacon2017
+yukuna-person-1-1,yukuna-person-1,ina'uké,person635,false,expert,Chacon2017,- i n a - 'u - - - - - - k é,,Chacon2017
+achagua-rain-1-1,achagua-rain-1,júweriu,rain637,false,expert,Chacon2017,,,Chacon2017
+baniwa-rain-1-1,baniwa-rain-1,íidza,rain643,false,expert,Chacon2017,,,Chacon2017
+kabiyari-rain-1-1,kabiyari-rain-1,peʔekhe,rain640,false,expert,Chacon2017,,,Chacon2017
+kabiyari-rain-2-1,kabiyari-rain-2,pehe,rain640,false,expert,Chacon2017,,,Chacon2017
+piapoco-rain-1-1,piapoco-rain-1,unía,rain644,false,expert,Chacon2017,,,Chacon2017
+resigaro-rain-1-1,resigaro-rain-1,fá?voótsí,rain642,false,expert,Chacon2017,,,Chacon2017
+yukuna-rain-1-1,yukuna-rain-1,juni,rain644,false,expert,Chacon2017,,,Chacon2017
+achagua-red-1-1,achagua-red-1,kírai,red653,false,expert,Chacon2017,k í - r a i - - -,,Chacon2017
+baniwa-red-1-1,baniwa-red-1,iirai,red653,false,expert,Chacon2017,- ii - r a i - - -,,Chacon2017
+baniwa-red-2-1,baniwa-red-2,kéerama,red653,false,expert,Chacon2017,k é e r a m a - -,,Chacon2017
+kabiyari-red-1-1,kabiyari-red-1,kíira,red653,false,expert,Chacon2017,k í i r a - - - -,,Chacon2017
+piapoco-red-1-1,piapoco-red-1,quíiraca,red653,false,expert,Chacon2017,k í: - ɾ a k a - -,,Chacon2017
+resigaro-red-1-1,resigaro-red-1,kedávií́?,red653,false,expert,Chacon2017,k e - d á v i í́ ʔ,,Chacon2017
+yukuna-red-1-1,yukuna-red-1,kerani,red653,false,expert,Chacon2017,k e - ɾ a n i - -,,Chacon2017
+achagua-root-1-1,achagua-root-1,híitʃuʃi,root663,false,expert,Chacon2017,h í - i tʃ u ʃ i,,Chacon2017
+baniwa-root-1-1,baniwa-root-1,-pali,root661,false,expert,Chacon2017,- - p a l i,,Chacon2017
+kabiyari-root-1-1,kabiyari-root-1,apáre,root661,false,expert,Chacon2017,- a p á r e,,Chacon2017
+piapoco-root-1-1,piapoco-root-1,ipìchu,root661,false,expert,Chacon2017,- i p ì tʃ u,,Chacon2017
+resigaro-root-1-1,resigaro-root-1,tébaké,root661,false,expert,Chacon2017,t é b a k é,,Chacon2017
+yukuna-root-1-1,yukuna-root-1,ji'ilaji,root663,false,expert,Chacon2017,h i ʔ i l a h i,,Chacon2017
+warekena-root-1-1,warekena-root-1,-ili,root663,false,expert,Chacon2017,- - - i l i - -,,Chacon2017
+achagua-round-1-1,achagua-round-1,maka,round668,false,expert,Chacon2017,m a - - k a - - - - - - - -,,Chacon2017
+baniwa-round-1-1,baniwa-round-1,madzakánhu,round668,false,expert,Chacon2017,m a dz a k á nh u - - - - - -,,Chacon2017
+kabiyari-round-1-1,kabiyari-round-1,paβuudú,round667,false,expert,Chacon2017,,,Chacon2017
+resigaro-round-1-1,resigaro-round-1,pavuudu,round667,false,expert,Chacon2017,,,Chacon2017
+achagua-sand-1-1,achagua-sand-1,káina,sand680,false,expert,Chacon2017,k á i - n a - -,,Chacon2017
+baniwa-sand-1-1,baniwa-sand-1,káida,sand680,false,expert,Chacon2017,k á i - d a - -,,Chacon2017
+kabiyari-sand-1-1,kabiyari-sand-1,káʔa,sand680,false,expert,Chacon2017,k á ʔ a - - - -,,Chacon2017
+piapoco-sand-1-1,piapoco-sand-1,kai[na],sand680,false,expert,Chacon2017,k a - i [ n a ],,Chacon2017
+resigaro-sand-1-1,resigaro-sand-1,meníigí,sand677,false,expert,Chacon2017,,,Chacon2017
+yukuna-sand-1-1,yukuna-sand-1,ke'epé,sand680,false,expert,Chacon2017,k e ʔ - p é - -,,Chacon2017
+achagua-say-1-1,achagua-say-1,máiri,say689,false,expert,Chacon2017,- m á i r i,,Chacon2017
+baniwa-say-1-1,baniwa-say-1,-kaíte,say690,false,expert,Chacon2017,k a - í t e - -,,Chacon2017
+kabiyari-say-1-1,kabiyari-say-1,íma,say689,false,expert,Chacon2017,í m a - - -,,Chacon2017
+piapoco-say-1-1,piapoco-say-1,íma,say689,false,expert,Chacon2017,í m a - - -,,Chacon2017
+resigaro-say-1-1,resigaro-say-1,-kemú,say686,false,expert,Chacon2017,,,Chacon2017
+yukuna-say-1-1,yukuna-say-1,mí-,say689,false,expert,Chacon2017,- m - í - -,,Chacon2017
+warekena-say-1-1,warekena-say-1,-máka,say688,false,expert,Chacon2017,,,Chacon2017
+warekena-say-2-1,warekena-say-2,-kasaléta,say690,false,expert,Chacon2017,k a s a l é t a,,Chacon2017
+achagua-see-1-1,achagua-see-1,káberi,see695,false,expert,Chacon2017,- - k á b e r i,,Chacon2017
+baniwa-see-1-1,baniwa-see-1,-kápa,see695,false,expert,Chacon2017,- - k á p a - -,,Chacon2017
+kabiyari-see-1-1,kabiyari-see-1,ikhá,see695,false,expert,Chacon2017,- i kh á - - - -,,Chacon2017
+piapoco-see-1-1,piapoco-see-1,icáca,see695,false,expert,Chacon2017,- i k á k a - -,,Chacon2017
+resigaro-see-1-1,resigaro-see-1,-tshení,see696,false,expert,Chacon2017,,,Chacon2017
+yukuna-see-1-1,yukuna-see-1,amákaje,see699,false,expert,Chacon2017,,,Chacon2017
+achagua-seed-1-1,achagua-seed-1,íimiʃi,seed705,false,expert,Chacon2017,,,Chacon2017
+baniwa-seed-1-1,baniwa-seed-1,-éekhe,seed701,false,expert,Chacon2017,,,Chacon2017
+kabiyari-seed-1-1,kabiyari-seed-1,(ka ka)kitjihe,seed707,false,expert,Chacon2017,k a _ k a k i t j i h e,,Chacon2017
+resigaro-seed-1-1,resigaro-seed-1,hímiú,seed705,false,expert,Chacon2017,,,Chacon2017
+yukuna-seed-1-1,yukuna-seed-1,ijiji,seed707,false,expert,Chacon2017,- - - - - - i j i - j i,,Chacon2017
+warekena-seed-1-1,warekena-seed-1,-ihina,seed707,false,expert,Chacon2017,- - - - - - i h - i n a,,Chacon2017
+achagua-sit-1-1,achagua-sit-1,wáairiu,sit710,false,expert,Chacon2017,- - w á a i r i u - - - -,,Chacon2017
+baniwa-sit-1-1,baniwa-sit-1,-oówhaa,sit710,false,expert,Chacon2017,o ó wh aa - - - - - - - - -,,Chacon2017
+kabiyari-sit-1-1,kabiyari-sit-1,tu(')na,sit714,false,expert,Chacon2017,- - t u ') n a,,Chacon2017
+piapoco-sit-1-1,piapoco-sit-1,awinacawa,sit710,false,expert,Chacon2017,- a w i - - - n a k a w a,,Chacon2017
+resigaro-sit-1-1,resigaro-sit-1,ítshú,sit714,false,expert,Chacon2017,í - tsʰ ú - - -,,Chacon2017
+resigaro-sit-2-1,resigaro-sit-2,i?tsháká,sit714,false,expert,Chacon2017,i ʔ tsʰ á k á -,,Chacon2017
+yukuna-sit-1-1,yukuna-sit-1,yá'akajo,sit718,false,expert,Chacon2017,,,Chacon2017
+yukuna-sit-2-1,yukuna-sit-2,yá'akaje,sit718,false,expert,Chacon2017,,,Chacon2017
+achagua-skin-1-1,achagua-skin-1,íimanaʃi,skin728,false,expert,Chacon2017,í - i m a n a ʃ i,,Chacon2017
+baniwa-skin-1-1,baniwa-skin-1,-ya,skin725,false,expert,Chacon2017,,,Chacon2017
+kabiyari-skin-1-1,kabiyari-skin-1,íʔa-mi,skin728,false,expert,Chacon2017,í ʔ a m i - - - -,,Chacon2017
+piapoco-skin-1-1,piapoco-skin-1,ímami,skin728,false,expert,Chacon2017,- - í m a m i - -,,Chacon2017
+resigaro-skin-1-1,resigaro-skin-1,eémú,skin728,false,expert,Chacon2017,e - é m ú - - - -,,Chacon2017
+yukuna-skin-1-1,yukuna-skin-1,ímaji,skin728,false,expert,Chacon2017,- - í m a h i - -,,Chacon2017
+achagua-sleep-1-1,achagua-sleep-1,máairi,sleep738,false,expert,Chacon2017,- - m á - a - i r i,,Chacon2017
+baniwa-sleep-1-1,baniwa-sleep-1,-ímaa,sleep738,false,expert,Chacon2017,- í m aa - - - - - -,,Chacon2017
+kabiyari-sleep-1-1,kabiyari-sleep-1,imáa,sleep738,false,expert,Chacon2017,- i m á - a - - - -,,Chacon2017
+piapoco-sleep-1-1,piapoco-sleep-1,imáca,sleep738,false,expert,Chacon2017,- i m á - - k a - -,,Chacon2017
+resigaro-sleep-1-1,resigaro-sleep-1,ímú,sleep738,false,expert,Chacon2017,- í m ú - - - - - -,,Chacon2017
+yukuna-sleep-1-1,yukuna-sleep-1,kamátakajo,sleep738,false,expert,Chacon2017,k a m á t a k a h o,,Chacon2017
+achagua-small-1-1,achagua-small-1,píituituu,small746,false,expert,Chacon2017,- - p i: t u i t u: - - - -,,Chacon2017
+baniwa-small-1-1,baniwa-small-1,tsúu,small746,false,expert,Chacon2017,- - - - ts ú u - - - - - -,,Chacon2017
+kabiyari-small-1-1,kabiyari-small-1,karitʃhũĩ,small746,false,expert,Chacon2017,k a r i tʃh ũ ĩ - - - - - -,,Chacon2017
+piapoco-small-1-1,piapoco-small-1,achúméeri,small746,false,expert,Chacon2017,- - - a tʃ ú - - - m é: ɾ i,,Chacon2017
+resigaro-small-1-1,resigaro-small-1,karitʃhũĩ,small746,false,expert,Chacon2017,k a r i tʃh ũ ĩ - - - - - -,,Chacon2017
+yukuna-small-1-1,yukuna-small-1,kamu'ujini,small747,false,expert,Chacon2017,,,Chacon2017
+achagua-smoke-1-1,achagua-smoke-1,íisaninaa,smoke755,false,expert,Chacon2017,- - í i s a - n i n aa,,Chacon2017
+baniwa-smoke-1-1,baniwa-smoke-1,íitta,smoke755,false,expert,Chacon2017,- - í i tt a - - - - -,,Chacon2017
+kabiyari-smoke-1-1,kabiyari-smoke-1,ít̪a-ri,smoke755,false,expert,Chacon2017,- - - í t̪ a - r i - -,,Chacon2017
+resigaro-smoke-1-1,resigaro-smoke-1,iítshú,smoke755,false,expert,Chacon2017,- - i í tsʰ ú - - - - -,,Chacon2017
+yukuna-smoke-1-1,yukuna-smoke-1,ija,smoke755,false,expert,Chacon2017,- - - i h a - - - - -,,Chacon2017
+achagua-stand-1-1,achagua-stand-1,bárueriu,stand762,false,expert,Chacon2017,,,Chacon2017
+baniwa-stand-1-1,baniwa-stand-1,-éema,stand759,false,expert,Chacon2017,,,Chacon2017
+kabiyari-stand-1-1,kabiyari-stand-1,patʃha,stand761,false,expert,Chacon2017,,,Chacon2017
+piapoco-stand-1-1,piapoco-stand-1,bàlùanícawa,stand762,false,expert,Chacon2017,,,Chacon2017
+resigaro-stand-1-1,resigaro-stand-1,-i?tóṇú,stand763,false,expert,Chacon2017,,,Chacon2017
+yukuna-stand-1-1,yukuna-stand-1,tára'akajo,stand767,false,expert,Chacon2017,t á r a 'a k a j o,,Chacon2017
+achagua-star-1-1,achagua-star-1,sáalii,star16,false,expert,Chacon2017,,,Chacon2017
+baniwa-star-1-1,baniwa-star-1,hiwírhi,star775,false,expert,Chacon2017,h i w í - - - - rh i - - - -,,Chacon2017
+kabiyari-star-1-1,kabiyari-star-1,wirínhu,star775,false,expert,Chacon2017,- - w i - - - - r í nh u - -,,Chacon2017
+piapoco-star-1-1,piapoco-star-1,dùlupùta,star772,false,expert,Chacon2017,,,Chacon2017
+resigaro-star-1-1,resigaro-star-1,hivíigí,star775,false,expert,Chacon2017,h i v í - - - i g í - - - -,,Chacon2017
+yukuna-star-1-1,yukuna-star-1,iwijrí,star775,false,expert,Chacon2017,- i w i - - - h ɾ í - - - -,,Chacon2017
+achagua-stone-1-1,achagua-stone-1,íiba,stone777,false,expert,Chacon2017,- í i b a - -,,Chacon2017
+baniwa-stone-1-1,baniwa-stone-1,hiipada,stone777,false,expert,Chacon2017,h - ii p a d a,,Chacon2017
+kabiyari-stone-1-1,kabiyari-stone-1,híipa,stone777,false,expert,Chacon2017,h í i p a - -,,Chacon2017
+piapoco-stone-1-1,piapoco-stone-1,íba,stone777,false,expert,Chacon2017,- - í b a - -,,Chacon2017
+resigaro-stone-1-1,resigaro-stone-1,vííši?óú,stone782,false,expert,Chacon2017,,,Chacon2017
+yukuna-stone-1-1,yukuna-stone-1,jipa,stone777,false,expert,Chacon2017,h - i p a - -,,Chacon2017
+achagua-sun-1-1,achagua-sun-1,káiwia,sun788,false,expert,Chacon2017,k á i w i a,,Chacon2017
+baniwa-sun-1-1,baniwa-sun-1,kámoi,sun784,false,expert,Chacon2017,,,Chacon2017
+kabiyari-sun-1-1,kabiyari-sun-1,abe,sun786,false,expert,Chacon2017,,,Chacon2017
+kabiyari-sun-2-1,kabiyari-sun-2,eri,sun789,false,expert,Chacon2017,- e - r i - -,,Chacon2017
+piapoco-sun-1-1,piapoco-sun-1,èeri,sun789,false,expert,Chacon2017,- è e r i - -,,Chacon2017
+resigaro-sun-1-1,resigaro-sun-1,há?í,sun788,false,expert,Chacon2017,h á - ʔ í -,,Chacon2017
+yukuna-sun-1-1,yukuna-sun-1,kamú,sun784,false,expert,Chacon2017,,,Chacon2017
+achagua-swim-1-1,achagua-swim-1,jámareriu,swim795,false,expert,Chacon2017,j á m a r e r i u -,,Chacon2017
+baniwa-swim-1-1,baniwa-swim-1,-aaxaa,swim799,false,expert,Chacon2017,- - - aa ʃ aa - - - - - -,,Chacon2017
+baniwa-swim-2-1,baniwa-swim-2,-aanhi,swim798,false,expert,Chacon2017,,,Chacon2017
+kabiyari-swim-1-1,kabiyari-swim-1,awápa,swim799,false,expert,Chacon2017,- a - - w á p a - - - -,,Chacon2017
+piapoco-swim-1-1,piapoco-swim-1,màlacawa,swim795,false,expert,Chacon2017,- - m à l a k a w a,,Chacon2017
+resigaro-swim-1-1,resigaro-swim-1,o?vápú,swim799,false,expert,Chacon2017,- o ʔ - v á p ú - - - -,,Chacon2017
+yukuna-swim-1-1,yukuna-swim-1,i'iwapakaje,swim799,false,expert,Chacon2017,- i ʔ i w a p a k a h e,,Chacon2017
+achagua-tail-1-1,achagua-tail-1,íiʃiʃi,tail809,false,expert,Chacon2017,í i ʃ i - - - ʃ i,,Chacon2017
+baniwa-tail-1-1,baniwa-tail-1,-iittípi,tail809,false,expert,Chacon2017,- ii tt í - p i - -,,Chacon2017
+kabiyari-tail-1-1,kabiyari-tail-1,t̪ipi,tail809,false,expert,Chacon2017,- - t̪ i - p i - -,,Chacon2017
+kabiyari-tail-2-1,kabiyari-tail-2,muuku,tail811,false,expert,Chacon2017,,,Chacon2017
+piapoco-tail-1-1,piapoco-tail-1,yàapusài,tail806,false,expert,Chacon2017,,,Chacon2017
+resigaro-tail-1-1,resigaro-tail-1,tshíipí,tail809,false,expert,Chacon2017,- - tsʰ í i p í - -,,Chacon2017
+tariana-tail-1-1,tariana-tail-1,di-číma,tail809,false,expert,Chacon2017,d i tʃ í - m a - -,,Chacon2017
+tariana-tail-2-1,tariana-tail-2,di-sipí,tail809,false,expert,Chacon2017,d i s i - p í - -,,Chacon2017
+yukuna-tail-1-1,yukuna-tail-1,jipiji,tail809,false,expert,Chacon2017,- - h i - p i h i,,Chacon2017
+achagua-that-1-1,achagua-that-1,liára,that826,false,expert,Chacon2017,l i á r a - -,,Chacon2017
+achagua-that-2-1,achagua-that-2,ruára,that826,false,expert,Chacon2017,r u á r a - -,,Chacon2017
+baniwa-that-1-1,baniwa-that-1,lhiera(ha),that826,false,expert,Chacon2017,lh i e r a h a,,Chacon2017
+kabiyari-that-1-1,kabiyari-that-1,ja-ta,that826,false,expert,Chacon2017,j - a t a - -,,Chacon2017
+kabiyari-that-2-1,kabiyari-that-2,ja-ra,that826,false,expert,Chacon2017,j - a r a - -,,Chacon2017
+piapoco-that-1-1,piapoco-that-1,yáara,that826,false,expert,Chacon2017,j - á: ɾ a - -,,Chacon2017
+resigaro-that-1-1,resigaro-that-1,aí,that20,false,expert,Chacon2017,,,Chacon2017
+yukuna-that-1-1,yukuna-that-1,marí,that820,false,expert,Chacon2017,,,Chacon2017
+warekena-that-1-1,warekena-that-1,-la,that826,false,expert,Chacon2017,l - a - - - -,,Chacon2017
+warekena-that-2-1,warekena-that-2,-di,that831,false,expert,Chacon2017,- - d i - -,,Chacon2017
+warekena-that-3-1,warekena-that-3,-ni,that831,false,expert,Chacon2017,- - n i - -,,Chacon2017
+achagua-this-1-1,achagua-this-1,liáni,this826,false,expert,Chacon2017,,,Chacon2017
+achagua-this-2-1,achagua-this-2,ruani,this835,false,expert,Chacon2017,,,Chacon2017
+achagua-this-3-1,achagua-this-3,náani,this837,false,expert,Chacon2017,,,Chacon2017
+baniwa-this-1-1,baniwa-this-1,Ihíehe,this826,false,expert,Chacon2017,,,Chacon2017
+kabiyari-this-1-1,kabiyari-this-1,do?ó,this835,false,expert,Chacon2017,,,Chacon2017
+piapoco-this-1-1,piapoco-this-1,yái,this20,false,expert,Chacon2017,,,Chacon2017
+piapoco-this-2-1,piapoco-this-2,úái,this835,false,expert,Chacon2017,,,Chacon2017
+resigaro-this-1-1,resigaro-this-1,gi?í,this831,false,expert,Chacon2017,- - g i ? í,,Chacon2017
+resigaro-this-2-1,resigaro-this-2,do?ó,this835,false,expert,Chacon2017,,,Chacon2017
+tariana-this-1-1,tariana-this-1,hĩ,this831,false,expert,Chacon2017,- - h ĩ - -,,Chacon2017
+yukuna-this-1-1,yukuna-this-1,kele,this831,false,expert,Chacon2017,k e l e - -,,Chacon2017
+warekena-this-1-1,warekena-this-1,-ti,this831,false,expert,Chacon2017,- - t i - -,,Chacon2017
+achagua-thouyou-1-1,achagua-thouyou-1,ijá,thouyou844,false,expert,Chacon2017,,,Chacon2017
+baniwa-thouyou-1-1,baniwa-thouyou-1,hía,thouyou21,false,expert,Chacon2017,,,Chacon2017
+baniwa-thouyou-2-1,baniwa-thouyou-2,você,thouyou847,false,expert,Chacon2017,,,Chacon2017
+kabiyari-thouyou-1-1,kabiyari-thouyou-1,phé,thouyou21,false,expert,Chacon2017,,,Chacon2017
+kabiyari-thouyou-2-1,kabiyari-thouyou-2,pi-,thouyou21,false,expert,Chacon2017,,,Chacon2017
+piapoco-thouyou-1-1,piapoco-thouyou-1,pía,thouyou21,false,expert,Chacon2017,,,Chacon2017
+resigaro-thouyou-1-1,resigaro-thouyou-1,ha?,thouyou843,false,expert,Chacon2017,,,Chacon2017
+resigaro-thouyou-2-1,resigaro-thouyou-2,phá,thouyou21,false,expert,Chacon2017,,,Chacon2017
+resigaro-thouyou-3-1,resigaro-thouyou-3,phú,thouyou21,false,expert,Chacon2017,,,Chacon2017
+tariana-thouyou-1-1,tariana-thouyou-1,piha,thouyou21,false,expert,Chacon2017,,,Chacon2017
+tariana-thouyou-2-1,tariana-thouyou-2,piha,thouyou21,false,expert,Chacon2017,,,Chacon2017
+tariana-thouyou-3-1,tariana-thouyou-3,iha,thouyou844,false,expert,Chacon2017,,,Chacon2017
+yukuna-thouyou-1-1,yukuna-thouyou-1,iká,thouyou844,false,expert,Chacon2017,,,Chacon2017
+yukuna-thouyou-2-1,yukuna-thouyou-2,piká,thouyou21,false,expert,Chacon2017,,,Chacon2017
+achagua-tongue-1-1,achagua-tongue-1,ínaneeʃi,tongue857,false,expert,Chacon2017,- - í n a n ee ʃ i,,Chacon2017
+baniwa-tongue-1-1,baniwa-tongue-1,-eenene,tongue857,false,expert,Chacon2017,- - ee n e n e - -,,Chacon2017
+kabiyari-tongue-1-1,kabiyari-tongue-1,nenipá,tongue857,false,expert,Chacon2017,- n e n i - - p á,,Chacon2017
+piapoco-tongue-1-1,piapoco-tongue-1,nène,tongue857,false,expert,Chacon2017,- n è n e - - - -,,Chacon2017
+resigaro-tongue-1-1,resigaro-tongue-1,e?héepé,tongue854,false,expert,Chacon2017,,,Chacon2017
+yukuna-tongue-1-1,yukuna-tongue-1,lenaji,tongue857,false,expert,Chacon2017,- l e n a - - h i,,Chacon2017
+achagua-tooth-1-1,achagua-tooth-1,éeʃi,tooth862,false,expert,Chacon2017,- é e ʃ i - - -,,Chacon2017
+baniwa-tooth-1-1,baniwa-tooth-1,-eetsha,tooth862,false,expert,Chacon2017,- ee - tsh a - - -,,Chacon2017
+baniwa-tooth-2-1,baniwa-tooth-2,-dzawiere,tooth868,false,expert,Chacon2017,,,Chacon2017
+baniwa-tooth-3-1,baniwa-tooth-3,-ee,tooth862,false,expert,Chacon2017,- ee - - - - - -,,Chacon2017
+baniwa-tooth-4-1,baniwa-tooth-4,-kako,tooth871,false,expert,Chacon2017,,,Chacon2017
+baniwa-tooth-5-1,baniwa-tooth-5,-likoe,tooth872,false,expert,Chacon2017,,,Chacon2017
+kabiyari-tooth-1-1,kabiyari-tooth-1,ʔía,tooth862,false,expert,Chacon2017,,,Chacon2017
+piapoco-tooth-1-1,piapoco-tooth-1,yèi,tooth862,false,expert,Chacon2017,,,Chacon2017
+resigaro-tooth-1-1,resigaro-tooth-1,oné,tooth864,false,expert,Chacon2017,,,Chacon2017
+yukuna-tooth-1-1,yukuna-tooth-1,aijí,tooth22,false,expert,Chacon2017,- a i h í - - -,,Chacon2017
+achagua-treewood-1-1,achagua-treewood-1,áikuba,treewood879,false,expert,Chacon2017,- á i k u b a,,Chacon2017
+baniwa-treewood-1-1,baniwa-treewood-1,haiko,treewood879,false,expert,Chacon2017,h a i k o - -,,Chacon2017
+kabiyari-treewood-1-1,kabiyari-treewood-1,ʔahaa,treewood881,false,expert,Chacon2017,ʔ a h aa - - - - - - -,,Chacon2017
+piapoco-treewood-1-1,piapoco-treewood-1,jéetaná,treewood877,false,expert,Chacon2017,j é e t a - - n á,,Chacon2017
+piapoco-treewood-2-1,piapoco-treewood-2,àiku,treewood879,false,expert,Chacon2017,- à i k u - -,,Chacon2017
+resigaro-treewood-1-1,resigaro-treewood-1,aváana?é,treewood881,false,expert,Chacon2017,- a - - v á a n a ʔ é,,Chacon2017
+yukuna-treewood-1-1,yukuna-treewood-1,a'awaná,treewood881,false,expert,Chacon2017,- a ʔ a w a - n á - -,,Chacon2017
+achagua-two-1-1,achagua-two-1,tʃámai,two887,false,expert,Chacon2017,- - - - - tʃ á m a i -,,Chacon2017
+baniwa-two-1-1,baniwa-two-1,dzama-,two887,false,expert,Chacon2017,- - - - - dz a m a - -,,Chacon2017
+kabiyari-two-1-1,kabiyari-two-1,tʃumaa-,two887,false,expert,Chacon2017,- - - - - tʃ u m aa - -,,Chacon2017
+piapoco-two-1-1,piapoco-two-1,pucháiba,two889,false,expert,Chacon2017,,,Chacon2017
+resigaro-two-1-1,resigaro-two-1,migaakú,two890,false,expert,Chacon2017,,,Chacon2017
+yukuna-two-1-1,yukuna-two-1,iyamá,two887,false,expert,Chacon2017,- - - - i j a m á - -,,Chacon2017
+warekena-two-1-1,warekena-two-1,dama-,two887,false,expert,Chacon2017,- - - - - d a m a - -,,Chacon2017
+achagua-walk-1-1,achagua-walk-1,híneriu,walk894,false,expert,Chacon2017,,,Chacon2017
+baniwa-walk-1-1,baniwa-walk-1,-áanhi,walk901,false,expert,Chacon2017,- á a nh i - - - -,,Chacon2017
+baniwa-walk-2-1,baniwa-walk-2,-eemánhi,walk900,false,expert,Chacon2017,- - ee m á nh i,,Chacon2017
+kabiyari-walk-1-1,kabiyari-walk-1,aa,walk901,false,expert,Chacon2017,- aa - - - - - - -,,Chacon2017
+piapoco-walk-1-1,piapoco-walk-1,nuèpunícawa,walk898,false,expert,Chacon2017,,,Chacon2017
+resigaro-walk-1-1,resigaro-walk-1,-hí?vu,walk899,false,expert,Chacon2017,,,Chacon2017
+yukuna-walk-1-1,yukuna-walk-1,ja'apákaje,walk901,false,expert,Chacon2017,j a 'a p á k a j e,,Chacon2017
+achagua-water-1-1,achagua-water-1,ʃiátai,water909,false,expert,Chacon2017,ʃ i á t a i - -,,Chacon2017
+baniwa-water-1-1,baniwa-water-1,óoni,water910,false,expert,Chacon2017,ó o n i,,Chacon2017
+kabiyari-water-1-1,kabiyari-water-1,úuni,water910,false,expert,Chacon2017,ú u n i,,Chacon2017
+piapoco-water-1-1,piapoco-water-1,ú(u)ni,water910,false,expert,Chacon2017,ú u n i,,Chacon2017
+resigaro-water-1-1,resigaro-water-1,hooní,water910,false,expert,Chacon2017,h oo n í,,Chacon2017
+yukuna-water-1-1,yukuna-water-1,juni,water910,false,expert,Chacon2017,h ú n i,,Chacon2017
+achagua-we-1-1,achagua-we-1,wajá,we911,false,expert,Chacon2017,w a j á,,Chacon2017
+baniwa-we-1-1,baniwa-we-1,whía,we911,false,expert,Chacon2017,wh í - a,,Chacon2017
+baniwa-we-2-1,baniwa-we-2,wa-,we911,false,expert,Chacon2017,w a - -,,Chacon2017
+kabiyari-we-1-1,kabiyari-we-1,whé,we911,false,expert,Chacon2017,wh é - -,,Chacon2017
+kabiyari-we-2-1,kabiyari-we-2,wa-,we911,false,expert,Chacon2017,w a - -,,Chacon2017
+piapoco-we-1-1,piapoco-we-1,wía,we911,false,expert,Chacon2017,w í - a,,Chacon2017
+resigaro-we-1-1,resigaro-we-1,muu?á,we916,false,expert,Chacon2017,,,Chacon2017
+resigaro-we-2-1,resigaro-we-2,fa?á,we911,false,expert,Chacon2017,f a ʔ á,,Chacon2017
+tariana-we-1-1,tariana-we-1,w(a)ha,we911,false,expert,Chacon2017,w a )h a,,Chacon2017
+yukuna-we-1-1,yukuna-we-1,weká,we911,false,expert,Chacon2017,w e k á,,Chacon2017
+yukuna-we-2-1,yukuna-we-2,weká,we911,false,expert,Chacon2017,w e k á,,Chacon2017
+warekena-we-1-1,warekena-we-1,wa-,we911,false,expert,Chacon2017,w a - -,,Chacon2017
+warekena-we-2-1,warekena-we-2,-wi,we911,false,expert,Chacon2017,w i - -,,Chacon2017
+achagua-what-1-1,achagua-what-1,tána,what947,false,expert,Chacon2017,,,Chacon2017
+baniwa-what-1-1,baniwa-what-1,kôaka?,what948,false,expert,Chacon2017,,,Chacon2017
+kabiyari-what-1-1,kabiyari-what-1,mikha,what950,false,expert,Chacon2017,,,Chacon2017
+kabiyari-what-2-1,kabiyari-what-2,arhi,what960,false,expert,Chacon2017,- a rh i - - - -,,Chacon2017
+kabiyari-what-3-1,kabiyari-what-3,umha,what959,false,expert,Chacon2017,,,Chacon2017
+piapoco-what-1-1,piapoco-what-1,càiná,what947,false,expert,Chacon2017,,,Chacon2017
+piapoco-what-2-1,piapoco-what-2,cawiná,what947,false,expert,Chacon2017,,,Chacon2017
+resigaro-what-1-1,resigaro-what-1,keeni,what947,false,expert,Chacon2017,,,Chacon2017
+resigaro-what-2-1,resigaro-what-2,kooni,what947,false,expert,Chacon2017,,,Chacon2017
+yukuna-what-1-1,yukuna-what-1,na,what925,false,expert,Chacon2017,,,Chacon2017
+achagua-white-1-1,achagua-white-1,kabálai,white943,false,expert,Chacon2017,k a b á l a i - -,,Chacon2017
+baniwa-white-1-1,baniwa-white-1,hále,white943,false,expert,Chacon2017,- - h á l e - - -,,Chacon2017
+baniwa-white-2-1,baniwa-white-2,yalanawi,white944,false,expert,Chacon2017,,,Chacon2017
+kabiyari-white-1-1,kabiyari-white-1,katare:i-ri,white939,false,expert,Chacon2017,,,Chacon2017
+kabiyari-white-2-1,kabiyari-white-2,jarane,white944,false,expert,Chacon2017,,,Chacon2017
+piapoco-white-1-1,piapoco-white-1,cabalèeri,white943,false,expert,Chacon2017,k a b a l è e ɾ i,,Chacon2017
+yukuna-white-1-1,yukuna-white-1,jareni,white944,false,expert,Chacon2017,,,Chacon2017
+achagua-who-1-1,achagua-who-1,tána,who947,false,expert,Chacon2017,,,Chacon2017
+baniwa-who-1-1,baniwa-who-1,kóaka,who948,false,expert,Chacon2017,,,Chacon2017
+kabiyari-who-1-1,kabiyari-who-1,mikha,who950,false,expert,Chacon2017,,,Chacon2017
+kabiyari-who-2-1,kabiyari-who-2,arhi,who960,false,expert,Chacon2017,- a rh i - - - -,,Chacon2017
+kabiyari-who-3-1,kabiyari-who-3,umha,who959,false,expert,Chacon2017,,,Chacon2017
+piapoco-who-1-1,piapoco-who-1,càiná,who947,false,expert,Chacon2017,,,Chacon2017
+piapoco-who-2-1,piapoco-who-2,cawiná,who947,false,expert,Chacon2017,,,Chacon2017
+resigaro-who-1-1,resigaro-who-1,kéení,who947,false,expert,Chacon2017,,,Chacon2017
+tariana-who-1-1,tariana-who-1,kwana,who947,false,expert,Chacon2017,,,Chacon2017
+yukuna-who-1-1,yukuna-who-1,najlo,who955,false,expert,Chacon2017,,,Chacon2017
+achagua-woman-1-1,achagua-woman-1,íinetoo,woman968,false,expert,Chacon2017,í i n e t oo - -,,Chacon2017
+achagua-woman-2-1,achagua-woman-2,íina,woman968,false,expert,Chacon2017,í i n a - - - -,,Chacon2017
+baniwa-woman-1-1,baniwa-woman-1,íinaro,woman968,false,expert,Chacon2017,í i n a r o - -,,Chacon2017
+kabiyari-woman-1-1,kabiyari-woman-1,nanáwí,woman23,false,expert,Chacon2017,n a n á w í - -,,Chacon2017
+piapoco-woman-1-1,piapoco-woman-1,inanái,woman968,false,expert,Chacon2017,- i n a n á i -,,Chacon2017
+resigaro-woman-1-1,resigaro-woman-1,ináadó,woman968,false,expert,Chacon2017,- i n á a d ó -,,Chacon2017
+yukuna-woman-1-1,yukuna-woman-1,inanaru,woman968,false,expert,Chacon2017,- i n a n a ɾ u,,Chacon2017
+achagua-yellow-1-1,achagua-yellow-1,meréekii,yellow971,false,expert,Chacon2017,,,Chacon2017
+baniwa-yellow-1-1,baniwa-yellow-1,éewa,yellow981,false,expert,Chacon2017,- - - é e w a - -,,Chacon2017
+kabiyari-yellow-1-1,kabiyari-yellow-1,karawa-ri,yellow981,false,expert,Chacon2017,k a r - a w a r i,,Chacon2017
+piapoco-yellow-1-1,piapoco-yellow-1,é(e)wa,yellow981,false,expert,Chacon2017,- - - é e w a - -,,Chacon2017
+piapoco-yellow-2-1,piapoco-yellow-2,éewéeri,yellow981,false,expert,Chacon2017,- - - é: - w é: ɾ i,,Chacon2017
+resigaro-yellow-1-1,resigaro-yellow-1,dogíiga?é?,yellow976,false,expert,Chacon2017,,,Chacon2017
+yukuna-yellow-1-1,yukuna-yellow-1,jewani,yellow981,false,expert,Chacon2017,- - - j e w a n i,,Chacon2017

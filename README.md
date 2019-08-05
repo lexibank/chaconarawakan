@@ -22,7 +22,8 @@ Available online at https://github.com/lexibank/chaconarawakan/
 - **Concepts:** 102
 - **Lexemes:** 711
 - **Synonymy:** 1.23
-- **Cognacy:** 564 cognates in 139 cognate sets
+- **Cognacy:** 711 cognates in 286 cognate sets (147 singletons)
+- **Cognate Diversity:** 0.30
 - **Invalid lexemes:** 0
 - **Tokens:** 3,831
 - **Segments:** 114 (28 BIPA errors, 28 CTLS sound class errors, 86 CLTS modified)
