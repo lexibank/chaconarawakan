@@ -3,7 +3,6 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Chacon-2017-102"
     ],
@@ -13,20 +12,48 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Arawakan and Tukanoan contacts in Northwest Amazonia prehistory",
+    "dcat:accessURL": "https://github.com/lexibank/chaconarawakan",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/chaconarawakan",
+            "dc:created": "v1.0.1-5-gf4aa7c0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.0"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "chaconarawakan",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.1.0-21-g3f9e1f3"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",

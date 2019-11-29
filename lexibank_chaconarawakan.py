@@ -2,22 +2,22 @@ import attr
 import lingpy
 from clldutils.misc import slug
 from clldutils.path import Path
-from pylexibank.dataset import Concept
+from pylexibank import Concept
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import pb
+from pylexibank.util import progressbar
 
 
 @attr.s
-class BDConcept(Concept):
+class CustomConcept(Concept):
     Portuguese_Gloss = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chaconarawakan"
-    concept_class = BDConcept
+    concept_class = CustomConcept
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         # sources are poorly annotated, so we need to correct manually
         src = {
             "H&R92": "huber_vocabulario_1991",
@@ -39,41 +39,106 @@ class Dataset(BaseDataset):
             "Aikhenvald 2001": "aikhenvald_dicionario_2001",
         }
 
-        wl = lingpy.Wordlist(self.raw.posix("arawakan_swadesh_100_edictor.tsv"))
+        # add source
+        args.writer.add_sources()
 
-        with self.cldf as ds:
-            concepts = {}
-            ds.add_sources(*self.raw.read_bib())
+        # add languages
+        languages = args.writer.add_languages(lookup_factory="Name")
 
-            for l in self.languages:
-                ds.add_language(ID=slug(l["Name"]), Name=l["Name"], Glottocode=l["Glottocode"])
-            for concept in self.conceptlist.concepts.values():
-                ds.add_concept(
-                    ID=concept.id,
-                    Name=concept.english,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss,
-                    Portuguese_Gloss=concept.attributes["portuguese"],
+        # add concepts
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: "%s_%s"
+            % (c.id.split("-")[-1], slug(c.english)),
+            lookup_factory="Name",
+        )
+
+        # Hard-coded fixes to segment errors in raw source
+        segments = {
+            "?": "ʔ",
+            "'": "ʔ",
+            "')": "ʔ",
+            "'a": "ʔ a",
+            "'e": "ʔ e",
+            "'i": "ʔ i",
+            "'í": "ʔ í/i",
+            "'o": "ʔ o",
+            "'u": "ʔ u",
+            "(h": "h",
+            ")h": "h",
+            "∫": "ʃ",
+            "á:": "á:/aː",
+            "á": "á/a",
+            "à": "à/a",
+            "ch": "ʃ",
+            "čh": "tʃʰ",
+            "é:": "é:/eː",
+            "é": "é/e",
+            "è": "è/e",
+            "ê": "ê/e",
+            "éː": "éː/eː",
+            "éh": "é/e h",
+            "hn": "ʰn",
+            "hɲ": "ʰɲ",
+            "hr": "hɾ",
+            "hɾ": "h ɾ",
+            "hw": "h w",
+            "í:": "í:/iː",
+            "í": "í/i",
+            "í́": "í/i",
+            "ì": "ì/i",
+            "Ih": "ɪ h",
+            "íí": "íí/iː",
+            "J": "ʒ",
+            "ǰ": "ʒ",
+            "jβ": "j β",
+            "kh": "kʰ",
+            "lh": "ʎ",
+            "ll": "lː",
+            "mh": "mʰ",
+            "nh": "ɲ",
+            "ñh": "ɲ",
+            "ó": "ó/o",
+            "ô": "ô/o",
+            "ph": "pʰ",
+            "rh": "rʰ",
+            "ɻh": "ɻ h",
+            "š": "ʃ",
+            "th": "tʰ",
+            "tsh": "tsʰ",
+            "tʃh": "tʃʰ",
+            "ú:": "ú:/uː",
+            "ú": "ú/u",
+            "ù": "ù/u",
+            "úú": "ú:/uː",
+            "wh": "w h",
+            "ʔh": "ʔ h",
+            "ʔʒ": "ʔ ʒ",
+        }
+
+        # read raw wordlist add lexemes
+        wl_file = self.raw_dir / "arawakan_swadesh_100_edictor.tsv"
+        wl = lingpy.Wordlist(wl_file.as_posix())
+
+        for idx in progressbar(wl, desc="makecldf"):
+            if wl[idx, "value"]:
+                lex = args.writer.add_form_with_segments(
+                    Language_ID=languages[wl[idx, "doculect"]],
+                    Parameter_ID=concepts[wl[idx, "concept"]],
+                    Value=wl[idx, "value"],
+                    Form=wl[idx, "form"],
+                    Segments=" ".join(
+                        [
+                            segments.get(x, x)
+                            for x in wl[idx, "segments"]
+                            if x not in ["(", ")", "[", "]"]
+                        ]
+                    ).split(),
+                    Source=src.get(wl[idx, "source"], ""),
                 )
-                concepts[slug(concept.english)] = concept.id
 
-            for k in pb(wl, desc="wl-to-cldf"):
-                if wl[k, "value"]:
-                    for row in ds.add_lexemes(
-                        Language_ID=slug(wl[k, "doculect"]),
-                        Parameter_ID=concepts[slug(wl[k, "concept"])],
-                        Value=wl[k, "value"],
-                        Form=wl[k, "form"],
-                        Segments=wl[k, "segments"],
-                        Source=src.get(wl[k, "source"], ""),
-                    ):
-
-                        cid = slug(wl[k, "concept"] + "-" + "{0}".format(wl[k, "cogid"]))
-
-                        ds.add_cognate(
-                            lexeme=row,
-                            Cognateset_ID=cid,
-                            Source=["Chacon2017"],
-                            Alignment=wl[k, "alignment"],
-                            Alignment_Source="Chacon2017",
-                        )
+                # add cognate
+                args.writer.add_cognate(
+                    lexeme=lex,
+                    Cognateset_ID=wl[idx, "cogid"],
+                    Source=["Chacon2017"],
+                )
