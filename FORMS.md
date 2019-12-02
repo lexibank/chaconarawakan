@@ -29,5 +29,5 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
 ### Replacement of invalid segmentation
 
 Segments provided in the source data may not be valid according to CLTS.
-63 such segments are listed in [`etc/segments.csv`](etc/segments.csv) and replaced
+64 such segments are listed in [`etc/segments.csv`](etc/segments.csv) and replaced
 as specified in this file.
