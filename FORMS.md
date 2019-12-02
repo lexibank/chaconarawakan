@@ -25,3 +25,9 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Flag signaling whether to normalize whitespace - stripping leading and trailing whitespace and collapsing multi-character whitespace to single spaces
 - `normalize_unicode`: `None`
   UNICODE normalization form to use for input of `split` (`None`, 'NFD' or 'NFC')
+
+### Replacement of invalid segmentation
+
+Segments provided in the source data may not be valid according to CLTS.
+63 such segments are listed in [`etc/segments.csv`](etc/segments.csv) and replaced
+as specified in this file.

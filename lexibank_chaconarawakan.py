@@ -52,69 +52,6 @@ class Dataset(BaseDataset):
             lookup_factory="Name",
         )
 
-        # Hard-coded fixes to segment errors in raw source
-        segments = {
-            "?": "ʔ",
-            "'": "ʔ",
-            "')": "ʔ",
-            "'a": "ʔ a",
-            "'e": "ʔ e",
-            "'i": "ʔ i",
-            "'í": "ʔ í/i",
-            "'o": "ʔ o",
-            "'u": "ʔ u",
-            "(h": "h",
-            ")h": "h",
-            "∫": "ʃ",
-            "á:": "á:/aː",
-            "á": "á/a",
-            "à": "à/a",
-            "ch": "ʃ",
-            "čh": "tʃʰ",
-            "é:": "é:/eː",
-            "é": "é/e",
-            "è": "è/e",
-            "ê": "ê/e",
-            "éː": "éː/eː",
-            "éh": "é/e h",
-            "hn": "ʰn",
-            "hɲ": "ʰɲ",
-            "hr": "hɾ",
-            "hɾ": "h ɾ",
-            "hw": "h w",
-            "í:": "í:/iː",
-            "í": "í/i",
-            "í́": "í/i",
-            "ì": "ì/i",
-            "Ih": "ɪ h",
-            "íí": "íí/iː",
-            "J": "ʒ",
-            "ǰ": "ʒ",
-            "jβ": "j β",
-            "kh": "kʰ",
-            "lh": "ʎ",
-            "ll": "lː",
-            "mh": "mʰ",
-            "nh": "ɲ",
-            "ñh": "ɲ",
-            "ó": "ó/o",
-            "ô": "ô/o",
-            "ph": "pʰ",
-            "rh": "rʰ",
-            "ɻh": "ɻ h",
-            "š": "ʃ",
-            "th": "tʰ",
-            "tsh": "tsʰ",
-            "tʃh": "tʃʰ",
-            "ú:": "ú:/uː",
-            "ú": "ú/u",
-            "ù": "ù/u",
-            "úú": "ú:/uː",
-            "wh": "w h",
-            "ʔh": "ʔ h",
-            "ʔʒ": "ʔ ʒ",
-        }
-
         # read raw wordlist add lexemes
         wl_file = self.raw_dir / "arawakan_swadesh_100_edictor.tsv"
         wl = lingpy.Wordlist(wl_file.as_posix())
@@ -126,13 +63,7 @@ class Dataset(BaseDataset):
                     Parameter_ID=concepts[wl[idx, "concept"]],
                     Value=wl[idx, "value"],
                     Form=wl[idx, "form"],
-                    Segments=" ".join(
-                        [
-                            segments.get(x, x)
-                            for x in wl[idx, "segments"]
-                            if x not in ["(", ")", "[", "]"]
-                        ]
-                    ).split(),
+                    Segments=wl[idx, "segments"],
                     Source=src.get(wl[idx, "source"], ""),
                 )
 

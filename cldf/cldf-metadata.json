@@ -18,13 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chaconarawakan",
-            "dc:created": "v1.0.1-5-gf4aa7c0"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v1.0.1-7-ga855354"
         },
         {
             "rdf:type": "prov:Entity",
@@ -37,6 +31,12 @@
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
