@@ -17,14 +17,14 @@ Conceptlists in Concepticon:
 [![Build Status](https://travis-ci.org/lexibank/chaconarawakan.svg?branch=master)](https://travis-ci.org/lexibank/chaconarawakan)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 46%](https://img.shields.io/badge/Source-46%25-red.svg "Source: 46%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 8
 - **Concepts:** 102
 - **Lexemes:** 711
-- **Sources:** 5
+- **Sources:** 6
 - **Synonymy:** 1.23
 - **Cognacy:** 711 cognates in 276 cognate sets (135 singletons)
 - **Cognate Diversity:** 0.29
@@ -33,8 +33,10 @@ Conceptlists in Concepticon:
 - **Segments:** 78 (0 BIPA errors, 0 CTLS sound class errors, 78 CLTS modified)
 - **Inventory size (avg):** 34.38
 
-## Possible Improvements:
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer
 
 
-
-- Entries missing sources: 381/711 (53.59%)

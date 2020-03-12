@@ -21,15 +21,9 @@ class Dataset(BaseDataset):
         # sources are poorly annotated, so we need to correct manually
         src = {
             "H&R92": "huber_vocabulario_1991",
-            "Klumpp95": "",
             "H&R 1992": "huber_vocabulario_1991",
-            "None": "",
             "Melendez 2011": "melendez_lozano_diccionario_2011",
-            "Epps": "",
-            "Schauer2005": "",
             "Allin 1979": "allin_vocabulario_1979",
-            "Aikhenvald": "",
-            "dp91": "",
             "Aikhenvald 2012": "aikhenvald_dicionario_2012",
             "Aikenvald2001": "aihenvald_dicionario_2001",
             "Oliveira 93": "cunha_de_oliveira_uma_1993",
@@ -47,8 +41,7 @@ class Dataset(BaseDataset):
 
         # add concepts
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: "%s_%s"
-            % (c.id.split("-")[-1], slug(c.english)),
+            id_factory=lambda c: "%s_%s" % (c.id.split("-")[-1], slug(c.english)),
             lookup_factory="Name",
         )
 
@@ -64,12 +57,10 @@ class Dataset(BaseDataset):
                     Value=wl[idx, "value"],
                     Form=wl[idx, "form"],
                     Segments=wl[idx, "segments"],
-                    Source=src.get(wl[idx, "source"], ""),
+                    Source=src.get(wl[idx, "source"], "Chacon2017"),
                 )
 
                 # add cognate
                 args.writer.add_cognate(
-                    lexeme=lex,
-                    Cognateset_ID=wl[idx, "cogid"],
-                    Source=["Chacon2017"],
+                    lexeme=lex, Cognateset_ID=wl[idx, "cogid"], Source=["Chacon2017"]
                 )
