@@ -20,8 +20,8 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         # sources are poorly annotated, so we need to correct manually
         src = {
-            "H&R92": "huber_vocabulario_1991",
-            "H&R 1992": "huber_vocabulario_1991",
+            "H&R92": "huber_vocabulario_1992",
+            "H&R 1992": "huber_vocabulario_1992",
             "Melendez 2011": "melendez_lozano_diccionario_2011",
             "Allin 1979": "allin_vocabulario_1979",
             "Aikhenvald 2012": "aikhenvald_dicionario_2012",
