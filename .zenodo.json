@@ -7,19 +7,21 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Tiago Tresoldi"
-        },
-        {
             "name": "Thiago Costa Chacon"
         }
     ],
     "contributors": [
         {
-            "name": "Thiago Costa Chacon",
-            "type": "DataCollector"
+            "type": "Other",
+            "name": "Johann-Mattis List"
+        },
+        {
+            "type": "Other",
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "type": "DataCollector",
+            "name": "Thiago Costa Chacon"
         }
     ],
     "communities": [
@@ -30,6 +32,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.</p>\n</blockquote>",
     "license": {
-        "id": "GPL-3.0"
+        "id": "CC-BY-4.0"
     }
 }

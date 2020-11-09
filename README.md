@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.
 
-This dataset is licensed under a GPL-3.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://github.com/lexibank/chaconarawakan/
 
@@ -37,8 +37,8 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Tiago Tresoldi | @tresoldi | maintainer | Author
+Johann-Mattis List | @LinguList | maintainer | Other 
+Tiago Tresoldi | @tresoldi | maintainer | Other
 Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCollector
 
 

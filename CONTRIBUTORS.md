@@ -2,6 +2,6 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Tiago Tresoldi | @tresoldi | maintainer | Author
+Johann-Mattis List | @LinguList | maintainer | Other 
+Tiago Tresoldi | @tresoldi | maintainer | Other
 Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCollector
