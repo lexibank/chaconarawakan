@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chaconarawakan",
-            "dc:created": "v1.0.1-18-g1155d80"
+            "dc:created": "v1.0.1-19-g06d377f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -35,14 +35,14 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.7.9"
         },
         {
             "dc:title": "python-packages",

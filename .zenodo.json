@@ -12,16 +12,16 @@
     ],
     "contributors": [
         {
-            "type": "Other",
-            "name": "Johann-Mattis List"
+            "name": "Johann-Mattis List",
+            "type": "Other"
         },
         {
-            "type": "Other",
-            "name": "Tiago Tresoldi"
+            "name": "Tiago Tresoldi",
+            "type": "Other"
         },
         {
-            "type": "DataCollector",
-            "name": "Thiago Costa Chacon"
+            "name": "Thiago Costa Chacon",
+            "type": "DataCollector"
         }
     ],
     "communities": [
