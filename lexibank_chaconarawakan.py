@@ -51,6 +51,8 @@ class Dataset(BaseDataset):
 
         for idx in progressbar(wl, desc="makecldf"):
             if wl[idx, "value"]:
+                if wl[idx, 'segments'][0] == '_':
+                    wl[idx, 'segments'] = wl[idx, 'segments'][1:]
                 lex = args.writer.add_form_with_segments(
                     Language_ID=languages[wl[idx, "doculect"]],
                     Parameter_ID=concepts[wl[idx, "concept"]],

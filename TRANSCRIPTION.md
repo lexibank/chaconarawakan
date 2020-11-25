@@ -55,11 +55,11 @@
 | uu | 7 | ✓ | ✓ |
 | oo | 6 | ✓ | ✓ |
 | tt | 6 | ✓ | ✓ |
-| + | 5 | ✓ | ✓ |
 | dʒ | 5 | ✓ | ✓ |
 | rʰ | 5 | ✓ | ✓ |
 | tʃʰ | 5 | ✓ | ✓ |
 | t̪ | 5 | ✓ | ✓ |
+| + | 4 | ✓ | ✓ |
 | mʰ | 4 | ✓ | ✓ |
 | í:/iː | 4 | ✓ | ✓ |
 | f | 3 | ✓ | ✓ |
@@ -91,7 +91,7 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 
@@ -100,7 +100,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-||
+|------|------------|-----------|--------|------------|
 
 (0 rows)
 
