@@ -1,8 +1,14 @@
 # CLDF dataset derived from Chacon's "Annotated Swadesh Lists for Arawakan Languages" from 2017
 
-Cite the source dataset as
+## How to cite
 
-> Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.
+If you use these data please cite
+- the original source
+  > Chacon, Thiago C. (2017): Arawakan and Tukanoan contacts in Northwest Amazonia prehistory. PAPIA 27(2). 237-265.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -42,3 +48,10 @@ Tiago Tresoldi | @tresoldi | maintainer | Other
 Thiago Costa Chacon | @thiagochacon | maintainer | Author, DataCollector
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
