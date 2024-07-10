@@ -16,6 +16,8 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chaconarawakan"
     concept_class = CustomConcept
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
 
     def cmd_makecldf(self, args):
         # sources are poorly annotated, so we need to correct manually
